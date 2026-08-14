@@ -1,0 +1,26 @@
+[
+  {
+    "draft_id": "1180566029197684737",
+    "league_id": "1180566029197684736",
+    "name": "Front Office Fantasy ",
+    "previous_league_id": "1048273972586016768",
+    "season": "2025",
+    "status": "complete"
+  },
+  {
+    "draft_id": "1048273972586016769",
+    "league_id": "1048273972586016768",
+    "name": "Front Office Fantasy ",
+    "previous_league_id": "941191163778805760",
+    "season": "2024",
+    "status": "complete"
+  },
+  {
+    "draft_id": "941191168518475776",
+    "league_id": "941191163778805760",
+    "name": "Front Office Fantasy ",
+    "previous_league_id": null,
+    "season": "2023",
+    "status": "complete"
+  }
+]
