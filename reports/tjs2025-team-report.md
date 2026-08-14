@@ -3,7 +3,7 @@
 - Team: **TJS2025**
 - Manager: **TJS2025**
 - Roster ID: **10**
-- Players: **22**
+- Players: **24**
 - Taxi: **1**
 - Reserve/IR: **1**
 
@@ -16,6 +16,7 @@
 - Matthew Stafford — QB — LAR
 - Christian McCaffrey — RB — SF
 - James Conner — RB — ARI
+- Jaylen Wright — RB — MIA
 - Kimani Vidal — RB — LAC
 - Omarion Hampton — RB — LAC
 - Ty Johnson — RB — BUF
@@ -31,6 +32,7 @@
 - Kevin Coleman — WR — MIA — taxi
 - Stefon Diggs — WR — WAS
 - Terry McLaurin — WR — WAS
+- Tory Horton — WR — SEA
 
 ## Acquired future picks
 
