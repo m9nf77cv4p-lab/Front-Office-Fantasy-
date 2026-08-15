@@ -24327,7 +24327,7 @@
       ],
       "first_name": "DJ",
       "full_name": "DJ Moore",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Moore",
       "nfl_team": "BUF",
       "player_id": "4983",
@@ -26249,8 +26249,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-15T16:55:28Z",
-    "source_fingerprint": "6dff5d4b206f56cc765910cf2a7e76cfb4deb68bb9fa07f4ebce48fda7af228e"
+    "last_changed_at": "2026-08-15T18:00:54Z",
+    "source_fingerprint": "b13613eb77139389b621a05499f109aa53fc7c834fcc1a0233158301d21c087d"
   },
   "teams": [
     {
