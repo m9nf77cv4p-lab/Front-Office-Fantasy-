@@ -23562,7 +23562,7 @@
       ],
       "first_name": "Skyler",
       "full_name": "Skyler Bell",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Bell",
       "nfl_team": "BUF",
       "player_id": "13402",
@@ -26249,8 +26249,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-15T20:01:18Z",
-    "source_fingerprint": "d31847d92ed200130f274ab7028d25e23f5809fcc7381df9ab5981521bc15f6a"
+    "last_changed_at": "2026-08-15T21:40:30Z",
+    "source_fingerprint": "932cb6a6569cea8eadce87e7adf86f242c1510142c6b348eac614fc7eb3408be"
   },
   "teams": [
     {
