@@ -22734,7 +22734,7 @@
       ],
       "first_name": "Dont'e",
       "full_name": "Dont'e Thornton",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Thornton",
       "nfl_team": "LV",
       "player_id": "12541",
@@ -23649,7 +23649,7 @@
       ],
       "first_name": "Geno",
       "full_name": "Geno Smith",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Smith",
       "nfl_team": "NYJ",
       "player_id": "1373",
@@ -26096,8 +26096,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-14T16:36:07Z",
-    "source_fingerprint": "fb256c7027942d86f4889907bbf62c405641ae7b03d1e9a6c8b7b07f68ae69df"
+    "last_changed_at": "2026-08-14T22:52:55Z",
+    "source_fingerprint": "00bc063a1f18fa5b8c6fd074f11e61a9c4b536e5c5958d6907146919a8221446"
   },
   "teams": [
     {
