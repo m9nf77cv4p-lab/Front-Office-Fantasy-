@@ -21491,7 +21491,7 @@
       ],
       "first_name": "Emanuel",
       "full_name": "Emanuel Wilson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Wilson",
       "nfl_team": "SEA",
       "player_id": "11435",
@@ -26249,8 +26249,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-16T03:16:40Z",
-    "source_fingerprint": "8e7e9ee1229572584654074236998cafae231f49402bfc50c840705c0923eb36"
+    "last_changed_at": "2026-08-16T14:43:47Z",
+    "source_fingerprint": "d8fedcfd7b1ad9cf879708483398266a8e76e0a9bd19ee2b69a8a1946b81e124"
   },
   "teams": [
     {
