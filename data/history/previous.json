@@ -22406,7 +22406,7 @@
       ],
       "first_name": "Quinn",
       "full_name": "Quinn Ewers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Ewers",
       "nfl_team": "MIA",
       "player_id": "12500",
@@ -26249,8 +26249,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-16T17:40:02Z",
-    "source_fingerprint": "224eb28a17f5dbd28ada6bf18b936f6c32ef2a598ffd8c939ba4e3a0d2a06553"
+    "last_changed_at": "2026-08-16T19:00:47Z",
+    "source_fingerprint": "befd76d61240c1ae035176e280a0a69b33595221b12fe994db9a4efe5f45596b"
   },
   "teams": [
     {
