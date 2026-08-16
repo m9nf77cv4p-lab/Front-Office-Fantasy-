@@ -22857,7 +22857,7 @@
       ],
       "first_name": "Dont'e",
       "full_name": "Dont'e Thornton",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Thornton",
       "nfl_team": "LV",
       "player_id": "12541",
@@ -26249,8 +26249,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-16T14:43:47Z",
-    "source_fingerprint": "d8fedcfd7b1ad9cf879708483398266a8e76e0a9bd19ee2b69a8a1946b81e124"
+    "last_changed_at": "2026-08-16T15:41:01Z",
+    "source_fingerprint": "fe80f2f84ec62028fba53f8fbe61fefe103c38c6fb1748bd6ee5830efb9b9933"
   },
   "teams": [
     {

@@ -25842,7 +25842,7 @@
       ],
       "first_name": "Josh",
       "full_name": "Josh Downs",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Downs",
       "nfl_team": "IND",
       "player_id": "9500",
@@ -26249,8 +26249,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-16T15:41:01Z",
-    "source_fingerprint": "fe80f2f84ec62028fba53f8fbe61fefe103c38c6fb1748bd6ee5830efb9b9933"
+    "last_changed_at": "2026-08-16T17:40:02Z",
+    "source_fingerprint": "224eb28a17f5dbd28ada6bf18b936f6c32ef2a598ffd8c939ba4e3a0d2a06553"
   },
   "teams": [
     {
