@@ -21926,7 +21926,7 @@
       ],
       "first_name": "Keon",
       "full_name": "Keon Coleman",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Coleman",
       "nfl_team": "BUF",
       "player_id": "11637",
@@ -22917,7 +22917,7 @@
       ],
       "first_name": "Phil",
       "full_name": "Phil Mafah",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Mafah",
       "nfl_team": "DAL",
       "player_id": "12738",
@@ -25992,7 +25992,7 @@
       ],
       "first_name": "Jordan",
       "full_name": "Jordan Addison",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Addison",
       "nfl_team": "MIN",
       "player_id": "9756",
@@ -26249,8 +26249,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-16T00:00:02Z",
-    "source_fingerprint": "184727e2ee29ac58543c4f27d77c1ba0609844806331354050993bd8b35934fd"
+    "last_changed_at": "2026-08-16T03:16:40Z",
+    "source_fingerprint": "8e7e9ee1229572584654074236998cafae231f49402bfc50c840705c0923eb36"
   },
   "teams": [
     {
