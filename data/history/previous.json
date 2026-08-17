@@ -22055,7 +22055,7 @@
       "years_exp": 2
     },
     "11786": {
-      "age": 22,
+      "age": 23,
       "fantasy_positions": [
         "K"
       ],
@@ -26249,8 +26249,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-16T21:38:53Z",
-    "source_fingerprint": "62b372562048aef051c63e121deffaf3a932ff718362337043d3c66d7db2b2c8"
+    "last_changed_at": "2026-08-17T03:16:31Z",
+    "source_fingerprint": "162daca764a9c00bcd9f3ae48041fa32b2e161999023cc8e7ea10f9c802934d2"
   },
   "teams": [
     {
