@@ -24597,7 +24597,7 @@
       ],
       "first_name": "Tony",
       "full_name": "Tony Pollard",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Pollard",
       "nfl_team": "TEN",
       "player_id": "5967",
@@ -26249,8 +26249,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-17T18:00:36Z",
-    "source_fingerprint": "72fa8abeb3b09443e7b39552d30e908ed280aea689e69a74150f4cf73b988f26"
+    "last_changed_at": "2026-08-17T19:17:52Z",
+    "source_fingerprint": "31ad4484f341f686a6dbe8fb112a0e2ec157f1a0995ffdd1a0179202e5ea68e8"
   },
   "teams": [
     {
