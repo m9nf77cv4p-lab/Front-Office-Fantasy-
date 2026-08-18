@@ -24960,7 +24960,7 @@
       "years_exp": 5
     },
     "7528": {
-      "age": 27,
+      "age": 28,
       "fantasy_positions": [
         "RB"
       ],
@@ -24968,7 +24968,7 @@
       "full_name": "Najee Harris",
       "injury_status": "Questionable",
       "last_name": "Harris",
-      "nfl_team": null,
+      "nfl_team": "NYG",
       "player_id": "7528",
       "position": "RB",
       "status": "Active",
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-18T16:04:30Z",
-    "source_fingerprint": "23c3deaccdb3d57a1d0d0b0c734a47ab083d68ac6b06595230d92b0a39959f99"
+    "last_changed_at": "2026-08-18T17:03:39Z",
+    "source_fingerprint": "5cb202cde5be09bc2009db3b71bb92cb80cd339d120384afad0110b6c050b32f"
   },
   "teams": [
     {

@@ -23601,7 +23601,7 @@
       ],
       "first_name": "Zavion",
       "full_name": "Zavion Thomas",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Thomas",
       "nfl_team": "CHI",
       "player_id": "13411",
@@ -24771,7 +24771,7 @@
       ],
       "first_name": "J.K.",
       "full_name": "J.K. Dobbins",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Dobbins",
       "nfl_team": "DEN",
       "player_id": "6806",
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-18T17:03:39Z",
-    "source_fingerprint": "5cb202cde5be09bc2009db3b71bb92cb80cd339d120384afad0110b6c050b32f"
+    "last_changed_at": "2026-08-18T17:59:43Z",
+    "source_fingerprint": "b827ac6eeac4fb3c21e1a92fb9785b754c269d38e0aa8374f463af0a9c51449c"
   },
   "teams": [
     {
