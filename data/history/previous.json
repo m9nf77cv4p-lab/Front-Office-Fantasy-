@@ -22340,7 +22340,7 @@
       ],
       "first_name": "Tory",
       "full_name": "Tory Horton",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Horton",
       "nfl_team": "SEA",
       "player_id": "12497",
@@ -23166,7 +23166,7 @@
       ],
       "first_name": "Caleb",
       "full_name": "Caleb Douglas",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Douglas",
       "nfl_team": "MIA",
       "player_id": "13296",
@@ -23796,7 +23796,7 @@
       ],
       "first_name": "Geno",
       "full_name": "Geno Smith",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Smith",
       "nfl_team": "NYJ",
       "player_id": "1373",
@@ -23820,7 +23820,7 @@
       "years_exp": 13
     },
     "1479": {
-      "age": 33,
+      "age": 34,
       "fantasy_positions": [
         "WR"
       ],
@@ -23828,7 +23828,7 @@
       "full_name": "Keenan Allen",
       "injury_status": null,
       "last_name": "Allen",
-      "nfl_team": null,
+      "nfl_team": "IND",
       "player_id": "1479",
       "position": "WR",
       "status": "Active",
@@ -24306,7 +24306,7 @@
       ],
       "first_name": "DJ",
       "full_name": "DJ Moore",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Moore",
       "nfl_team": "BUF",
       "player_id": "4983",
@@ -25191,7 +25191,7 @@
       ],
       "first_name": "Cade",
       "full_name": "Cade Otton",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Otton",
       "nfl_team": "TB",
       "player_id": "8111",
@@ -25386,7 +25386,7 @@
       ],
       "first_name": "Garrett",
       "full_name": "Garrett Wilson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Wilson",
       "nfl_team": "NYJ",
       "player_id": "8146",
@@ -25761,7 +25761,7 @@
       ],
       "first_name": "Parker",
       "full_name": "Parker Washington",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Washington",
       "nfl_team": "JAX",
       "player_id": "9487",
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-17T23:44:24Z",
-    "source_fingerprint": "b945352c0f1763bb7631b40a38080e71f8221093794e151d99b1dc4821c30f32"
+    "last_changed_at": "2026-08-18T14:02:10Z",
+    "source_fingerprint": "fa5a759ea0d308c03f7fd0b190549677aa57332ddd614b8a221025f8a724a1ac"
   },
   "teams": [
     {
