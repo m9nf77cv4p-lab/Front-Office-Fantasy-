@@ -22205,7 +22205,7 @@
       ],
       "first_name": "Jayden",
       "full_name": "Jayden Higgins",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "Higgins",
       "nfl_team": "HOU",
       "player_id": "12484",
@@ -24576,7 +24576,7 @@
       ],
       "first_name": "Tony",
       "full_name": "Tony Pollard",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Pollard",
       "nfl_team": "TEN",
       "player_id": "5967",
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-19T15:16:57Z",
-    "source_fingerprint": "9fbcdf25d2522f90f63fc4346c91bef8b012f811fb9d1291cf8d7b78052d07bc"
+    "last_changed_at": "2026-08-19T16:51:52Z",
+    "source_fingerprint": "76313f5e867c4dd10d636e1873a3f976c6f90daed419287a5ae0471598924f2d"
   },
   "teams": [
     {
