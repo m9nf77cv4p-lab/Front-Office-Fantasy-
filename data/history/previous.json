@@ -24936,7 +24936,7 @@
       ],
       "first_name": "Jaylen",
       "full_name": "Jaylen Waddle",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Waddle",
       "nfl_team": "DEN",
       "player_id": "7526",
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-19T16:51:52Z",
-    "source_fingerprint": "76313f5e867c4dd10d636e1873a3f976c6f90daed419287a5ae0471598924f2d"
+    "last_changed_at": "2026-08-19T17:52:46Z",
+    "source_fingerprint": "fbde9704d1ff6b2371c6a2e9afdd5c73ffbc9e980e842200c464faef6ab78140"
   },
   "teams": [
     {
