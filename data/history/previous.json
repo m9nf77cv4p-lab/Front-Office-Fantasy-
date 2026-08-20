@@ -23676,7 +23676,7 @@
       ],
       "first_name": "Bryce",
       "full_name": "Bryce Lance",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Lance",
       "nfl_team": "NO",
       "player_id": "13420",
@@ -25401,7 +25401,7 @@
       ],
       "first_name": "Jameson",
       "full_name": "Jameson Williams",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Williams",
       "nfl_team": "DET",
       "player_id": "8148",
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-19T20:58:42Z",
-    "source_fingerprint": "7feb35a37101217a6c435b11be01f172feaa80057f0cc1ad6ec3c6fc20018acd"
+    "last_changed_at": "2026-08-19T21:55:12Z",
+    "source_fingerprint": "41a0806ec4d97ecd3dc2686513aa89baf240de4d52de20ac7ef676a17cdb1c80"
   },
   "teams": [
     {
