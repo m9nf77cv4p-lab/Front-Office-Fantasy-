@@ -21440,7 +21440,7 @@
       ],
       "first_name": "Sam",
       "full_name": "Sam LaPorta",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "LaPorta",
       "nfl_team": "DET",
       "player_id": "10859",
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-20T15:52:57Z",
-    "source_fingerprint": "ce740786eeb45d0e2e9d49b7d8ea87642209408c15c004d578d93f927fb0a491"
+    "last_changed_at": "2026-08-20T17:05:28Z",
+    "source_fingerprint": "0274762e4deff9bcb09dc7405c33420446f173a6f1021868365e1083124901ad"
   },
   "teams": [
     {
