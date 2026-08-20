@@ -25296,7 +25296,7 @@
       ],
       "first_name": "Khalil",
       "full_name": "Khalil Shakir",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Shakir",
       "nfl_team": "BUF",
       "player_id": "8134",
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-20T17:05:28Z",
-    "source_fingerprint": "0274762e4deff9bcb09dc7405c33420446f173a6f1021868365e1083124901ad"
+    "last_changed_at": "2026-08-20T18:01:30Z",
+    "source_fingerprint": "fc6acbad8a16c2b73e6d54faaf7b1ce4a7acea65b57cd313c78a8fc13df6962d"
   },
   "teams": [
     {
