@@ -23385,7 +23385,7 @@
       "years_exp": 0
     },
     "13345": {
-      "age": 22,
+      "age": 23,
       "fantasy_positions": [
         "RB"
       ],
@@ -23670,7 +23670,7 @@
       "years_exp": 0
     },
     "13420": {
-      "age": 23,
+      "age": 24,
       "fantasy_positions": [
         "WR"
       ],
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-19T21:55:12Z",
-    "source_fingerprint": "41a0806ec4d97ecd3dc2686513aa89baf240de4d52de20ac7ef676a17cdb1c80"
+    "last_changed_at": "2026-08-20T03:10:05Z",
+    "source_fingerprint": "133959bfebfe0af5016d860337518ea00840b0b40a1448718aa0eb86aa690102"
   },
   "teams": [
     {
