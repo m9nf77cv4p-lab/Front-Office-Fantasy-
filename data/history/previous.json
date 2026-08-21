@@ -23526,7 +23526,7 @@
       ],
       "first_name": "Michael",
       "full_name": "Michael Trigg",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Trigg",
       "nfl_team": "DAL",
       "player_id": "13401",
@@ -24306,7 +24306,7 @@
       ],
       "first_name": "DJ",
       "full_name": "DJ Moore",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Moore",
       "nfl_team": "BUF",
       "player_id": "4983",
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-20T18:01:30Z",
-    "source_fingerprint": "fc6acbad8a16c2b73e6d54faaf7b1ce4a7acea65b57cd313c78a8fc13df6962d"
+    "last_changed_at": "2026-08-20T19:46:08Z",
+    "source_fingerprint": "ed6974fa1b273d7bf85ea30cbf6f57e0bff689c12999458469d19accc74c35bf"
   },
   "teams": [
     {
