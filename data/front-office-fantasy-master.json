@@ -22520,7 +22520,7 @@
       ],
       "first_name": "Tre'",
       "full_name": "Tre' Harris",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Harris",
       "nfl_team": "LAC",
       "player_id": "12509",
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-21T03:30:14Z",
-    "source_fingerprint": "51a4a0117543b0a9f0d876e2fac705db5d4ad10db135abc7f851a65e182ea2b2"
+    "last_changed_at": "2026-08-21T17:05:25Z",
+    "source_fingerprint": "cced2895d2437bd9a501563953e0018ee7ceb4225b3b45d8984909882a7c01ab"
   },
   "teams": [
     {
