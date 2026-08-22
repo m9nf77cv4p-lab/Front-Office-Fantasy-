@@ -23340,7 +23340,7 @@
       ],
       "first_name": "Kevin",
       "full_name": "Kevin Coleman",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Coleman",
       "nfl_team": "MIA",
       "player_id": "13338",
@@ -26162,8 +26162,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-22T21:41:06Z",
-    "source_fingerprint": "4330f4c37fa52e14d8badaddf3233c5328a354910984e59503e7863061822faf"
+    "last_changed_at": "2026-08-22T23:40:52Z",
+    "source_fingerprint": "0bd9596bb7e53f0650cfea7583b1b486b22e700db0fefd312ef9cd7c88319dfc"
   },
   "teams": [
     {
