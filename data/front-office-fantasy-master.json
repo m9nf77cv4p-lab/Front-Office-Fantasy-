@@ -22394,7 +22394,7 @@
       ],
       "first_name": "Isaiah",
       "full_name": "Isaiah Bond",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Bond",
       "nfl_team": "CLE",
       "player_id": "12503",
@@ -26162,8 +26162,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-22T16:55:51Z",
-    "source_fingerprint": "9e3ed79cac1b93940a2c64a182ef308d688f38a8990a595490834e91daf22225"
+    "last_changed_at": "2026-08-22T19:47:45Z",
+    "source_fingerprint": "d6ad273a734f37fc5fb8708370c0aa8326e50f5c86ba82ed68ddd6610db571a7"
   },
   "teams": [
     {
