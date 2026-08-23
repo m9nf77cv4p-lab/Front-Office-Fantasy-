@@ -22664,7 +22664,7 @@
       ],
       "first_name": "Ashton",
       "full_name": "Ashton Jeanty",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Jeanty",
       "nfl_team": "LV",
       "player_id": "12527",
@@ -26162,8 +26162,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-23T17:40:31Z",
-    "source_fingerprint": "593474aea93e1544a2c237d620802485f1af022826623ef503c4bcde2988efac"
+    "last_changed_at": "2026-08-23T22:01:25Z",
+    "source_fingerprint": "c3217027f82897f7be159912ea5cd6a3c33ac7a07a1a49374a75b6a64028c073"
   },
   "teams": [
     {
