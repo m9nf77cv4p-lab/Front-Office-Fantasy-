@@ -23265,7 +23265,7 @@
       ],
       "first_name": "Oscar",
       "full_name": "Oscar Delp",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Delp",
       "nfl_team": "NO",
       "player_id": "13319",
@@ -26162,8 +26162,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-24T21:57:06Z",
-    "source_fingerprint": "45556b3b4ecefe471866239b355bda263dfe6f0536e0164aaedf2d1b56b5e385"
+    "last_changed_at": "2026-08-24T23:48:00Z",
+    "source_fingerprint": "199734ccea2821579d21eadacb03395e5780c15d1bc9a8c39c5020b1cd69c9d8"
   },
   "teams": [
     {

@@ -21659,7 +21659,7 @@
       ],
       "first_name": "Theo",
       "full_name": "Theo Johnson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Johnson",
       "nfl_team": "NYG",
       "player_id": "11597",
@@ -26162,8 +26162,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-24T20:58:44Z",
-    "source_fingerprint": "7073c3d55bd5f9fa7d38765c3ba6bf2251e7c6b4c178d37046b3908f0d330d58"
+    "last_changed_at": "2026-08-24T21:57:06Z",
+    "source_fingerprint": "45556b3b4ecefe471866239b355bda263dfe6f0536e0164aaedf2d1b56b5e385"
   },
   "teams": [
     {
