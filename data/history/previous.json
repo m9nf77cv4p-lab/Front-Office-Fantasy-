@@ -22349,7 +22349,7 @@
       ],
       "first_name": "Quinn",
       "full_name": "Quinn Ewers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Ewers",
       "nfl_team": "MIA",
       "player_id": "12500",
@@ -23235,7 +23235,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Bell",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Bell",
       "nfl_team": "MIA",
       "player_id": "13311",
@@ -26162,8 +26162,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-24T03:33:20Z",
-    "source_fingerprint": "085d9fda10ce25225632f9b783306e6838d66b3b50cb4ba2d791988565426bbc"
+    "last_changed_at": "2026-08-24T16:05:15Z",
+    "source_fingerprint": "d33a2302a84b30112f152c13e62f28e31ecfccee924fa348a2680370a96fb71f"
   },
   "teams": [
     {
