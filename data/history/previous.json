@@ -22679,7 +22679,7 @@
       ],
       "first_name": "TreVeyon",
       "full_name": "TreVeyon Henderson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Henderson",
       "nfl_team": "NE",
       "player_id": "12529",
@@ -23115,7 +23115,7 @@
       ],
       "first_name": "Makai",
       "full_name": "Makai Lemon",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Lemon",
       "nfl_team": "PHI",
       "player_id": "13294",
@@ -23415,7 +23415,7 @@
       ],
       "first_name": "Eli",
       "full_name": "Eli Stowers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Stowers",
       "nfl_team": "PHI",
       "player_id": "13349",
@@ -24870,7 +24870,7 @@
       ],
       "first_name": "DeVonta",
       "full_name": "DeVonta Smith",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Smith",
       "nfl_team": "PHI",
       "player_id": "7525",
@@ -26162,8 +26162,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-24T16:05:15Z",
-    "source_fingerprint": "d33a2302a84b30112f152c13e62f28e31ecfccee924fa348a2680370a96fb71f"
+    "last_changed_at": "2026-08-24T17:49:21Z",
+    "source_fingerprint": "65c4981138db051a830c2038d4b8ebb6fd7924cfa54e8c0b458043b81fddd39e"
   },
   "teams": [
     {

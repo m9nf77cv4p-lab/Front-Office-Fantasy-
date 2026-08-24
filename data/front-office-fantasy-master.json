@@ -25787,7 +25787,7 @@
       "full_name": "Kayshon Boutte",
       "injury_status": null,
       "last_name": "Boutte",
-      "nfl_team": "NE",
+      "nfl_team": "HOU",
       "player_id": "9504",
       "position": "WR",
       "status": "Active",
@@ -26162,8 +26162,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-24T17:49:21Z",
-    "source_fingerprint": "65c4981138db051a830c2038d4b8ebb6fd7924cfa54e8c0b458043b81fddd39e"
+    "last_changed_at": "2026-08-24T20:58:44Z",
+    "source_fingerprint": "7073c3d55bd5f9fa7d38765c3ba6bf2251e7c6b4c178d37046b3908f0d330d58"
   },
   "teams": [
     {
