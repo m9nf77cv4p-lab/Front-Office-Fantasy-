@@ -22073,7 +22073,7 @@
       "years_exp": 1
     },
     "12471": {
-      "age": 22,
+      "age": 23,
       "fantasy_positions": [
         "RB"
       ],
@@ -22860,7 +22860,7 @@
       ],
       "first_name": "Phil",
       "full_name": "Phil Mafah",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Mafah",
       "nfl_team": "DAL",
       "player_id": "12738",
@@ -23019,7 +23019,7 @@
       "years_exp": 0
     },
     "13285": {
-      "age": 22,
+      "age": 23,
       "fantasy_positions": [
         "WR"
       ],
@@ -25359,7 +25359,7 @@
       "years_exp": 4
     },
     "8150": {
-      "age": 25,
+      "age": 26,
       "fantasy_positions": [
         "RB"
       ],
@@ -26162,8 +26162,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-25T21:56:57Z",
-    "source_fingerprint": "68269de91044a03a4e16a7696a81198f43c9a5fa1134b2397d2c5dbf990be7d2"
+    "last_changed_at": "2026-08-26T03:34:00Z",
+    "source_fingerprint": "087defb24881663e23fcd87ec8813a64703e471ffa554b642549d767ee9bee76"
   },
   "teams": [
     {
