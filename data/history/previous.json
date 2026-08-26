@@ -21644,7 +21644,7 @@
       ],
       "first_name": "Trey",
       "full_name": "Trey Benson",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Benson",
       "nfl_team": null,
       "player_id": "11589",
@@ -23460,7 +23460,7 @@
       ],
       "first_name": "Jeff",
       "full_name": "Jeff Caldwell",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Caldwell",
       "nfl_team": null,
       "player_id": "13392",
@@ -26162,8 +26162,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-25T20:03:32Z",
-    "source_fingerprint": "9c005baf3d41c85c7fc966ced2f879c214b60eb43571b5adedcbdc32948d8ee7"
+    "last_changed_at": "2026-08-25T21:56:57Z",
+    "source_fingerprint": "68269de91044a03a4e16a7696a81198f43c9a5fa1134b2397d2c5dbf990be7d2"
   },
   "teams": [
     {
