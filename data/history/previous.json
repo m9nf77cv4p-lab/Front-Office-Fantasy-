@@ -25971,7 +25971,7 @@
       ],
       "first_name": "Zay",
       "full_name": "Zay Flowers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Flowers",
       "nfl_team": "BAL",
       "player_id": "9997",
@@ -26198,8 +26198,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-26T07:58:29Z",
-    "source_fingerprint": "6298e05be420509a8dc73d4509336b08b5e806cccad558c7adb7733524f9556f"
+    "last_changed_at": "2026-08-26T16:56:25Z",
+    "source_fingerprint": "ff50d21f2e5022ab682cf0df8795562cee187d4f868623973a0d3f614d95be5d"
   },
   "teams": [
     {
