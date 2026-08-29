@@ -22220,7 +22220,7 @@
       ],
       "first_name": "Tez",
       "full_name": "Tez Johnson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Johnson",
       "nfl_team": "TB",
       "player_id": "12485",
@@ -22731,7 +22731,7 @@
       ],
       "first_name": "Trevor",
       "full_name": "Trevor Etienne",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Etienne",
       "nfl_team": "CAR",
       "player_id": "12531",
@@ -26198,8 +26198,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-29T02:31:39Z",
-    "source_fingerprint": "413b6db42c070ed4d56053d56313f15577c3af1a3f2c0ff8c5be25a5a8fc1d0c"
+    "last_changed_at": "2026-08-29T02:38:23Z",
+    "source_fingerprint": "48a26e764068e35ea71f278ba76f44a53e20ab75780ec3d104c17eaec3840476"
   },
   "teams": [
     {
@@ -26315,7 +26315,7 @@
       ],
       "reserve_ids": [
         "11589",
-        "4981",
+        "13353",
         "7528"
       ],
       "roster_id": 2,

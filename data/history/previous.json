@@ -26198,8 +26198,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-29T01:21:56Z",
-    "source_fingerprint": "f2aae899ebc41b0d30528feb217e405c8efa22fe83d092aec6e3c9fc314a5cdb"
+    "last_changed_at": "2026-08-29T02:31:39Z",
+    "source_fingerprint": "413b6db42c070ed4d56053d56313f15577c3af1a3f2c0ff8c5be25a5a8fc1d0c"
   },
   "teams": [
     {
@@ -26314,6 +26314,7 @@
         "HOU"
       ],
       "reserve_ids": [
+        "11589",
         "4981",
         "7528"
       ],
@@ -26345,7 +26346,6 @@
       "taxi_ids": [
         "13346",
         "13347",
-        "13353",
         "13420"
       ],
       "team_name": "Driggsysmalls"
