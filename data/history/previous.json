@@ -22085,7 +22085,7 @@
       ],
       "first_name": "Jordan",
       "full_name": "Jordan James",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "James",
       "nfl_team": "SF",
       "player_id": "12467",
@@ -25551,7 +25551,7 @@
       ],
       "first_name": "Cameron",
       "full_name": "Cameron Dicker",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Dicker",
       "nfl_team": "LAC",
       "player_id": "8259",
@@ -25911,7 +25911,7 @@
       ],
       "first_name": "Quentin",
       "full_name": "Quentin Johnston",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Johnston",
       "nfl_team": "LAC",
       "player_id": "9754",
@@ -26198,8 +26198,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-28T01:30:17Z",
-    "source_fingerprint": "28b0fa5d594526d8601bdc38d6dcfa9a075565d2599fbbb98c687de6f3b61b94"
+    "last_changed_at": "2026-08-28T21:54:06Z",
+    "source_fingerprint": "394291db3e9ccb685649adf0af29614ba496b3d1e04a3a4c1000ec99d9100e7d"
   },
   "teams": [
     {
