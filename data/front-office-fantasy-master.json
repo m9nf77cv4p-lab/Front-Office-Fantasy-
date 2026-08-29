@@ -23721,7 +23721,7 @@
       ],
       "first_name": "Will",
       "full_name": "Will Kacmarek",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Kacmarek",
       "nfl_team": "MIA",
       "player_id": "13434",
@@ -26198,8 +26198,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-29T13:26:36Z",
-    "source_fingerprint": "518e3ae2043236b8c915c1b55b698162a7d9c0844fd6f2f93cefc8186cb69f8e"
+    "last_changed_at": "2026-08-29T17:14:58Z",
+    "source_fingerprint": "fb6d2e404e8c8ce31f00ed9a76df23fc7a76ee2b6c84f2db16f2f3355273c810"
   },
   "teams": [
     {
