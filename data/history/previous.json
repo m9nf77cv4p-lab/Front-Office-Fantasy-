@@ -21980,7 +21980,7 @@
       ],
       "first_name": "Tyrone",
       "full_name": "Tyrone Tracy",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Tracy",
       "nfl_team": "NYG",
       "player_id": "11655",
@@ -26198,8 +26198,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-29T03:23:03Z",
-    "source_fingerprint": "f9021e40212f9b162fdfc85b3dec41ef6bc3dcf33a597065d7a607b50474cade"
+    "last_changed_at": "2026-08-29T03:43:11Z",
+    "source_fingerprint": "454793db0c5f1fc5b09a53658e007db8fe2f816bd625221e2b215db72c1299ab"
   },
   "teams": [
     {
