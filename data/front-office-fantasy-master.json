@@ -22163,7 +22163,7 @@
       ],
       "first_name": "Dillon",
       "full_name": "Dillon Gabriel",
-      "injury_status": null,
+      "injury_status": "IR",
       "last_name": "Gabriel",
       "nfl_team": "CLE",
       "player_id": "12486",
@@ -26096,8 +26096,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-30T19:08:02Z",
-    "source_fingerprint": "6029cfff40255915fcec1beac878823e964678262c9d83e219a6406c22c281d8"
+    "last_changed_at": "2026-08-30T20:48:57Z",
+    "source_fingerprint": "10c691c488baf48d432124d9768af68aed4e369f417a8f6f82e10ee1e53b327e"
   },
   "teams": [
     {
