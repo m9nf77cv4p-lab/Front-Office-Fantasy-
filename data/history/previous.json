@@ -22387,7 +22387,7 @@
       "full_name": "Quinn Ewers",
       "injury_status": null,
       "last_name": "Ewers",
-      "nfl_team": "MIA",
+      "nfl_team": "JAX",
       "player_id": "12500",
       "position": "QB",
       "status": "Active",
@@ -26198,8 +26198,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-29T21:16:31Z",
-    "source_fingerprint": "50e60e2f0135a668553c1e8f11c355c186fa90c170c5af69b4d4f629b79173a3"
+    "last_changed_at": "2026-08-29T21:48:06Z",
+    "source_fingerprint": "0201fd8903ffce859c903ec69df8f6e19f2139378a2b9dd49aa2e4fc809d8721"
   },
   "teams": [
     {
