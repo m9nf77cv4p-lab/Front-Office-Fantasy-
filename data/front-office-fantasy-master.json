@@ -22447,7 +22447,7 @@
       "full_name": "Kaleb Johnson",
       "injury_status": null,
       "last_name": "Johnson",
-      "nfl_team": "PIT",
+      "nfl_team": "GB",
       "player_id": "12504",
       "position": "RB",
       "status": "Active",
@@ -26198,8 +26198,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-30T16:48:14Z",
-    "source_fingerprint": "202f37de536993722888d296066daaa36b58df3a7f5bfd2c0a717c1be3ef85e1"
+    "last_changed_at": "2026-08-30T18:29:56Z",
+    "source_fingerprint": "68f67ae011e7ba66870cdc2673f0c8b4c4bdaebc15ff4d97835355227473d3be"
   },
   "teams": [
     {
