@@ -26198,8 +26198,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-30T12:58:47Z",
-    "source_fingerprint": "2da2c3bf21e05dab399d51b7940ef0c77543906484f4f243499278d1f58c2768"
+    "last_changed_at": "2026-08-30T14:15:03Z",
+    "source_fingerprint": "d5be5ec95a2b4378356a05c086104f122bfabf9ba6c85ad2ef62fc4876637a89"
   },
   "teams": [
     {
@@ -27015,8 +27015,8 @@
         "DAL"
       ],
       "taxi_ids": [
-        "11575",
-        "12483"
+        "12483",
+        "13400"
       ],
       "team_name": "Knockin on HeavensShedeur"
     }

@@ -23543,7 +23543,7 @@
       "full_name": "Jam Miller",
       "injury_status": null,
       "last_name": "Miller",
-      "nfl_team": "NE",
+      "nfl_team": null,
       "player_id": "13403",
       "position": "RB",
       "status": "Active",
@@ -26198,8 +26198,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-30T14:15:03Z",
-    "source_fingerprint": "d5be5ec95a2b4378356a05c086104f122bfabf9ba6c85ad2ef62fc4876637a89"
+    "last_changed_at": "2026-08-30T16:41:50Z",
+    "source_fingerprint": "7407b437689a338d558c4a84846daf99d348a1a72350d1c4f7823593e6a136ed"
   },
   "teams": [
     {
