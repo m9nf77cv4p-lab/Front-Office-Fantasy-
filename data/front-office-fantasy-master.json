@@ -23976,7 +23976,7 @@
       ],
       "first_name": "Tyreek",
       "full_name": "Tyreek Hill",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Hill",
       "nfl_team": null,
       "player_id": "3321",
@@ -26198,8 +26198,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-30T00:27:31Z",
-    "source_fingerprint": "114a965f06b81ad4ab5a8d36705c7644b7e5e38109189cacfd8b9c18aed86310"
+    "last_changed_at": "2026-08-30T12:58:47Z",
+    "source_fingerprint": "2da2c3bf21e05dab399d51b7940ef0c77543906484f4f243499278d1f58c2768"
   },
   "teams": [
     {
