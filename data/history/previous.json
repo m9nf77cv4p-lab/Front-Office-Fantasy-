@@ -22103,12 +22103,12 @@
       ],
       "first_name": "Savion",
       "full_name": "Savion Williams",
-      "injury_status": null,
+      "injury_status": "IR",
       "last_name": "Williams",
       "nfl_team": "GB",
       "player_id": "12482",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 1
     },
     "12483": {
@@ -22964,7 +22964,7 @@
       "nfl_team": "NO",
       "player_id": "13281",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 0
     },
     "13285": {
@@ -26096,8 +26096,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-30T22:37:44Z",
-    "source_fingerprint": "0a55cfd4120c00a4093431b5d592e7215c7a665f1f5fdfbcc54c0f4e40c8073e"
+    "last_changed_at": "2026-08-30T22:50:01Z",
+    "source_fingerprint": "6220a8a8ce1a1b32363ca6ea92492aa915284ff4d9e811575e25ffc1da095479"
   },
   "teams": [
     {

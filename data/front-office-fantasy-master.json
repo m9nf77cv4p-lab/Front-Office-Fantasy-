@@ -22659,7 +22659,7 @@
       ],
       "first_name": "Trevor",
       "full_name": "Trevor Etienne",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Etienne",
       "nfl_team": "CAR",
       "player_id": "12531",
@@ -26096,8 +26096,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-30T22:50:01Z",
-    "source_fingerprint": "6220a8a8ce1a1b32363ca6ea92492aa915284ff4d9e811575e25ffc1da095479"
+    "last_changed_at": "2026-08-30T23:59:11Z",
+    "source_fingerprint": "0b774089bf91757f4b28720d029748d0b5bb5c4f5746f35b12f1fe05ed11ff9c"
   },
   "teams": [
     {
