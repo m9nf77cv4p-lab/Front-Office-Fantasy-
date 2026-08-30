@@ -19,4 +19,4 @@
 - Roster 9: **Multiple Scorgasims** (PrimeTime000) — 25 players
 - Roster 10: **TJS2025** (TJS2025) — 27 players
 - Roster 11: **DTX Dawgs** (JEllerbe) — 25 players
-- Roster 12: **Knockin on HeavensShedeur** (morganreichart22) — 29 players
+- Roster 12: **Knockin on HeavensShedeur** (morganreichart22) — 27 players

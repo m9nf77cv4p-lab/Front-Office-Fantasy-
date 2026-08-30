@@ -24441,7 +24441,7 @@
       ],
       "first_name": "Josh",
       "full_name": "Josh Jacobs",
-      "injury_status": "Questionable",
+      "injury_status": "DNR",
       "last_name": "Jacobs",
       "nfl_team": "GB",
       "player_id": "5850",
@@ -26198,8 +26198,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-30T18:29:56Z",
-    "source_fingerprint": "68f67ae011e7ba66870cdc2673f0c8b4c4bdaebc15ff4d97835355227473d3be"
+    "last_changed_at": "2026-08-30T18:49:01Z",
+    "source_fingerprint": "2cfdc5685809607a78da7085000d0ae31e8fddb817232223162e1bafb8708759"
   },
   "teams": [
     {
