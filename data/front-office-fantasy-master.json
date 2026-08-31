@@ -23469,7 +23469,7 @@
       ],
       "first_name": "Jam",
       "full_name": "Jam Miller",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Miller",
       "nfl_team": null,
       "player_id": "13403",
@@ -26096,8 +26096,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-31T00:39:36Z",
-    "source_fingerprint": "7181cf728ef7975b401fb8b057fc4eb4dc5d6f502fe7d74f242a7a2ff9eb7c1d"
+    "last_changed_at": "2026-08-31T02:22:56Z",
+    "source_fingerprint": "4a09a239381bea5967db6d1513ffe8fc15338177d81d4e14e8607d1b07e89a6a"
   },
   "teams": [
     {
