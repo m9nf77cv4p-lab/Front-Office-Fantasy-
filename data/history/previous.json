@@ -21934,21 +21934,6 @@
       "status": "Active",
       "years_exp": 1
     },
-    "12467": {
-      "age": 22,
-      "fantasy_positions": [
-        "RB"
-      ],
-      "first_name": "Jordan",
-      "full_name": "Jordan James",
-      "injury_status": null,
-      "last_name": "James",
-      "nfl_team": "SF",
-      "player_id": "12467",
-      "position": "RB",
-      "status": "Active",
-      "years_exp": 1
-    },
     "12469": {
       "age": 21,
       "fantasy_positions": [
@@ -25415,6 +25400,21 @@
       "status": "Active",
       "years_exp": 4
     },
+    "8800": {
+      "age": 27,
+      "fantasy_positions": [
+        "RB"
+      ],
+      "first_name": "Malik",
+      "full_name": "Malik Davis",
+      "injury_status": null,
+      "last_name": "Davis",
+      "nfl_team": "DAL",
+      "player_id": "8800",
+      "position": "RB",
+      "status": "Active",
+      "years_exp": 4
+    },
     "9221": {
       "age": 24,
       "fantasy_positions": [
@@ -26009,8 +26009,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-31T22:27:45Z",
-    "source_fingerprint": "15e5cdcaa46227f793d0a64597932297af8186a1d502b121f697105302332c55"
+    "last_changed_at": "2026-08-31T22:34:15Z",
+    "source_fingerprint": "8681051892f07b88588eb6a5fe502dbdca8d3dbf22ffa522ba9304e08cee7424"
   },
   "teams": [
     {
@@ -26170,10 +26170,8 @@
         "11586",
         "11604",
         "11624",
-        "12467",
         "12490",
         "13380",
-        "13403",
         "13411",
         "13413",
         "4199",
@@ -26188,6 +26186,7 @@
         "8138",
         "8180",
         "8259",
+        "8800",
         "9226",
         "9486",
         "DEN",
@@ -26207,7 +26206,6 @@
       },
       "starter_ids": [
         "7527",
-        "12467",
         "7567",
         "6819",
         "8180",
@@ -26220,7 +26218,6 @@
       ],
       "taxi_ids": [
         "13380",
-        "13403",
         "13411",
         "13413"
       ],
@@ -27151,6 +27148,75 @@
   ],
   "transactions_by_round": {
     "1": [
+      {
+        "adds": {
+          "8800": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "created": 1788215255458,
+        "creator": "726599421160165377",
+        "draft_picks": [],
+        "drops": null,
+        "leg": 1,
+        "metadata": null,
+        "roster_ids": [
+          3
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1788215255458,
+        "transaction_id": "1400279908613099520",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
+      {
+        "adds": null,
+        "consenter_ids": [
+          3
+        ],
+        "created": 1788215178552,
+        "creator": "726599421160165377",
+        "draft_picks": [],
+        "drops": {
+          "12467": 3
+        },
+        "leg": 1,
+        "metadata": null,
+        "roster_ids": [
+          3
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1788215178552,
+        "transaction_id": "1400279586050195456",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
+      {
+        "adds": null,
+        "consenter_ids": [
+          3
+        ],
+        "created": 1788215155917,
+        "creator": "726599421160165377",
+        "draft_picks": [],
+        "drops": {
+          "13403": 3
+        },
+        "leg": 1,
+        "metadata": null,
+        "roster_ids": [
+          3
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1788215155917,
+        "transaction_id": "1400279491112099840",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": null,
         "consenter_ids": [
