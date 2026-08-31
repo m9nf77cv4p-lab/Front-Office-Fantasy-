@@ -22073,7 +22073,7 @@
       ],
       "first_name": "Devin",
       "full_name": "Devin Neal",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Neal",
       "nfl_team": "NO",
       "player_id": "12476",
@@ -26096,8 +26096,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-31T00:33:02Z",
-    "source_fingerprint": "de821da7d099f2a49f26efeed191fb31297c07dd9013b84bda572d9ce13a638f"
+    "last_changed_at": "2026-08-31T00:39:36Z",
+    "source_fingerprint": "7181cf728ef7975b401fb8b057fc4eb4dc5d6f502fe7d74f242a7a2ff9eb7c1d"
   },
   "teams": [
     {
