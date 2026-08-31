@@ -22042,7 +22042,7 @@
       "nfl_team": "NO",
       "player_id": "12476",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 1
     },
     "12481": {
@@ -26045,8 +26045,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-31T19:53:56Z",
-    "source_fingerprint": "4d70758c4b85aa437234fac93909e7630e3d0f873f9e58c5a9c8c297794a0427"
+    "last_changed_at": "2026-08-31T20:00:22Z",
+    "source_fingerprint": "4a486af57b002d7f66344b69435808a97e58cdccf1dd05685f714d19f4c19ea2"
   },
   "teams": [
     {
