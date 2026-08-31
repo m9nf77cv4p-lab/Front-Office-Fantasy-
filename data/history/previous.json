@@ -22000,7 +22000,7 @@
       "full_name": "Jaydon Blue",
       "injury_status": null,
       "last_name": "Blue",
-      "nfl_team": "DAL",
+      "nfl_team": null,
       "player_id": "12457",
       "position": "RB",
       "status": "Active",
@@ -22811,7 +22811,7 @@
       "full_name": "Phil Mafah",
       "injury_status": null,
       "last_name": "Mafah",
-      "nfl_team": "DAL",
+      "nfl_team": null,
       "player_id": "12738",
       "position": "RB",
       "status": "Active",
@@ -23426,7 +23426,7 @@
       "full_name": "Justin Joly",
       "injury_status": null,
       "last_name": "Joly",
-      "nfl_team": "DEN",
+      "nfl_team": null,
       "player_id": "13400",
       "position": "TE",
       "status": "Active",
@@ -26096,8 +26096,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-31T15:04:17Z",
-    "source_fingerprint": "0365bdc499beee33c5550c42c226ace514fc21d454b9cc1d5935ba69e6dfd043"
+    "last_changed_at": "2026-08-31T16:15:06Z",
+    "source_fingerprint": "7c22f76b6dce8b39f12c4e762acd49189a6ce1c543e0548f4508c29ca53f380b"
   },
   "teams": [
     {
