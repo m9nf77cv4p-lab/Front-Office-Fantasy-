@@ -3,7 +3,7 @@
 - Team: **TJS2025**
 - Manager: **TJS2025**
 - Roster ID: **10**
-- Players: **27**
+- Players: **26**
 - Taxi: **4**
 - Reserve/IR: **1**
 
@@ -16,7 +16,6 @@
 - Jalen Milroe — QB — SEA
 - Matthew Stafford — QB — LAR
 - Christian McCaffrey — RB — SF
-- James Conner — RB — ARI
 - Jaylen Wright — RB — MIA
 - Kimani Vidal — RB — LAC
 - Omarion Hampton — RB — LAC
