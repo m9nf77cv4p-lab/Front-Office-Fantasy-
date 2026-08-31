@@ -22833,7 +22833,7 @@
       ],
       "first_name": "Carson",
       "full_name": "Carson Beck",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Beck",
       "nfl_team": "ARI",
       "player_id": "13272",
@@ -26045,8 +26045,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-08-31T19:35:06Z",
-    "source_fingerprint": "811e283a78a8e9e50f43cda01726330fae66d46de83835f113f5a35dccd51d45"
+    "last_changed_at": "2026-08-31T19:41:13Z",
+    "source_fingerprint": "07b3c44c24829d5cee1c0ba2dcc4458dac4d4769fa2748550853844ec431e7aa"
   },
   "teams": [
     {
