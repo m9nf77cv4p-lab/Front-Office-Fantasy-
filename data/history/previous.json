@@ -23264,7 +23264,7 @@
       "full_name": "J'Mari Taylor",
       "injury_status": null,
       "last_name": "Taylor",
-      "nfl_team": "JAX",
+      "nfl_team": null,
       "player_id": "13348",
       "position": "RB",
       "status": "Active",
@@ -23354,7 +23354,7 @@
       "full_name": "Michael Trigg",
       "injury_status": null,
       "last_name": "Trigg",
-      "nfl_team": "DAL",
+      "nfl_team": null,
       "player_id": "13401",
       "position": "TE",
       "status": "Active",
@@ -26009,8 +26009,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-01T12:41:24Z",
-    "source_fingerprint": "4219d548ca0efb28c72a7da7902577d86ea7bb24e4bd1a38cb0e3054e14c815b"
+    "last_changed_at": "2026-09-01T16:49:39Z",
+    "source_fingerprint": "62f17aa8a588731aa2288e6c4ce836aff4ca561d3b46226a8493a86e6095f970"
   },
   "teams": [
     {
