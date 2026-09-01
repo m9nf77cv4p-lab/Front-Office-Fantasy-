@@ -23354,7 +23354,7 @@
       "full_name": "Michael Trigg",
       "injury_status": null,
       "last_name": "Trigg",
-      "nfl_team": null,
+      "nfl_team": "DAL",
       "player_id": "13401",
       "position": "TE",
       "status": "Active",
@@ -26009,8 +26009,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-01T20:44:15Z",
-    "source_fingerprint": "e8ad8960fa28f6daa802313f758feaa4ed7d7471c62c3a3d3809b671d5db926f"
+    "last_changed_at": "2026-09-01T23:06:39Z",
+    "source_fingerprint": "90446355061bc2b93e4ef30e69f820c009138ea4d4549659d70e32487e1c0a33"
   },
   "teams": [
     {
