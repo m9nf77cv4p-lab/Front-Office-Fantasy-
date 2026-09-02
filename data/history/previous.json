@@ -25647,7 +25647,7 @@
       ],
       "first_name": "Sean",
       "full_name": "Sean Tucker",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Tucker",
       "nfl_team": "TB",
       "player_id": "9506",
@@ -26009,8 +26009,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-02T16:11:28Z",
-    "source_fingerprint": "41c70033649539bb784187f48f9b881cd66aad2c3c5e4ad80f1cc3afda4ed89e"
+    "last_changed_at": "2026-09-02T16:36:50Z",
+    "source_fingerprint": "1a049d13931668bcdd7d03ded6732df8ae50c64f5f7db04b7b5571de40ee2fcc"
   },
   "teams": [
     {
