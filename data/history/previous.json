@@ -22006,21 +22006,6 @@
       "status": "Active",
       "years_exp": 2
     },
-    "12457": {
-      "age": 22,
-      "fantasy_positions": [
-        "RB"
-      ],
-      "first_name": "Jaydon",
-      "full_name": "Jaydon Blue",
-      "injury_status": null,
-      "last_name": "Blue",
-      "nfl_team": "PHI",
-      "player_id": "12457",
-      "position": "RB",
-      "status": "Active",
-      "years_exp": 1
-    },
     "12469": {
       "age": 21,
       "fantasy_positions": [
@@ -23804,6 +23789,21 @@
       "nfl_team": "WAS",
       "player_id": "2449",
       "position": "WR",
+      "status": "Active",
+      "years_exp": 11
+    },
+    "2505": {
+      "age": 33,
+      "fantasy_positions": [
+        "TE"
+      ],
+      "first_name": "Darren",
+      "full_name": "Darren Waller",
+      "injury_status": null,
+      "last_name": "Waller",
+      "nfl_team": "CAR",
+      "player_id": "2505",
+      "position": "TE",
       "status": "Active",
       "years_exp": 11
     },
@@ -26111,8 +26111,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-02T23:24:10Z",
-    "source_fingerprint": "7f81e65a12f705918999f235e1bb0a447a6ec4efe9102aaffd47727e8ff40ff9"
+    "last_changed_at": "2026-09-02T23:31:31Z",
+    "source_fingerprint": "878ef17cb54dbfd749f02e602864e1fa4d2fd7d1ba8553fdf1ca7fc0863c95f7"
   },
   "teams": [
     {
@@ -26544,7 +26544,6 @@
         "11631",
         "11646",
         "11786",
-        "12457",
         "12492",
         "12504",
         "12514",
@@ -26555,6 +26554,7 @@
         "13294",
         "13402",
         "13545",
+        "2505",
         "4892",
         "4984",
         "5844",
@@ -27259,6 +27259,31 @@
   ],
   "transactions_by_round": {
     "1": [
+      {
+        "adds": {
+          "2505": 7
+        },
+        "consenter_ids": [
+          7
+        ],
+        "created": 1788391104542,
+        "creator": "707067011775156224",
+        "draft_picks": [],
+        "drops": {
+          "12457": 7
+        },
+        "leg": 1,
+        "metadata": null,
+        "roster_ids": [
+          7
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1788391104542,
+        "transaction_id": "1401017473133744128",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "11237": 7
