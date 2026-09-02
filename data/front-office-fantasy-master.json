@@ -22121,7 +22121,7 @@
       ],
       "first_name": "Bhayshul",
       "full_name": "Bhayshul Tuten",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Tuten",
       "nfl_team": "JAX",
       "player_id": "12490",
@@ -26009,8 +26009,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-02T14:10:53Z",
-    "source_fingerprint": "49b7c45638b6294a4073f10dc3c360305e1255a3b98e8e7fc1a88b88bdede5a3"
+    "last_changed_at": "2026-09-02T15:09:53Z",
+    "source_fingerprint": "7629e72860a64361cad74852809e7799a54cdf18ae9938ad37a8bb4c384e8bb9"
   },
   "teams": [
     {
