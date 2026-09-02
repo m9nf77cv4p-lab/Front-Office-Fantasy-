@@ -439,6 +439,7 @@
     "owner_id": "707067011775156224",
     "player_map": null,
     "players": [
+      "11237",
       "11563",
       "11631",
       "11646",
@@ -466,7 +467,9 @@
       "9506",
       "MIN"
     ],
-    "reserve": null,
+    "reserve": [
+      "9502"
+    ],
     "roster_id": 7,
     "settings": {
       "fpts": 0,
