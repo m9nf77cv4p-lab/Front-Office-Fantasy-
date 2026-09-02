@@ -23264,7 +23264,7 @@
       "full_name": "J'Mari Taylor",
       "injury_status": null,
       "last_name": "Taylor",
-      "nfl_team": null,
+      "nfl_team": "JAX",
       "player_id": "13348",
       "position": "RB",
       "status": "Active",
@@ -26009,8 +26009,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-01T23:06:39Z",
-    "source_fingerprint": "90446355061bc2b93e4ef30e69f820c009138ea4d4549659d70e32487e1c0a33"
+    "last_changed_at": "2026-09-02T03:04:44Z",
+    "source_fingerprint": "1f0d6f9abf3126219ad9f7f0e9eb9c81b317c264e22d22f2a566d8289c0e85f7"
   },
   "teams": [
     {
