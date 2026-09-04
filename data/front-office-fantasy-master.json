@@ -23534,7 +23534,7 @@
       "full_name": "Justin Joly",
       "injury_status": null,
       "last_name": "Joly",
-      "nfl_team": null,
+      "nfl_team": "MIA",
       "player_id": "13400",
       "position": "TE",
       "status": "Active",
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-04T00:25:16Z",
-    "source_fingerprint": "f3203d34c4502a57124ba56b7ea38c7f503c7f9fdb649db2189c5420aaaeb1d1"
+    "last_changed_at": "2026-09-04T01:43:35Z",
+    "source_fingerprint": "876719e0d53574cab2948c632de63df47e2dc93790894c5cf4b1fa604d2feb0c"
   },
   "teams": [
     {
