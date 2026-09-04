@@ -21454,6 +21454,21 @@
       "status": "Active",
       "years_exp": 3
     },
+    "10235": {
+      "age": 25,
+      "fantasy_positions": [
+        "RB"
+      ],
+      "first_name": "Roschon",
+      "full_name": "Roschon Johnson",
+      "injury_status": null,
+      "last_name": "Johnson",
+      "nfl_team": "CHI",
+      "player_id": "10235",
+      "position": "RB",
+      "status": "Active",
+      "years_exp": 3
+    },
     "10236": {
       "age": 26,
       "fantasy_positions": [
@@ -24230,21 +24245,6 @@
       "status": "Active",
       "years_exp": 9
     },
-    "4227": {
-      "age": 31,
-      "fantasy_positions": [
-        "K"
-      ],
-      "first_name": "Harrison",
-      "full_name": "Harrison Butker",
-      "injury_status": null,
-      "last_name": "Butker",
-      "nfl_team": "KC",
-      "player_id": "4227",
-      "position": "K",
-      "status": "Active",
-      "years_exp": 9
-    },
     "4866": {
       "age": 29,
       "fantasy_positions": [
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-03T22:03:24Z",
-    "source_fingerprint": "9d680c248725a42a64b1d00e38797fd423bb13a5551422e88b81c72d4322c487"
+    "last_changed_at": "2026-09-03T22:16:58Z",
+    "source_fingerprint": "ea712ecf8a3eac0f5e0a13c4c67950417cc9a97accaad4944e4bcaa6f1a60f3a"
   },
   "teams": [
     {
@@ -26622,6 +26622,7 @@
       "metadata": {},
       "owner_user_id": "980272839611740160",
       "player_ids": [
+        "10235",
         "11565",
         "11637",
         "11655",
@@ -26643,7 +26644,6 @@
         "4033",
         "4046",
         "4137",
-        "4227",
         "4950",
         "4983",
         "7525",
@@ -26681,7 +26681,6 @@
         "13279",
         "8408",
         "3163",
-        "4227",
         "SEA"
       ],
       "taxi_ids": [
