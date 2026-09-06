@@ -5,7 +5,7 @@
 - Roster ID: **10**
 - Players: **26**
 - Taxi: **4**
-- Reserve/IR: **1**
+- Reserve/IR: **0**
 
 ## Current roster
 
@@ -22,7 +22,7 @@
 - Seth McGowan — RB — IND — taxi
 - Ty Johnson — RB — BUF
 - Colby Parkinson — TE — LAR
-- George Kittle — TE — SF — reserve/IR
+- George Kittle — TE — SF
 - Gunnar Helm — TE — TEN
 - Hunter Henry — TE — NE
 - A.J. Brown — WR — NE

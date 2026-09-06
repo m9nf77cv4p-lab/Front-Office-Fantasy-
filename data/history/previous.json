@@ -22445,7 +22445,7 @@
       "years_exp": 1
     },
     "12502": {
-      "age": 23,
+      "age": 24,
       "fantasy_positions": [
         "TE"
       ],
@@ -24381,7 +24381,7 @@
       "years_exp": 8
     },
     "5012": {
-      "age": 30,
+      "age": 31,
       "fantasy_positions": [
         "TE"
       ],
@@ -25986,7 +25986,7 @@
       "years_exp": 3
     },
     "9754": {
-      "age": 24,
+      "age": 25,
       "fantasy_positions": [
         "WR"
       ],
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-05T00:30:08Z",
-    "source_fingerprint": "55abb217263c4c619fa87698e048862e31bdc903b744e17275b84699f84d0683"
+    "last_changed_at": "2026-09-06T00:32:31Z",
+    "source_fingerprint": "7f10cd0871e3ccbe6abae3b0d450670166a637a196c50bb2f1485c7d94c588d5"
   },
   "teams": [
     {
