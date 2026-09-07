@@ -21566,7 +21566,7 @@
       ],
       "first_name": "Michael",
       "full_name": "Michael Penix",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Penix",
       "nfl_team": "ATL",
       "player_id": "11559",
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-07T00:29:51Z",
-    "source_fingerprint": "1ac157a2c171c4118b87236203b4e8c60fd28915530663e7224df9ff1597b35d"
+    "last_changed_at": "2026-09-07T15:22:57Z",
+    "source_fingerprint": "c1344572092c7f4c985d72d3f6b4ec69d0ae3191534c2bebdf34c0dfbbcb26cc"
   },
   "teams": [
     {
