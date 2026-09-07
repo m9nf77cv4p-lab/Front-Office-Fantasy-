@@ -24717,7 +24717,7 @@
       ],
       "first_name": "D'Andre",
       "full_name": "D'Andre Swift",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Swift",
       "nfl_team": "CHI",
       "player_id": "6790",
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-07T18:39:08Z",
-    "source_fingerprint": "c123ec431928c212920a1a85de0715acf3c136bcdf5792f8f12a619ac960d115"
+    "last_changed_at": "2026-09-07T19:29:02Z",
+    "source_fingerprint": "cdf5889f6d06c4318b63e615fcdb2ae227054c00ff5accec29b2207eb09ea3e6"
   },
   "teams": [
     {
