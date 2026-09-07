@@ -25977,7 +25977,7 @@
       ],
       "first_name": "Zach",
       "full_name": "Zach Charbonnet",
-      "injury_status": "Out",
+      "injury_status": "PUP",
       "last_name": "Charbonnet",
       "nfl_team": "SEA",
       "player_id": "9753",
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-07T21:09:32Z",
-    "source_fingerprint": "4dba9b62042f3fd350ce8f3365a8936181c4894b900d49bbbb88ce0e5004882c"
+    "last_changed_at": "2026-09-07T21:32:14Z",
+    "source_fingerprint": "cdf5889f6d06c4318b63e615fcdb2ae227054c00ff5accec29b2207eb09ea3e6"
   },
   "teams": [
     {
