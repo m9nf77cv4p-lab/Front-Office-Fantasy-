@@ -22363,21 +22363,6 @@
       "status": "Active",
       "years_exp": 1
     },
-    "12500": {
-      "age": 23,
-      "fantasy_positions": [
-        "QB"
-      ],
-      "first_name": "Quinn",
-      "full_name": "Quinn Ewers",
-      "injury_status": null,
-      "last_name": "Ewers",
-      "nfl_team": "JAX",
-      "player_id": "12500",
-      "position": "QB",
-      "status": "Active",
-      "years_exp": 1
-    },
     "12501": {
       "age": 23,
       "fantasy_positions": [
@@ -23788,6 +23773,21 @@
       "position": "QB",
       "status": "Active",
       "years_exp": 13
+    },
+    "13833": {
+      "age": 22,
+      "fantasy_positions": [
+        "K"
+      ],
+      "first_name": "Dominic",
+      "full_name": "Dominic Zvada",
+      "injury_status": null,
+      "last_name": "Zvada",
+      "nfl_team": "NYG",
+      "player_id": "13833",
+      "position": "K",
+      "status": "Active",
+      "years_exp": 0
     },
     "1466": {
       "age": 36,
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-07T23:50:22Z",
-    "source_fingerprint": "8e05b2548f055339ef6a176586494468bb79961ff69486840d450b1b4c6ffc47"
+    "last_changed_at": "2026-09-07T23:56:44Z",
+    "source_fingerprint": "dc7b402c0ed919fc7e9548a6c5c27e00fa4805ca8550332c423ef3cb43ce8b7c"
   },
   "teams": [
     {
@@ -26302,7 +26302,6 @@
         "11589",
         "11635",
         "12486",
-        "12500",
         "12501",
         "12509",
         "13346",
@@ -26310,6 +26309,7 @@
         "13353",
         "13420",
         "1373",
+        "13833",
         "2133",
         "2216",
         "3321",
@@ -26360,7 +26360,8 @@
       "taxi_ids": [
         "13346",
         "13347",
-        "13420"
+        "13420",
+        "13833"
       ],
       "team_name": "Driggsysmalls"
     },
@@ -27362,6 +27363,31 @@
   ],
   "transactions_by_round": {
     "1": [
+      {
+        "adds": {
+          "13833": 2
+        },
+        "consenter_ids": [
+          2
+        ],
+        "created": 1788824908550,
+        "creator": "988885525681557504",
+        "draft_picks": [],
+        "drops": {
+          "12500": 2
+        },
+        "leg": 1,
+        "metadata": null,
+        "roster_ids": [
+          2
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1788824908550,
+        "transaction_id": "1402836979015516160",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": null,
         "consenter_ids": [
