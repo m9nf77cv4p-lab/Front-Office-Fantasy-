@@ -25443,7 +25443,7 @@
       ],
       "first_name": "Alec",
       "full_name": "Alec Pierce",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Pierce",
       "nfl_team": "IND",
       "player_id": "8142",
@@ -25908,7 +25908,7 @@
       ],
       "first_name": "Josh",
       "full_name": "Josh Downs",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Downs",
       "nfl_team": "IND",
       "player_id": "9500",
@@ -26315,8 +26315,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-09T20:44:01Z",
-    "source_fingerprint": "bf1350bac812ac86f1449fd0afcc148cf63fbc4aefed51f8d492a8be069d9605"
+    "last_changed_at": "2026-09-09T20:57:40Z",
+    "source_fingerprint": "ac51bd75927c374fb1238826b9d90df2cdc7c3ebbdbab1e60a239a6b47e8609f"
   },
   "teams": [
     {
