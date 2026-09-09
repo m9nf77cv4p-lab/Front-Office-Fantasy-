@@ -21797,7 +21797,7 @@
       ],
       "first_name": "Theo",
       "full_name": "Theo Johnson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Johnson",
       "nfl_team": "NYG",
       "player_id": "11597",
@@ -22352,7 +22352,7 @@
       ],
       "first_name": "Bhayshul",
       "full_name": "Bhayshul Tuten",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Tuten",
       "nfl_team": "JAX",
       "player_id": "12490",
@@ -23073,7 +23073,7 @@
       ],
       "first_name": "Carnell",
       "full_name": "Carnell Tate",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Tate",
       "nfl_team": "TEN",
       "player_id": "13279",
@@ -24498,7 +24498,7 @@
       ],
       "first_name": "DK",
       "full_name": "DK Metcalf",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Metcalf",
       "nfl_team": "PIT",
       "player_id": "5846",
@@ -24888,7 +24888,7 @@
       ],
       "first_name": "Michael",
       "full_name": "Michael Pittman",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Pittman",
       "nfl_team": "PIT",
       "player_id": "6819",
@@ -25323,7 +25323,7 @@
       ],
       "first_name": "Wan'Dale",
       "full_name": "Wan'Dale Robinson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Robinson",
       "nfl_team": "TEN",
       "player_id": "8126",
@@ -26315,8 +26315,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-09T20:33:57Z",
-    "source_fingerprint": "0eda1ca8158b59d4231520597b0fbabc2e71bedc801b9dcb2bda21c257542ec5"
+    "last_changed_at": "2026-09-09T20:44:01Z",
+    "source_fingerprint": "bf1350bac812ac86f1449fd0afcc148cf63fbc4aefed51f8d492a8be069d9605"
   },
   "teams": [
     {
