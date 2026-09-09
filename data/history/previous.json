@@ -22742,7 +22742,7 @@
       "nfl_team": "CAR",
       "player_id": "12531",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 1
     },
     "12533": {
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-09T05:59:12Z",
-    "source_fingerprint": "93c156568c125b62c8852e84b5bdc59363cc30f814b48f033ee7e697cc6e2271"
+    "last_changed_at": "2026-09-09T13:29:31Z",
+    "source_fingerprint": "3bc4e48fd65f7b3ff15a3b64a8ed9dbc693c871347200078e9949925ee37c91b"
   },
   "teams": [
     {
