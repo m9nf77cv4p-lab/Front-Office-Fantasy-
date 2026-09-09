@@ -23688,7 +23688,7 @@
       ],
       "first_name": "Haynes",
       "full_name": "Haynes King",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "King",
       "nfl_team": "CAR",
       "player_id": "13415",
@@ -25203,7 +25203,7 @@
       ],
       "first_name": "Chuba",
       "full_name": "Chuba Hubbard",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Hubbard",
       "nfl_team": "CAR",
       "player_id": "7594",
@@ -26315,8 +26315,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-09T15:47:38Z",
-    "source_fingerprint": "51dd93152b0f493e8f481cdf3ecbab8282a8200fa1f06fe9e771234c4701dc57"
+    "last_changed_at": "2026-09-09T19:57:53Z",
+    "source_fingerprint": "1bc46d984e910c93a11216907669a153adcbf87fb331c6dda0f1e8fec8737fa9"
   },
   "teams": [
     {
