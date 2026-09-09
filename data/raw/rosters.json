@@ -755,7 +755,9 @@
       "9500",
       "LAC"
     ],
-    "reserve": null,
+    "reserve": [
+      "12529"
+    ],
     "roster_id": 11,
     "settings": {
       "fpts": 0,
