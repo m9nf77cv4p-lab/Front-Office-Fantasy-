@@ -24813,7 +24813,7 @@
       ],
       "first_name": "Tee",
       "full_name": "Tee Higgins",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Higgins",
       "nfl_team": "CIN",
       "player_id": "6801",
@@ -25113,7 +25113,7 @@
       ],
       "first_name": "Ja'Marr",
       "full_name": "Ja'Marr Chase",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Chase",
       "nfl_team": "CIN",
       "player_id": "7564",
@@ -26315,8 +26315,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-09T20:57:40Z",
-    "source_fingerprint": "ac51bd75927c374fb1238826b9d90df2cdc7c3ebbdbab1e60a239a6b47e8609f"
+    "last_changed_at": "2026-09-09T21:06:57Z",
+    "source_fingerprint": "7f167679410ed02c571613e6e3c67e829a71ccbfa2636d2c8537cd614a028a9c"
   },
   "teams": [
     {
