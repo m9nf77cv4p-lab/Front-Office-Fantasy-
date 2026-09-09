@@ -21992,7 +21992,7 @@
       ],
       "first_name": "Keon",
       "full_name": "Keon Coleman",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Coleman",
       "nfl_team": "BUF",
       "player_id": "11637",
@@ -25383,7 +25383,7 @@
       ],
       "first_name": "Khalil",
       "full_name": "Khalil Shakir",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Shakir",
       "nfl_team": "BUF",
       "player_id": "8134",
@@ -26315,8 +26315,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-09T21:19:01Z",
-    "source_fingerprint": "179d0f0cb1131713c700d87e50cb92bb51b3683fd47a697d5913e72a747cb2de"
+    "last_changed_at": "2026-09-09T21:47:30Z",
+    "source_fingerprint": "3876f2e7d385a65e213d2cb15a442a32ef53355278639e568f6efd4a4a0ec520"
   },
   "teams": [
     {
