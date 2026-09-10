@@ -24186,7 +24186,7 @@
       ],
       "first_name": "George",
       "full_name": "George Kittle",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Kittle",
       "nfl_team": "SF",
       "player_id": "4217",
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-10T03:34:45Z",
-    "source_fingerprint": "ff2eab7996d66acf89020582a16cfbb74e4c88b1fda2f0a9401395a23f1cf910"
+    "last_changed_at": "2026-09-10T04:52:45Z",
+    "source_fingerprint": "3f3cafda8a24ec60294f744b4c2b17f7d908db9894b8e94266cf59020c37cae6"
   },
   "teams": [
     {
