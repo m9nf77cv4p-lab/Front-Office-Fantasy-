@@ -22932,7 +22932,7 @@
       ],
       "first_name": "CJ",
       "full_name": "CJ Daniels",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Daniels",
       "nfl_team": "LAR",
       "player_id": "13270",
@@ -22977,7 +22977,7 @@
       ],
       "first_name": "Ty",
       "full_name": "Ty Simpson",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Simpson",
       "nfl_team": "LAR",
       "player_id": "13275",
@@ -23007,7 +23007,7 @@
       ],
       "first_name": "Max",
       "full_name": "Max Klare",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Klare",
       "nfl_team": "LAR",
       "player_id": "13278",
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-10T22:17:51Z",
-    "source_fingerprint": "fdc7c880e437b075a29c143ac49d8d112d177c6a385967825c719e6dd886efea"
+    "last_changed_at": "2026-09-10T23:42:16Z",
+    "source_fingerprint": "54fe50f29076c311f9c23ffa01179241883eff61379afe23025c58fb8df6563b"
   },
   "teams": [
     {
