@@ -26165,6 +26165,21 @@
       "status": null,
       "years_exp": null
     },
+    "LV": {
+      "age": null,
+      "fantasy_positions": [
+        "DEF"
+      ],
+      "first_name": "Las Vegas",
+      "full_name": null,
+      "injury_status": null,
+      "last_name": "Raiders",
+      "nfl_team": "LV",
+      "player_id": "LV",
+      "position": "DEF",
+      "status": null,
+      "years_exp": null
+    },
     "MIN": {
       "age": null,
       "fantasy_positions": [
@@ -26249,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-10T16:59:39Z",
-    "source_fingerprint": "275b3b864012cb1e2d5c49d26bc21892bccb602a66b5fe288f64ce8631057652"
+    "last_changed_at": "2026-09-10T17:10:44Z",
+    "source_fingerprint": "26a53ec8d1993ab082478758dcc01010fe90832aad9581d26ecb8210d8636194"
   },
   "teams": [
     {
@@ -26568,9 +26583,12 @@
         "8150",
         "9228",
         "9508",
-        "9754"
+        "9754",
+        "LV"
       ],
-      "reserve_ids": [],
+      "reserve_ids": [
+        "5850"
+      ],
       "roster_id": 5,
       "settings": {
         "fpts": 0,
@@ -26593,7 +26611,8 @@
         "11632",
         "7611",
         "3294",
-        "11533"
+        "11533",
+        "LV"
       ],
       "taxi_ids": [
         "13288",
@@ -27407,6 +27426,29 @@
   ],
   "transactions_by_round": {
     "1": [
+      {
+        "adds": {
+          "LV": 5
+        },
+        "consenter_ids": [
+          5
+        ],
+        "created": 1789059417449,
+        "creator": "563234061722038272",
+        "draft_picks": [],
+        "drops": null,
+        "leg": 1,
+        "metadata": null,
+        "roster_ids": [
+          5
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1789059417449,
+        "transaction_id": "1403820580632866816",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": null,
         "consenter_ids": [

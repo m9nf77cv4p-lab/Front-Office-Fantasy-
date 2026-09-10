@@ -12,7 +12,7 @@
 - Roster 2: **Driggsysmalls** (Driggsysmalls) — 29 players
 - Roster 3: **PepperjackCheeze** (cheezy17) — 25 players
 - Roster 4: **501st Legion** (krei012) — 27 players
-- Roster 5: **Mozzarella Cheese** (Revont) — 26 players
+- Roster 5: **Mozzarella Cheese** (Revont) — 27 players
 - Roster 6: **midedunni** (midedunni) — 30 players
 - Roster 7: **theGOATcheese** (kylemercer87) — 27 players
 - Roster 8: **We Fly High** (cabot9188) — 29 players
