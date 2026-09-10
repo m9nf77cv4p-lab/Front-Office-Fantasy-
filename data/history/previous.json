@@ -24441,7 +24441,7 @@
       ],
       "first_name": "Josh",
       "full_name": "Josh Jacobs",
-      "injury_status": "NA",
+      "injury_status": "Out",
       "last_name": "Jacobs",
       "nfl_team": "GB",
       "player_id": "5850",
@@ -26213,8 +26213,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-10T15:09:49Z",
-    "source_fingerprint": "a5c9bc03a06a3eaf5ac1f045bb242cd8a3b36b8df2795e1d240507af00e39094"
+    "last_changed_at": "2026-09-10T16:34:40Z",
+    "source_fingerprint": "505b62dc78badcad2f57fe05305ea9a7b89d47a906f5c44356a10da965a63c29"
   },
   "teams": [
     {
