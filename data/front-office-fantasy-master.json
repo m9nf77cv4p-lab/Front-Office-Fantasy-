@@ -21701,7 +21701,7 @@
       ],
       "first_name": "Jonathon",
       "full_name": "Jonathon Brooks",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Brooks",
       "nfl_team": "CAR",
       "player_id": "11583",
@@ -22752,7 +22752,7 @@
       ],
       "first_name": "Jacory",
       "full_name": "Jacory Croskey-Merritt",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Croskey-Merritt",
       "nfl_team": "WAS",
       "player_id": "12533",
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-11T17:11:00Z",
-    "source_fingerprint": "a8e1d9463931785060a606bfee269dd4c321f799cd17ed3784999ac6bd09efa9"
+    "last_changed_at": "2026-09-11T17:32:32Z",
+    "source_fingerprint": "e915228cf9c2234cc22f6e80d6ca93f135b1cef993b1b2482e94aea8b1310279"
   },
   "teams": [
     {
