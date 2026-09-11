@@ -23472,7 +23472,7 @@
       ],
       "first_name": "Brenen",
       "full_name": "Brenen Thompson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Thompson",
       "nfl_team": "LAC",
       "player_id": "13380",
@@ -25932,7 +25932,7 @@
       ],
       "first_name": "Keaton",
       "full_name": "Keaton Mitchell",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Mitchell",
       "nfl_team": "LAC",
       "player_id": "9511",
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-11T21:20:33Z",
-    "source_fingerprint": "172a70b8e01db6c7893e4a0823fd5e00258dc2808fa3d520d7f224ef03ee9f32"
+    "last_changed_at": "2026-09-11T23:21:23Z",
+    "source_fingerprint": "732842a704e950e0598b0652032afc92a34ca2f0ca969b1eea3a6b43c376ba90"
   },
   "teams": [
     {

@@ -23292,7 +23292,7 @@
       ],
       "first_name": "Oscar",
       "full_name": "Oscar Delp",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Delp",
       "nfl_team": "NO",
       "player_id": "13319",
@@ -23727,7 +23727,7 @@
       ],
       "first_name": "Will",
       "full_name": "Will Kacmarek",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Kacmarek",
       "nfl_team": "MIA",
       "player_id": "13434",
@@ -24567,7 +24567,7 @@
       ],
       "first_name": "Jakobi",
       "full_name": "Jakobi Meyers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Meyers",
       "nfl_team": "JAX",
       "player_id": "5947",
@@ -25377,7 +25377,7 @@
       ],
       "first_name": "Alec",
       "full_name": "Alec Pierce",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Pierce",
       "nfl_team": "IND",
       "player_id": "8142",
@@ -25647,7 +25647,7 @@
       ],
       "first_name": "Malik",
       "full_name": "Malik Davis",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Davis",
       "nfl_team": "DAL",
       "player_id": "8800",
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-11T18:19:50Z",
-    "source_fingerprint": "5bb668f661081289933506d2911b7afb5ab0fd71dbfe382a22e65420311d5c09"
+    "last_changed_at": "2026-09-11T21:20:33Z",
+    "source_fingerprint": "172a70b8e01db6c7893e4a0823fd5e00258dc2808fa3d520d7f224ef03ee9f32"
   },
   "teams": [
     {
