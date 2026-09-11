@@ -23307,7 +23307,7 @@
       ],
       "first_name": "Zachariah",
       "full_name": "Zachariah Branch",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Branch",
       "nfl_team": "ATL",
       "player_id": "13320",
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-11T17:54:58Z",
-    "source_fingerprint": "c9fdf462aab6275bea844e35b5ec4274695bdeeca07b62061de7bbc4b8ec9868"
+    "last_changed_at": "2026-09-11T18:19:50Z",
+    "source_fingerprint": "5bb668f661081289933506d2911b7afb5ab0fd71dbfe382a22e65420311d5c09"
   },
   "teams": [
     {
