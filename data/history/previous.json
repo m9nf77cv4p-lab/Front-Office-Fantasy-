@@ -21821,7 +21821,7 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen McMillan",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "McMillan",
       "nfl_team": "TB",
       "player_id": "11618",
@@ -25887,7 +25887,7 @@
       ],
       "first_name": "Sean",
       "full_name": "Sean Tucker",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "Tucker",
       "nfl_team": "TB",
       "player_id": "9506",
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-11T03:26:33Z",
-    "source_fingerprint": "54f7a1e64b32815564e4ce8d0d64a3f317552b828d370bc8ad542e9d40c45b1f"
+    "last_changed_at": "2026-09-11T17:00:01Z",
+    "source_fingerprint": "61e96003ad83fc7ae34f3ecd7ee41a7b1265f08251ca6448184f9b34c251b188"
   },
   "teams": [
     {
