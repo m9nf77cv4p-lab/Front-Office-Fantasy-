@@ -24497,7 +24497,7 @@
       "nfl_team": "NE",
       "player_id": "5859",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 7
     },
     "5870": {
@@ -24642,7 +24642,7 @@
       ],
       "first_name": "Tua",
       "full_name": "Tua Tagovailoa",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Tagovailoa",
       "nfl_team": "ATL",
       "player_id": "6768",
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-11T17:32:32Z",
-    "source_fingerprint": "e915228cf9c2234cc22f6e80d6ca93f135b1cef993b1b2482e94aea8b1310279"
+    "last_changed_at": "2026-09-11T17:48:43Z",
+    "source_fingerprint": "c6afa6c6e1f1d9de2ad8a20644de50a86cc6a06fdc8f83510f64305292a92b1c"
   },
   "teams": [
     {
