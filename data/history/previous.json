@@ -23447,7 +23447,7 @@
       "nfl_team": "PHI",
       "player_id": "13349",
       "position": "TE",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 0
     },
     "13353": {
@@ -26264,8 +26264,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-12T20:42:08Z",
-    "source_fingerprint": "59ed98e5a21949c6134644efde620c39fefc5d325c9843ad50f633a7f303e7b2"
+    "last_changed_at": "2026-09-12T22:31:39Z",
+    "source_fingerprint": "99cff76458f27b30528d2169ef751a86b637efb2d0bed8771ba594b02dc01e72"
   },
   "teams": [
     {
