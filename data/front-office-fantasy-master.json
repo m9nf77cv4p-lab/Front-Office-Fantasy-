@@ -22073,7 +22073,7 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Coker",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Coker",
       "nfl_team": "CAR",
       "player_id": "11646",
@@ -25719,7 +25719,7 @@
       ],
       "first_name": "Jordan",
       "full_name": "Jordan Mason",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Mason",
       "nfl_team": "MIN",
       "player_id": "8408",
@@ -26366,8 +26366,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-14T06:14:13Z",
-    "source_fingerprint": "bbb52a22e2aab7422d1c19f0d80623ef0a426e0873781f20a7590953f050c586"
+    "last_changed_at": "2026-09-14T21:47:53Z",
+    "source_fingerprint": "62946f4d8acb9c20b92dfbe21bb057aff9805e79baed843d81f3baee07acf5a9"
   },
   "teams": [
     {
