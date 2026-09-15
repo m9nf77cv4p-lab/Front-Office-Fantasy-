@@ -22976,7 +22976,7 @@
       "full_name": "Phil Mafah",
       "injury_status": null,
       "last_name": "Mafah",
-      "nfl_team": null,
+      "nfl_team": "NYG",
       "player_id": "12738",
       "position": "RB",
       "status": "Active",
@@ -23649,7 +23649,7 @@
       ],
       "first_name": "Garrett",
       "full_name": "Garrett Nussmeier",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Nussmeier",
       "nfl_team": "KC",
       "player_id": "13404",
@@ -26366,8 +26366,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-14T21:47:53Z",
-    "source_fingerprint": "62946f4d8acb9c20b92dfbe21bb057aff9805e79baed843d81f3baee07acf5a9"
+    "last_changed_at": "2026-09-15T00:00:56Z",
+    "source_fingerprint": "f8bfe5b747b1578dc20b41f76aa35622f11253d171c41b18a56c1c2af930516f"
   },
   "teams": [
     {
