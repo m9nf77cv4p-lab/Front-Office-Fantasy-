@@ -3,9 +3,9 @@
 - Team: **TJS2025**
 - Manager: **TJS2025**
 - Roster ID: **10**
-- Players: **26**
+- Players: **27**
 - Taxi: **4**
-- Reserve/IR: **4**
+- Reserve/IR: **1**
 
 ## Current roster
 
@@ -13,14 +13,13 @@
 - Chase McLaughlin — K — TB
 - Eddy Pineiro — K — SF
 - Brock Purdy — QB — SF
-- Jalen Milroe — QB — SEA — reserve/IR
+- Jalen Milroe — QB — SEA
 - Matthew Stafford — QB — LAR
 - Christian McCaffrey — RB — SF
 - Jaylen Wright — RB — MIA
-- Kimani Vidal — RB — LAC
 - Omarion Hampton — RB — LAC
 - Seth McGowan — RB — IND — taxi
-- Ty Johnson — RB — BUF — reserve/IR
+- Ty Johnson — RB — BUF
 - Colby Parkinson — TE — LAR
 - George Kittle — TE — SF
 - Gunnar Helm — TE — TEN
@@ -29,12 +28,14 @@
 - Barion Brown — WR — NO — taxi
 - Darnell Mooney — WR — NYG
 - Deebo Samuel — WR — SF
+- Demarcus Robinson — WR — SF
 - Elic Ayomanor — WR — TEN
+- Kalif Raymond — WR — CHI
 - Kevin Coleman — WR — MIA — taxi
 - Malik Benson — WR — LV — taxi
 - Stefon Diggs — WR — WAS
 - Terry McLaurin — WR — WAS
-- Tory Horton — WR — SEA — reserve/IR
+- Tory Horton — WR — SEA
 
 ## Acquired future picks
 
