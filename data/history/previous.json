@@ -23229,7 +23229,7 @@
       "nfl_team": "BAL",
       "player_id": "13293",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 0
     },
     "13294": {
@@ -26466,8 +26466,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-17T00:35:42Z",
-    "source_fingerprint": "af134db7e69d86f48797849ccaef1af08dd3bf18441c8956cebe409bd39cfbac"
+    "last_changed_at": "2026-09-17T10:01:48Z",
+    "source_fingerprint": "2a51cfc8c4f0bf59765883cd791f2463c42e6f75749181f6c4037b2ba1106c36"
   },
   "teams": [
     {
