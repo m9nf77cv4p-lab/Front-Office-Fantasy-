@@ -21640,7 +21640,7 @@
       ],
       "first_name": "Michael",
       "full_name": "Michael Penix",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Penix",
       "nfl_team": "ATL",
       "player_id": "11559",
@@ -22075,7 +22075,7 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Coker",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Coker",
       "nfl_team": "CAR",
       "player_id": "11646",
@@ -24716,7 +24716,7 @@
       ],
       "first_name": "Tua",
       "full_name": "Tua Tagovailoa",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "Tagovailoa",
       "nfl_team": "ATL",
       "player_id": "6768",
@@ -25646,7 +25646,7 @@
       ],
       "first_name": "Chig",
       "full_name": "Chig Okonkwo",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Okonkwo",
       "nfl_team": "WAS",
       "player_id": "8210",
@@ -26368,8 +26368,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-18T15:01:09Z",
-    "source_fingerprint": "28fedb43efe831a9b00aa02d755c55da31b6a2f49b13cfcec37d5a5eb455c4d7"
+    "last_changed_at": "2026-09-18T18:12:33Z",
+    "source_fingerprint": "163136edeb26ecc3d8e8a102edfbb11e0afc47e27225ba21b1c0b9faa0b08c84"
   },
   "teams": [
     {
@@ -27185,7 +27185,7 @@
         "fpts_against": 126,
         "fpts_against_decimal": 4,
         "fpts_decimal": 60,
-        "locked": 1,
+        "locked": 0,
         "losses": 0,
         "ppts": 203,
         "ppts_decimal": 80,
