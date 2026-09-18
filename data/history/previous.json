@@ -23006,7 +23006,7 @@
       ],
       "first_name": "Omar",
       "full_name": "Omar Cooper",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Cooper",
       "nfl_team": "NYJ",
       "player_id": "13276",
@@ -26368,8 +26368,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-18T06:15:45Z",
-    "source_fingerprint": "019617c11e9403431513047eb59cd6c37e767603edc8eaceb414769e25f0a36b"
+    "last_changed_at": "2026-09-18T15:01:09Z",
+    "source_fingerprint": "28fedb43efe831a9b00aa02d755c55da31b6a2f49b13cfcec37d5a5eb455c4d7"
   },
   "teams": [
     {
