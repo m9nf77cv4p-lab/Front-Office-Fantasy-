@@ -21985,7 +21985,7 @@
       ],
       "first_name": "Brian",
       "full_name": "Brian Thomas",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Thomas",
       "nfl_team": "JAX",
       "player_id": "11631",
@@ -24266,7 +24266,7 @@
       ],
       "first_name": "George",
       "full_name": "George Kittle",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Kittle",
       "nfl_team": "SF",
       "player_id": "4217",
@@ -24611,7 +24611,7 @@
       ],
       "first_name": "Jakobi",
       "full_name": "Jakobi Meyers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Meyers",
       "nfl_team": "JAX",
       "player_id": "5947",
@@ -25886,7 +25886,7 @@
       ],
       "first_name": "Puka",
       "full_name": "Puka Nacua",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Nacua",
       "nfl_team": "LAR",
       "player_id": "9493",
@@ -26368,8 +26368,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-18T20:52:44Z",
-    "source_fingerprint": "de5c60a87dee79d2871e956a110eb57ba53b32b7baabe39e8b0eed208e48095f"
+    "last_changed_at": "2026-09-18T22:51:54Z",
+    "source_fingerprint": "7bc00620324744dec944b8ad72c487691892849a34275eb9f083ecbdb54c45a7"
   },
   "teams": [
     {
