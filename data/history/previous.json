@@ -23768,7 +23768,7 @@
       ],
       "first_name": "De'Zhaun",
       "full_name": "De'Zhaun Stribling",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Stribling",
       "nfl_team": "SF",
       "player_id": "13417",
@@ -26515,8 +26515,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-19T21:01:23Z",
-    "source_fingerprint": "f6c48e2542ab9404981c58cabc9cec17988c7ac867a45bfb774283f3ecbd8c8b"
+    "last_changed_at": "2026-09-19T22:48:06Z",
+    "source_fingerprint": "ddf872e4af0c69e6ecc15a6226c2dd3c0017cbb618fc65d41761928f8a4eac63"
   },
   "teams": [
     {
