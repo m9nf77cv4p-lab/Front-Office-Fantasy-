@@ -24253,7 +24253,7 @@
       "nfl_team": "LAC",
       "player_id": "4033",
       "position": "TE",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 9
     },
     "4034": {
@@ -25673,7 +25673,7 @@
       ],
       "first_name": "Brian",
       "full_name": "Brian Robinson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Robinson",
       "nfl_team": "ATL",
       "player_id": "8154",
@@ -26515,8 +26515,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-21T06:29:03Z",
-    "source_fingerprint": "354610d3f39437ee8d53901193ce536bdd7f3f08ebab3b3bf6e8c5e82fe33e55"
+    "last_changed_at": "2026-09-21T22:10:27Z",
+    "source_fingerprint": "85f91020b8af29e4d01ca25dda7de990c414a642074df562488ad0dbfc005d2b"
   },
   "teams": [
     {
