@@ -25122,7 +25122,7 @@
       ],
       "first_name": "Rico",
       "full_name": "Rico Dowdle",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Dowdle",
       "nfl_team": "PIT",
       "player_id": "7021",
@@ -26564,8 +26564,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-22T18:19:41Z",
-    "source_fingerprint": "42a2483606ef7024e290210ae20b8d2749ab75fced3e5a4f1ba0d6feba4128ac"
+    "last_changed_at": "2026-09-22T21:26:08Z",
+    "source_fingerprint": "8c3d00ac128fe4d6ccae087a6bfa6c4dc66039bdfb33bd140e280acc1eb2fbbe"
   },
   "teams": [
     {
