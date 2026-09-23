@@ -21769,12 +21769,12 @@
       ],
       "first_name": "Andrei",
       "full_name": "Andrei Iosivas",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Iosivas",
       "nfl_team": "CIN",
       "player_id": "10226",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 3
     },
     "10229": {
@@ -22009,7 +22009,7 @@
       ],
       "first_name": "Jayden",
       "full_name": "Jayden Daniels",
-      "injury_status": "Doubtful",
+      "injury_status": "Out",
       "last_name": "Daniels",
       "nfl_team": "WAS",
       "player_id": "11566",
@@ -22384,7 +22384,7 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Coker",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Coker",
       "nfl_team": "CAR",
       "player_id": "11646",
@@ -23675,7 +23675,7 @@
       ],
       "first_name": "Jonah",
       "full_name": "Jonah Coleman",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Coleman",
       "nfl_team": "DEN",
       "player_id": "13345",
@@ -23765,7 +23765,7 @@
       ],
       "first_name": "Brenen",
       "full_name": "Brenen Thompson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Thompson",
       "nfl_team": "LAC",
       "player_id": "13380",
@@ -24455,7 +24455,7 @@
       ],
       "first_name": "David",
       "full_name": "David Njoku",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Njoku",
       "nfl_team": "LAC",
       "player_id": "4033",
@@ -24590,7 +24590,7 @@
       ],
       "first_name": "Aaron",
       "full_name": "Aaron Jones",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Jones",
       "nfl_team": "MIN",
       "player_id": "4199",
@@ -25810,7 +25810,7 @@
       "nfl_team": "IND",
       "player_id": "8142",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 4
     },
     "8144": {
@@ -26015,7 +26015,7 @@
       ],
       "first_name": "Jaylen",
       "full_name": "Jaylen Warren",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Warren",
       "nfl_team": "PIT",
       "player_id": "8228",
@@ -26752,8 +26752,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-23T16:53:48Z",
-    "source_fingerprint": "43b3cf95636cfed148a975a4a33eddab63c1388a9fac7d7dbf4c4406cba17af8"
+    "last_changed_at": "2026-09-23T19:53:17Z",
+    "source_fingerprint": "e40edd7d2dfca511ce52e5ecb44f5256f9b0218a30edf82767ad4c649916ed9c"
   },
   "teams": [
     {
@@ -27582,7 +27582,8 @@
         "LAC"
       ],
       "reserve_ids": [
-        "11583"
+        "11583",
+        "12508"
       ],
       "roster_id": 11,
       "settings": {
