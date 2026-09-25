@@ -23435,7 +23435,7 @@
       ],
       "first_name": "Caleb",
       "full_name": "Caleb Douglas",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Douglas",
       "nfl_team": "MIA",
       "player_id": "13296",
@@ -26752,8 +26752,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-25T10:15:01Z",
-    "source_fingerprint": "d03150f271663f8aaa516340fca3218023a0a352b75bd3ebc30abd0a879f6d0f"
+    "last_changed_at": "2026-09-25T15:16:42Z",
+    "source_fingerprint": "9af05620f9ad8968ff35ee9f621bd89d00eedd252b728e880a117667ea5b9fa7"
   },
   "teams": [
     {
