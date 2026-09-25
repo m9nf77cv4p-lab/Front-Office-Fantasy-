@@ -3,7 +3,7 @@
 - Season: **2026**
 - Status: **in_season**
 - Teams: **12**
-- Traded-pick records: **45**
+- Traded-pick records: **46**
 - Drafts attached to current league: **1**
 
 ## Teams
