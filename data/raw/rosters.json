@@ -250,6 +250,7 @@
     "owner_id": "729481106830819328",
     "player_map": null,
     "players": [
+      "10218",
       "10222",
       "11576",
       "12472",
@@ -296,7 +297,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_position": 12,
       "wins": 1
     },
     "starters": [
@@ -362,12 +363,10 @@
       "9228",
       "9508",
       "9754",
-      "CAR",
       "KC"
     ],
     "reserve": [
       "11560",
-      "6768",
       "7049"
     ],
     "roster_id": 5,
@@ -382,7 +381,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 1
     },
     "starters": [
@@ -468,7 +467,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 0
     },
     "starters": [
@@ -633,7 +632,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 2
     },
     "starters": [
@@ -829,7 +828,6 @@
       "12519",
       "12529",
       "12534",
-      "12738",
       "13301",
       "13306",
       "13345",
@@ -883,7 +881,6 @@
       "LAC"
     ],
     "taxi": [
-      "12738",
       "13306",
       "13345",
       "13401"
