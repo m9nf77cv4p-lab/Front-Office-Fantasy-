@@ -15195,11 +15195,11 @@
         "starters": [
           "6770",
           "8138",
-          "9226",
+          "12490",
           "10229",
           "6801",
           "11604",
-          "12490",
+          "11586",
           "11624",
           "4199",
           "6804",
@@ -21996,7 +21996,7 @@
       "full_name": "J.J. McCarthy",
       "injury_status": "Out",
       "last_name": "McCarthy",
-      "nfl_team": "MIN",
+      "nfl_team": "NYG",
       "player_id": "11565",
       "position": "QB",
       "status": "Active",
@@ -24695,7 +24695,7 @@
       ],
       "first_name": "Baker",
       "full_name": "Baker Mayfield",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Mayfield",
       "nfl_team": "TB",
       "player_id": "4892",
@@ -26752,8 +26752,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-09-28T05:34:24Z",
-    "source_fingerprint": "5c3c4849292e1bc72c04428dc9dc926c8b4fe460dc9acb36b2878204a8606b7b"
+    "last_changed_at": "2026-09-28T19:03:06Z",
+    "source_fingerprint": "c13f215c668add415fdba795c8452a4d8904e6b0e1ea45ba980e1ac4a1b89a8b"
   },
   "teams": [
     {
