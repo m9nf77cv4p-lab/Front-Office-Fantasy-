@@ -5,7 +5,7 @@
 - Roster ID: **10**
 - Players: **27**
 - Taxi: **4**
-- Reserve/IR: **4**
+- Reserve/IR: **2**
 
 ## Current roster
 
@@ -13,10 +13,10 @@
 - Chase McLaughlin — K — TB
 - Eddy Pineiro — K — SF
 - Brock Purdy — QB — SF
-- Jalen Milroe — QB — SEA — reserve/IR
+- Jalen Milroe — QB — SEA
 - Matthew Stafford — QB — LAR
 - Christian McCaffrey — RB — SF
-- Jaylen Wright — RB — MIA — reserve/IR
+- Jaylen Wright — RB — MIA
 - Omarion Hampton — RB — LAC
 - Seth McGowan — RB — IND — taxi
 - Colby Parkinson — TE — LAR
