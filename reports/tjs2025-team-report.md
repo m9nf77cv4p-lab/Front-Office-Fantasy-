@@ -3,7 +3,7 @@
 - Team: **TJS2025**
 - Manager: **TJS2025**
 - Roster ID: **10**
-- Players: **27**
+- Players: **28**
 - Taxi: **4**
 - Reserve/IR: **2**
 
@@ -17,6 +17,7 @@
 - Matthew Stafford — QB — LAR
 - Christian McCaffrey — RB — SF
 - Jaylen Wright — RB — MIA
+- Kendre Miller — RB — NO
 - Omarion Hampton — RB — LAC
 - Seth McGowan — RB — IND — taxi
 - Ty Johnson — RB — BUF
