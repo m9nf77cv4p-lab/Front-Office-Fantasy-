@@ -19,6 +19,7 @@
 - Jaylen Wright — RB — MIA
 - Omarion Hampton — RB — LAC
 - Seth McGowan — RB — IND — taxi
+- Ty Johnson — RB — BUF
 - Colby Parkinson — TE — LAR
 - George Kittle — TE — SF
 - Gunnar Helm — TE — TEN
@@ -35,7 +36,6 @@
 - Stefon Diggs — WR — WAS
 - Terry McLaurin — WR — WAS
 - Tory Horton — WR — SEA
-- Tyquan Thornton — WR — KC
 
 ## Acquired future picks
 
