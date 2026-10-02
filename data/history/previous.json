@@ -24170,7 +24170,7 @@
       ],
       "first_name": "Keenan",
       "full_name": "Keenan Allen",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Allen",
       "nfl_team": "IND",
       "player_id": "1479",
@@ -24500,7 +24500,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Godwin",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Godwin",
       "nfl_team": "TB",
       "player_id": "4037",
@@ -24650,7 +24650,7 @@
       ],
       "first_name": "Lamar",
       "full_name": "Lamar Jackson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Jackson",
       "nfl_team": "BAL",
       "player_id": "4881",
@@ -24980,7 +24980,7 @@
       ],
       "first_name": "Tony",
       "full_name": "Tony Pollard",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Pollard",
       "nfl_team": "TEN",
       "player_id": "5967",
@@ -25085,7 +25085,7 @@
       ],
       "first_name": "D'Andre",
       "full_name": "D'Andre Swift",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Swift",
       "nfl_team": "CHI",
       "player_id": "6790",
@@ -25400,12 +25400,12 @@
       ],
       "first_name": "Travis",
       "full_name": "Travis Etienne",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Etienne",
       "nfl_team": "NO",
       "player_id": "7543",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 5
     },
     "7547": {
@@ -26350,7 +26350,7 @@
       "nfl_team": "SEA",
       "player_id": "9753",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 3
     },
     "9754": {
@@ -26405,7 +26405,7 @@
       ],
       "first_name": "Zay",
       "full_name": "Zay Flowers",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Flowers",
       "nfl_team": "BAL",
       "player_id": "9997",
@@ -26707,8 +26707,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-01T02:25:33Z",
-    "source_fingerprint": "2c14bc6d6fdbd7e24d113f409454450deacd4b8eac8a7ce3570938f1938a5e83"
+    "last_changed_at": "2026-10-01T21:06:16Z",
+    "source_fingerprint": "3f47ff7062768638585b064f198813b406b926e7363274e75024be7655b9ac74"
   },
   "teams": [
     {
