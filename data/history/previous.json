@@ -26519,7 +26519,7 @@
       "years_exp": 3
     },
     "9758": {
-      "age": 24,
+      "age": 25,
       "fantasy_positions": [
         "QB"
       ],
@@ -26842,8 +26842,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-02T21:47:51Z",
-    "source_fingerprint": "ce1a4024014ce7b331faa4e0c131d4fbe2d48773e1137c6a6e01230e5989854a"
+    "last_changed_at": "2026-10-03T00:45:20Z",
+    "source_fingerprint": "c48ef8e9c84db29856095189b324af813e904c3e02a262a4af193b07f153c264"
   },
   "teams": [
     {
