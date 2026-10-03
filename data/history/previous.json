@@ -25100,7 +25100,7 @@
       ],
       "first_name": "Terry",
       "full_name": "Terry McLaurin",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "McLaurin",
       "nfl_team": "WAS",
       "player_id": "5927",
@@ -26887,8 +26887,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-03T14:53:12Z",
-    "source_fingerprint": "104f3cffbb2345fd4a9aebaa74248f29b60b0e590df0cf239ea58554f2b5a7de"
+    "last_changed_at": "2026-10-03T18:20:52Z",
+    "source_fingerprint": "f62e25dd56f0d5b536614705980be87fc7782040a061a452c88d88b524e07ebb"
   },
   "teams": [
     {
