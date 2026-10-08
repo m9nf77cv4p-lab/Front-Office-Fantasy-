@@ -22154,7 +22154,7 @@
       ],
       "first_name": "Brock",
       "full_name": "Brock Bowers",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Bowers",
       "nfl_team": "LV",
       "player_id": "11604",
@@ -22238,7 +22238,7 @@
       "years_exp": 2
     },
     "11625": {
-      "age": 23,
+      "age": 24,
       "fantasy_positions": [
         "WR"
       ],
@@ -22298,7 +22298,7 @@
       "years_exp": 2
     },
     "11631": {
-      "age": 23,
+      "age": 24,
       "fantasy_positions": [
         "WR"
       ],
@@ -22514,7 +22514,7 @@
       ],
       "first_name": "George",
       "full_name": "George Holani",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Holani",
       "nfl_team": "SEA",
       "player_id": "12048",
@@ -23955,7 +23955,7 @@
       ],
       "first_name": "Kaelon",
       "full_name": "Kaelon Black",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Black",
       "nfl_team": "SF",
       "player_id": "13414",
@@ -24015,7 +24015,7 @@
       ],
       "first_name": "Eli",
       "full_name": "Eli Raridon",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Raridon",
       "nfl_team": "NE",
       "player_id": "13421",
@@ -24105,7 +24105,7 @@
       ],
       "first_name": "Barion",
       "full_name": "Barion Brown",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Brown",
       "nfl_team": "NO",
       "player_id": "13533",
@@ -25605,7 +25605,7 @@
       ],
       "first_name": "Rashod",
       "full_name": "Rashod Bateman",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Bateman",
       "nfl_team": "BAL",
       "player_id": "7571",
@@ -26475,7 +26475,7 @@
       ],
       "first_name": "Quentin",
       "full_name": "Quentin Johnston",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Johnston",
       "nfl_team": "LAC",
       "player_id": "9754",
@@ -26792,8 +26792,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-07T21:19:09Z",
-    "source_fingerprint": "55d3d9b56a3ca5c5cceaf2bc752b05282b1d9b3359c45bffdba9600d3fc47524"
+    "last_changed_at": "2026-10-08T01:03:12Z",
+    "source_fingerprint": "cd16322931940702238c2046e6236934a759caad3e8c36d36c53719a50666cbb"
   },
   "teams": [
     {
