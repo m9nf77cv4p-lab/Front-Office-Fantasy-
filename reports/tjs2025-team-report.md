@@ -5,7 +5,7 @@
 - Roster ID: **10**
 - Players: **28**
 - Taxi: **4**
-- Reserve/IR: **2**
+- Reserve/IR: **3**
 
 ## Current roster
 
@@ -34,7 +34,7 @@
 - Kalif Raymond — WR — CHI
 - Kevin Coleman — WR — MIA — taxi
 - Malik Benson — WR — LV — taxi
-- Stefon Diggs — WR — WAS
+- Stefon Diggs — WR — WAS — reserve/IR
 - Terry McLaurin — WR — WAS
 - Tory Horton — WR — SEA
 
