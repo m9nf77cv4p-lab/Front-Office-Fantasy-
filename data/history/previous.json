@@ -23529,7 +23529,7 @@
       "years_exp": 0
     },
     "13303": {
-      "age": 22,
+      "age": 23,
       "fantasy_positions": [
         "QB"
       ],
@@ -23664,7 +23664,7 @@
       "years_exp": 0
     },
     "13337": {
-      "age": 22,
+      "age": 23,
       "fantasy_positions": [
         "RB"
       ],
@@ -23897,7 +23897,7 @@
       "full_name": "Kaytron Allen",
       "injury_status": null,
       "last_name": "Allen",
-      "nfl_team": null,
+      "nfl_team": "MIA",
       "player_id": "13405",
       "position": "RB",
       "status": "Active",
@@ -24129,7 +24129,7 @@
       "years_exp": 0
     },
     "1373": {
-      "age": 35,
+      "age": 36,
       "fantasy_positions": [
         "QB"
       ],
@@ -24834,7 +24834,7 @@
       "years_exp": 8
     },
     "5045": {
-      "age": 30,
+      "age": 31,
       "fantasy_positions": [
         "WR"
       ],
@@ -25335,7 +25335,7 @@
       ],
       "first_name": "Colby",
       "full_name": "Colby Parkinson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Parkinson",
       "nfl_team": "LAR",
       "player_id": "6865",
@@ -26792,8 +26792,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-09T22:55:08Z",
-    "source_fingerprint": "28a3322a65a838ab8423a831d84a8eb697831fc96281b5ce17c01cca244de00e"
+    "last_changed_at": "2026-10-10T01:58:02Z",
+    "source_fingerprint": "f33cc948a71af650562aae08981941a6b350546a3bf6bc519c6c09bb507303ff"
   },
   "teams": [
     {
@@ -27150,7 +27150,7 @@
         "9754"
       ],
       "reserve_ids": [
-        "11560"
+        "9754"
       ],
       "roster_id": 5,
       "settings": {
