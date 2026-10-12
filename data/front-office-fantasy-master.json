@@ -22390,7 +22390,7 @@
       ],
       "first_name": "Ladd",
       "full_name": "Ladd McConkey",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "McConkey",
       "nfl_team": "LAC",
       "player_id": "11635",
@@ -26878,8 +26878,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-12T06:33:45Z",
-    "source_fingerprint": "74948de573d26bd3dbf97f845ba99b3e50170d84f5c75c55e4254ed76d388b7e"
+    "last_changed_at": "2026-10-12T15:59:25Z",
+    "source_fingerprint": "fb67f6ca557d11348b9c9ef785e65dde3283edc44c48995db9a5eb36e88d0b5c"
   },
   "teams": [
     {
