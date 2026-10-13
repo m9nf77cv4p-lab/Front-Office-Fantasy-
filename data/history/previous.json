@@ -17408,15 +17408,15 @@
         "roster_id": 2,
         "starters": [
           "6904",
-          "9221",
+          "8228",
           "11584",
           "2133",
           "2216",
           "5001",
-          "8228",
+          "11635",
           "13346",
           "12501",
-          "5849",
+          "1373",
           "3451",
           "HOU"
         ],
@@ -24986,7 +24986,7 @@
       ],
       "first_name": "Drew",
       "full_name": "Drew Lock",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Lock",
       "nfl_team": "SEA",
       "player_id": "5854",
@@ -26366,7 +26366,7 @@
       ],
       "first_name": "Jaxon",
       "full_name": "Jaxon Smith-Njigba",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Smith-Njigba",
       "nfl_team": "SEA",
       "player_id": "9488",
@@ -26878,8 +26878,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-12T15:59:25Z",
-    "source_fingerprint": "fb67f6ca557d11348b9c9ef785e65dde3283edc44c48995db9a5eb36e88d0b5c"
+    "last_changed_at": "2026-10-12T22:44:34Z",
+    "source_fingerprint": "f7f32dbd061a663a9c7691af5aa14a573bb09327b9098cd535fb446007bd33fb"
   },
   "teams": [
     {
