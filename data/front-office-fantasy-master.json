@@ -24899,7 +24899,7 @@
       ],
       "first_name": "Baker",
       "full_name": "Baker Mayfield",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "last_name": "Mayfield",
       "nfl_team": "TB",
       "player_id": "4892",
@@ -27001,8 +27001,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-14T10:26:54Z",
-    "source_fingerprint": "59a16607240fd7743ccba414b8a074845526215d3c3d7d4255f167351577d610"
+    "last_changed_at": "2026-10-14T15:18:18Z",
+    "source_fingerprint": "3175e5b2418e1844671eb2f7ce57f751f80334bd602287502372c5c7e8e99919"
   },
   "teams": [
     {
@@ -27283,9 +27283,7 @@
       "reserve_ids": [
         "10222",
         "12472",
-        "13276",
-        "7525",
-        "8155"
+        "13276"
       ],
       "roster_id": 4,
       "settings": {
