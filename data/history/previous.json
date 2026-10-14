@@ -21871,7 +21871,7 @@
       "full_name": "Emari Demercado",
       "injury_status": null,
       "last_name": "Demercado",
-      "nfl_team": null,
+      "nfl_team": "DAL",
       "player_id": "11199",
       "position": "RB",
       "status": "Active",
@@ -22604,12 +22604,12 @@
       ],
       "first_name": "Raheim",
       "full_name": "Raheim Sanders",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Sanders",
       "nfl_team": "CLE",
       "player_id": "12472",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 1
     },
     "12474": {
@@ -26837,8 +26837,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-13T17:42:55Z",
-    "source_fingerprint": "6dd21211bd5d46b2ad65f37421abcd03e3b7d8def27649d6449696f8fabf25c1"
+    "last_changed_at": "2026-10-13T21:57:32Z",
+    "source_fingerprint": "3d5bc987c3482d1469477460f89255ceb02befefb743ecdbbfc03a050e222fef"
   },
   "teams": [
     {
