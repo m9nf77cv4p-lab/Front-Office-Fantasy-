@@ -28,13 +28,13 @@
 - A.J. Brown — WR — NE — reserve/IR
 - Barion Brown — WR — NO — taxi
 - Darnell Mooney — WR — NYG
-- Deebo Samuel — WR — SF
+- Deebo Samuel — WR — SF — reserve/IR
 - Demarcus Robinson — WR — SF — reserve/IR
 - Elic Ayomanor — WR — TEN
 - Kalif Raymond — WR — CHI
 - Kevin Coleman — WR — MIA — taxi
 - Malik Benson — WR — LV — taxi
-- Stefon Diggs — WR — WAS — reserve/IR
+- Stefon Diggs — WR — WAS
 - Terry McLaurin — WR — WAS
 - Tory Horton — WR — SEA
 
