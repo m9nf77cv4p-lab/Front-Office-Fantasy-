@@ -22438,7 +22438,7 @@
       ],
       "first_name": "Roman",
       "full_name": "Roman Wilson",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Wilson",
       "nfl_team": "PIT",
       "player_id": "11630",
@@ -24869,7 +24869,7 @@
       ],
       "first_name": "Austin",
       "full_name": "Austin Ekeler",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Ekeler",
       "nfl_team": "WAS",
       "player_id": "4663",
@@ -25214,7 +25214,7 @@
       ],
       "first_name": "Terry",
       "full_name": "Terry McLaurin",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "McLaurin",
       "nfl_team": "WAS",
       "player_id": "5927",
@@ -26009,7 +26009,7 @@
       ],
       "first_name": "Rachaad",
       "full_name": "Rachaad White",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "White",
       "nfl_team": "WAS",
       "player_id": "8136",
@@ -27001,8 +27001,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-17T17:17:29Z",
-    "source_fingerprint": "a4f4400b1cf4c69ffa52abc88622cfc66b5195f651f54f2d5e83f14279c55735"
+    "last_changed_at": "2026-10-17T19:26:36Z",
+    "source_fingerprint": "40d6e09779d08b70bdfdeb2b4c99d6fa2a715f05c8eeda01c02a0ed40b5ea264"
   },
   "teams": [
     {
