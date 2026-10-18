@@ -5,7 +5,7 @@
 - Roster ID: **10**
 - Players: **28**
 - Taxi: **4**
-- Reserve/IR: **3**
+- Reserve/IR: **2**
 
 ## Current roster
 
@@ -25,7 +25,7 @@
 - George Kittle — TE — SF
 - Gunnar Helm — TE — TEN
 - Hunter Henry — TE — NE
-- A.J. Brown — WR — NE — reserve/IR
+- A.J. Brown — WR — NE
 - Barion Brown — WR — NO — taxi
 - Darnell Mooney — WR — NYG
 - Deebo Samuel — WR — SF — reserve/IR
