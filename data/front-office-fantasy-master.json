@@ -18771,18 +18771,18 @@
         "points": 0.0,
         "roster_id": 3,
         "starters": [
-          "4943",
-          "8138",
-          "12490",
+          "6770",
+          "4199",
+          "4147",
           "11624",
-          "9486",
+          "6801",
           "11604",
           "5022",
           "7567",
           "11586",
           "6804",
           "4227",
-          "KC"
+          "DEN"
         ],
         "starters_points": [
           0.0,
@@ -27152,8 +27152,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-19T06:20:45Z",
-    "source_fingerprint": "48335bd51bbc3afb62ea22526129a607cfb22bcc314ffa73d97cfb728af204d0"
+    "last_changed_at": "2026-10-19T13:36:15Z",
+    "source_fingerprint": "b8e9623273cc10b9222ed5c03c6b3c127a110d77a6c2b4d4675bc4a302f30452"
   },
   "teams": [
     {
