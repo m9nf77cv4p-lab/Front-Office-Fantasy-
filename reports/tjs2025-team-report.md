@@ -5,7 +5,7 @@
 - Roster ID: **10**
 - Players: **28**
 - Taxi: **4**
-- Reserve/IR: **2**
+- Reserve/IR: **3**
 
 ## Current roster
 
@@ -35,7 +35,7 @@
 - Kevin Coleman — WR — MIA — taxi
 - Malik Benson — WR — LV — taxi
 - Stefon Diggs — WR — WAS
-- Terry McLaurin — WR — WAS
+- Terry McLaurin — WR — WAS — reserve/IR
 - Tory Horton — WR — SEA
 
 ## Acquired future picks
