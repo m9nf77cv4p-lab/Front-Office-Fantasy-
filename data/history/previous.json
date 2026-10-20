@@ -18680,13 +18680,13 @@
           "1373",
           "8228",
           "11584",
-          "2133",
+          "8676",
           "2216",
           "5001",
-          "11635",
+          "9221",
           "13346",
           "12501",
-          "7600",
+          "5849",
           "3451",
           "HOU"
         ],
@@ -23370,12 +23370,12 @@
       ],
       "first_name": "Jacory",
       "full_name": "Jacory Croskey-Merritt",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Croskey-Merritt",
       "nfl_team": "WAS",
       "player_id": "12533",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 1
     },
     "12534": {
@@ -24525,7 +24525,7 @@
       ],
       "first_name": "Davante",
       "full_name": "Davante Adams",
-      "injury_status": null,
+      "injury_status": "Out",
       "last_name": "Adams",
       "nfl_team": "LAR",
       "player_id": "2133",
@@ -24555,7 +24555,7 @@
       ],
       "first_name": "Mike",
       "full_name": "Mike Evans",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Evans",
       "nfl_team": "SF",
       "player_id": "2216",
@@ -24585,7 +24585,7 @@
       ],
       "first_name": "Stefon",
       "full_name": "Stefon Diggs",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Diggs",
       "nfl_team": "WAS",
       "player_id": "2449",
@@ -26040,12 +26040,12 @@
       ],
       "first_name": "Romeo",
       "full_name": "Romeo Doubs",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Doubs",
       "nfl_team": "NE",
       "player_id": "8121",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 4
     },
     "8126": {
@@ -27152,8 +27152,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-19T13:36:15Z",
-    "source_fingerprint": "b8e9623273cc10b9222ed5c03c6b3c127a110d77a6c2b4d4675bc4a302f30452"
+    "last_changed_at": "2026-10-19T22:58:37Z",
+    "source_fingerprint": "8ffb8c95364541fa827fbf7216a3695e48f3732859e9e1a8b4f0cdb4543ca0f2"
   },
   "teams": [
     {
