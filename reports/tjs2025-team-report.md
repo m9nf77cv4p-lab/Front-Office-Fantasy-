@@ -3,7 +3,7 @@
 - Team: **TJS2025**
 - Manager: **TJS2025**
 - Roster ID: **10**
-- Players: **28**
+- Players: **29**
 - Taxi: **4**
 - Reserve/IR: **3**
 
@@ -15,6 +15,7 @@
 - Brock Purdy — QB — SF
 - Jalen Milroe — QB — SEA
 - Matthew Stafford — QB — LAR
+- Chris Rodriguez — RB — JAX
 - Christian McCaffrey — RB — SF
 - Jaylen Wright — RB — MIA
 - Kendre Miller — RB — NO
