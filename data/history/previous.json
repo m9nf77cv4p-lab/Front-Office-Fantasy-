@@ -24447,12 +24447,12 @@
       ],
       "first_name": "Davante",
       "full_name": "Davante Adams",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Adams",
       "nfl_team": "LAR",
       "player_id": "2133",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 12
     },
     "2197": {
@@ -26612,7 +26612,7 @@
       "nfl_team": "HOU",
       "player_id": "9502",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "years_exp": 3
     },
     "9504": {
@@ -27074,8 +27074,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-20T19:59:59Z",
-    "source_fingerprint": "4d03dd44e139683cf9cf2c9f7427d32b9ae070d32b27c12f8d246819b910bc67"
+    "last_changed_at": "2026-10-20T22:58:28Z",
+    "source_fingerprint": "6f6d3e9a3475b1ced891d8ea39395f45dbade1ca532b314ca3e0c6b998ffb941"
   },
   "teams": [
     {
