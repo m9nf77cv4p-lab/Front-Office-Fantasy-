@@ -22253,7 +22253,7 @@
       ],
       "first_name": "Bucky",
       "full_name": "Bucky Irving",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Irving",
       "nfl_team": "TB",
       "player_id": "11584",
@@ -22388,7 +22388,7 @@
       ],
       "first_name": "Adonai",
       "full_name": "Adonai Mitchell",
-      "injury_status": "Doubtful",
+      "injury_status": "Questionable",
       "last_name": "Mitchell",
       "nfl_team": "NYJ",
       "player_id": "11625",
@@ -23078,7 +23078,7 @@
       ],
       "first_name": "Emeka",
       "full_name": "Emeka Egbuka",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Egbuka",
       "nfl_team": "TB",
       "player_id": "12514",
@@ -23244,7 +23244,7 @@
       ],
       "first_name": "Kyle",
       "full_name": "Kyle Monangai",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Monangai",
       "nfl_team": "CHI",
       "player_id": "12534",
@@ -24954,7 +24954,7 @@
       ],
       "first_name": "Calvin",
       "full_name": "Calvin Ridley",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Ridley",
       "nfl_team": "TEN",
       "player_id": "4981",
@@ -25149,7 +25149,7 @@
       ],
       "first_name": "A.J.",
       "full_name": "A.J. Brown",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Brown",
       "nfl_team": "NE",
       "player_id": "5859",
@@ -26589,7 +26589,7 @@
       ],
       "first_name": "Sean",
       "full_name": "Sean Tucker",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Tucker",
       "nfl_team": "TB",
       "player_id": "9506",
@@ -26996,8 +26996,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-21T16:05:01Z",
-    "source_fingerprint": "bff3f341cc032c867b66270d4222190192bcb33fcba5cbad1893eadd16f6ee0d"
+    "last_changed_at": "2026-10-21T20:03:36Z",
+    "source_fingerprint": "19149513c6a3114a68ce6eb7369f14ece6a1b094f861d9556cd421ee2d137a64"
   },
   "teams": [
     {

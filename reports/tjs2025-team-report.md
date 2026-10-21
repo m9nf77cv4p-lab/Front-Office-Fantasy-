@@ -15,7 +15,7 @@
 - Brock Purdy — QB — SF
 - Jalen Milroe — QB — SEA
 - Matthew Stafford — QB — LAR
-- Chris Rodriguez — RB — JAX
+- Chris Rodriguez Jr. — RB — JAX
 - Christian McCaffrey — RB — SF
 - Jaylen Wright — RB — MIA
 - Kendre Miller — RB — NO
@@ -29,11 +29,11 @@
 - A.J. Brown — WR — NE
 - Barion Brown — WR — NO — taxi
 - Darnell Mooney — WR — NYG
-- Deebo Samuel — WR — SF — reserve/IR
+- Deebo Samuel Sr. — WR — SF — reserve/IR
 - Demarcus Robinson — WR — SF — reserve/IR
 - Elic Ayomanor — WR — TEN
 - Kalif Raymond — WR — CHI
-- Kevin Coleman — WR — MIA — taxi
+- Kevin Coleman Jr. — WR — MIA — taxi
 - Malik Benson — WR — LV — taxi
 - Stefon Diggs — WR — WAS
 - Terry McLaurin — WR — WAS — reserve/IR
