@@ -9,6 +9,7 @@
 
 ## Current roster
 
+- CIN — DEF — CIN
 - LAR — DEF — LAR
 - Chase McLaughlin — K — TB
 - Eddy Pineiro — K — SF
@@ -21,7 +22,6 @@
 - Kendre Miller — RB — NO
 - Omarion Hampton — RB — LAC
 - Seth McGowan — RB — IND — taxi
-- Ty Johnson — RB — BUF
 - Colby Parkinson — TE — LAR
 - George Kittle — TE — SF
 - Gunnar Helm — TE — TEN
