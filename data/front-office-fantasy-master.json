@@ -24723,7 +24723,7 @@
       ],
       "first_name": "Alvin",
       "full_name": "Alvin Kamara",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Kamara",
       "nfl_team": "NO",
       "player_id": "4035",
@@ -26603,7 +26603,7 @@
       "nfl_team": "HOU",
       "player_id": "9502",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 3
     },
     "9506": {
@@ -27035,8 +27035,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-23T06:30:42Z",
-    "source_fingerprint": "fc293bed11197e91787481d9d7bb33ebcafff2eeb1a68dfaeadd0235a5a1bf7e"
+    "last_changed_at": "2026-10-23T16:15:15Z",
+    "source_fingerprint": "cb98982a00e45f1767ba8080b8b3834e0ceb0f10a386d52abc7bb5464bd0f34e"
   },
   "teams": [
     {
