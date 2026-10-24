@@ -14,7 +14,7 @@
 - Roster 4: **501st Legion** (krei012) — 27 players
 - Roster 5: **Mozzarella Cheese** (Revont) — 29 players
 - Roster 6: **midedunni** (midedunni) — 31 players
-- Roster 7: **theGOATcheese** (kylemercer87) — 27 players
+- Roster 7: **theGOATcheese** (kylemercer87) — 28 players
 - Roster 8: **We Fly High** (cabot9188) — 31 players
 - Roster 9: **Multiple Scorgasims** (PrimeTime000) — 28 players
 - Roster 10: **TJS2025** (TJS2025) — 29 players
