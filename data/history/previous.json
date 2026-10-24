@@ -22663,7 +22663,7 @@
       "nfl_team": "CLE",
       "player_id": "12469",
       "position": "RB",
-      "status": "Inactive",
+      "status": "Active",
       "years_exp": 1
     },
     "12471": {
@@ -26996,8 +26996,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-24T16:55:38Z",
-    "source_fingerprint": "a520bbecb24d8a79eafdabd7fcc6c06219361a8235e8edb209bac0716b0b1e5d"
+    "last_changed_at": "2026-10-24T19:09:08Z",
+    "source_fingerprint": "ea2f33ce3cb849a11572a6b96c81a5c9c1d06b6b21aa119d52bc9485b460e041"
   },
   "teams": [
     {
