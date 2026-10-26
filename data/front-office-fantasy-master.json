@@ -19894,13 +19894,13 @@
         "roster_id": 3,
         "starters": [
           "6770",
-          "4199",
-          "4147",
+          "12490",
+          "8138",
           "11624",
-          "6801",
+          "10229",
           "11604",
           "5022",
-          "2197",
+          "6801",
           "11586",
           "6804",
           "4227",
@@ -20281,7 +20281,7 @@
         "points": 0.0,
         "roster_id": 7,
         "starters": [
-          "4892",
+          "4984",
           "7594",
           "9224",
           "6794",
@@ -20290,7 +20290,7 @@
           "8132",
           "13294",
           "2505",
-          "11563",
+          "4892",
           "7839",
           "MIN"
         ],
@@ -22580,7 +22580,7 @@
       ],
       "first_name": "Jalen",
       "full_name": "Jalen Coker",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Coker",
       "nfl_team": "CAR",
       "player_id": "11646",
@@ -22855,7 +22855,7 @@
       "nfl_team": "CLE",
       "player_id": "12486",
       "position": "QB",
-      "status": "Inactive",
+      "status": "Active",
       "years_exp": 1
     },
     "12487": {
@@ -22985,7 +22985,7 @@
       ],
       "first_name": "Matthew",
       "full_name": "Matthew Golden",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Golden",
       "nfl_team": "GB",
       "player_id": "12501",
@@ -23991,12 +23991,12 @@
       ],
       "first_name": "Eli",
       "full_name": "Eli Stowers",
-      "injury_status": "IR",
+      "injury_status": null,
       "last_name": "Stowers",
       "nfl_team": "PHI",
       "player_id": "13349",
       "position": "TE",
-      "status": "Inactive",
+      "status": "Active",
       "years_exp": 0
     },
     "13353": {
@@ -25746,7 +25746,7 @@
       ],
       "first_name": "Amon-Ra",
       "full_name": "Amon-Ra St. Brown",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "St. Brown",
       "nfl_team": "DET",
       "player_id": "7547",
@@ -27113,8 +27113,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-26T12:46:15Z",
-    "source_fingerprint": "f7346e6bdcafc31155ac808302490da29ede7f9dd265b373601c729d3d80614b"
+    "last_changed_at": "2026-10-26T22:53:42Z",
+    "source_fingerprint": "57bd93108a437850c8a7e799d9de73e9f6a82c9e252b49d753c1b1e528e73cbb"
   },
   "teams": [
     {
@@ -27316,7 +27316,6 @@
         "PHI"
       ],
       "reserve_ids": [
-        "10229",
         "6819",
         "9226"
       ],

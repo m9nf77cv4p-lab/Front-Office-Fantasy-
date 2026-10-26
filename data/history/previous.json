@@ -20088,13 +20088,13 @@
         "roster_id": 5,
         "starters": [
           "3294",
-          "12481",
+          "5850",
           "8150",
           "7526",
           "8137",
           "1466",
-          "5850",
-          "11632",
+          "8210",
+          "9754",
           "7611",
           "11560",
           "11792",
@@ -27113,8 +27113,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-26T06:03:28Z",
-    "source_fingerprint": "0841a19e504888277d9c7d77111d5e16b9d2894eaea06dd9286e0dc004888081"
+    "last_changed_at": "2026-10-26T12:46:15Z",
+    "source_fingerprint": "f7346e6bdcafc31155ac808302490da29ede7f9dd265b373601c729d3d80614b"
   },
   "teams": [
     {
