@@ -1388,7 +1388,7 @@
       "draft_rounds": 4,
       "faab_suggestions": 0,
       "last_report": 6,
-      "last_scored_leg": 6,
+      "last_scored_leg": 7,
       "league_average_match": 0,
       "leg": 7,
       "max_keepers": 1,
@@ -2973,8 +2973,7 @@
           "8210",
           "9228",
           "9508",
-          "9754",
-          "CAR"
+          "9754"
         ],
         "players_points": {
           "11533": 0.0,
@@ -3005,8 +3004,7 @@
           "8210": 0.0,
           "9228": 0.0,
           "9508": 0.0,
-          "9754": 0.0,
-          "CAR": 0.0
+          "9754": 0.0
         },
         "points": 0.0,
         "roster_id": 5,
@@ -4115,8 +4113,7 @@
           "8210",
           "9228",
           "9508",
-          "9754",
-          "CAR"
+          "9754"
         ],
         "players_points": {
           "11533": 0.0,
@@ -4147,8 +4144,7 @@
           "8210": 0.0,
           "9228": 0.0,
           "9508": 0.0,
-          "9754": 0.0,
-          "CAR": 0.0
+          "9754": 0.0
         },
         "points": 0.0,
         "roster_id": 5,
@@ -5257,8 +5253,7 @@
           "8210",
           "9228",
           "9508",
-          "9754",
-          "CAR"
+          "9754"
         ],
         "players_points": {
           "11533": 0.0,
@@ -5289,8 +5284,7 @@
           "8210": 0.0,
           "9228": 0.0,
           "9508": 0.0,
-          "9754": 0.0,
-          "CAR": 0.0
+          "9754": 0.0
         },
         "points": 0.0,
         "roster_id": 5,
@@ -6399,8 +6393,7 @@
           "8210",
           "9228",
           "9508",
-          "9754",
-          "CAR"
+          "9754"
         ],
         "players_points": {
           "11533": 0.0,
@@ -6431,8 +6424,7 @@
           "8210": 0.0,
           "9228": 0.0,
           "9508": 0.0,
-          "9754": 0.0,
-          "CAR": 0.0
+          "9754": 0.0
         },
         "points": 0.0,
         "roster_id": 5,
@@ -7541,8 +7533,7 @@
           "8210",
           "9228",
           "9508",
-          "9754",
-          "CAR"
+          "9754"
         ],
         "players_points": {
           "11533": 0.0,
@@ -7573,8 +7564,7 @@
           "8210": 0.0,
           "9228": 0.0,
           "9508": 0.0,
-          "9754": 0.0,
-          "CAR": 0.0
+          "9754": 0.0
         },
         "points": 0.0,
         "roster_id": 5,
@@ -8683,8 +8673,7 @@
           "8210",
           "9228",
           "9508",
-          "9754",
-          "CAR"
+          "9754"
         ],
         "players_points": {
           "11533": 0.0,
@@ -8715,8 +8704,7 @@
           "8210": 0.0,
           "9228": 0.0,
           "9508": 0.0,
-          "9754": 0.0,
-          "CAR": 0.0
+          "9754": 0.0
         },
         "points": 0.0,
         "roster_id": 5,
@@ -9825,8 +9813,7 @@
           "8210",
           "9228",
           "9508",
-          "9754",
-          "CAR"
+          "9754"
         ],
         "players_points": {
           "11533": 0.0,
@@ -9857,8 +9844,7 @@
           "8210": 0.0,
           "9228": 0.0,
           "9508": 0.0,
-          "9754": 0.0,
-          "CAR": 0.0
+          "9754": 0.0
         },
         "points": 0.0,
         "roster_id": 5,
@@ -10967,8 +10953,7 @@
           "8210",
           "9228",
           "9508",
-          "9754",
-          "CAR"
+          "9754"
         ],
         "players_points": {
           "11533": 0.0,
@@ -10999,8 +10984,7 @@
           "8210": 0.0,
           "9228": 0.0,
           "9508": 0.0,
-          "9754": 0.0,
-          "CAR": 0.0
+          "9754": 0.0
         },
         "points": 0.0,
         "roster_id": 5,
@@ -12109,8 +12093,7 @@
           "8210",
           "9228",
           "9508",
-          "9754",
-          "CAR"
+          "9754"
         ],
         "players_points": {
           "11533": 0.0,
@@ -12141,8 +12124,7 @@
           "8210": 0.0,
           "9228": 0.0,
           "9508": 0.0,
-          "9754": 0.0,
-          "CAR": 0.0
+          "9754": 0.0
         },
         "points": 0.0,
         "roster_id": 5,
@@ -18734,7 +18716,7 @@
           "4227": 3.0,
           "4663": 0.0,
           "4943": 14.98,
-          "5022": 1.5,
+          "5022": 9.8,
           "6770": 28.88,
           "6801": 26.8,
           "6804": 17.96,
@@ -18743,12 +18725,12 @@
           "7567": 8.8,
           "8138": 0.0,
           "9226": 0.0,
-          "9230": 2.52,
+          "9230": 11.54,
           "9486": 0.0,
           "DEN": 4.0,
-          "PHI": 1.0
+          "PHI": -4.0
         },
-        "points": 130.14,
+        "points": 138.44,
         "roster_id": 3,
         "starters": [
           "6770",
@@ -18771,7 +18753,7 @@
           4.1,
           26.8,
           13.3,
-          1.5,
+          9.8,
           2.3,
           17.1,
           17.96,
@@ -18911,7 +18893,7 @@
           "CAR"
         ],
         "players_points": {
-          "11533": 7.0,
+          "11533": 14.0,
           "11560": 22.12,
           "11628": 7.6,
           "11632": 18.1,
@@ -18926,7 +18908,7 @@
           "13434": 0.0,
           "1466": 8.4,
           "2306": 6.4,
-          "3294": 12.64,
+          "3294": 23.28,
           "5850": 20.1,
           "5892": 0.0,
           "6011": 0.0,
@@ -18934,7 +18916,7 @@
           "6783": 6.1,
           "7526": 8.8,
           "7611": 22.5,
-          "8137": 11.0,
+          "8137": 15.7,
           "8150": 18.1,
           "8210": 0.0,
           "9228": 7.42,
@@ -18942,7 +18924,7 @@
           "9754": 0.0,
           "CAR": -3.0
         },
-        "points": 169.86,
+        "points": 185.2,
         "roster_id": 5,
         "starters": [
           "3294",
@@ -18959,11 +18941,11 @@
           "CAR"
         ],
         "starters_points": [
-          12.64,
+          23.28,
           19.1,
           18.1,
           8.8,
-          11.0,
+          15.7,
           8.4,
           20.1,
           18.1,
@@ -19033,8 +19015,8 @@
           "4454": 3.9,
           "4983": 0.0,
           "6797": 0.0,
-          "7588": 6.7,
-          "8129": 9.6,
+          "7588": 21.5,
+          "8129": 11.8,
           "8172": 13.6,
           "8205": 0.0,
           "8408": 6.8,
@@ -19042,7 +19024,7 @@
           "KC": 3.0,
           "SEA": 11.0
         },
-        "points": 114.04,
+        "points": 131.04,
         "roster_id": 6,
         "starters": [
           "12522",
@@ -19060,13 +19042,13 @@
         ],
         "starters_points": [
           6.74,
-          6.7,
+          21.5,
           14.0,
           3.9,
           9.9,
           13.6,
           6.8,
-          9.6,
+          11.8,
           21.8,
           7.0,
           11.0,
@@ -19118,7 +19100,7 @@
           "13270": 0.0,
           "13278": 0.0,
           "13286": 0.0,
-          "13294": 4.6,
+          "13294": 19.7,
           "13402": 0.0,
           "13545": 4.0,
           "2505": 12.0,
@@ -19136,7 +19118,7 @@
           "MIN": 10.0,
           "TB": 25.0
         },
-        "points": 116.04,
+        "points": 131.14,
         "roster_id": 7,
         "starters": [
           "4892",
@@ -19160,7 +19142,7 @@
           1.9,
           13.5,
           7.9,
-          4.6,
+          19.7,
           12.0,
           26.28,
           5.0,
@@ -19307,7 +19289,7 @@
           "11539": 9.0,
           "11620": 10.9,
           "11625": 0.0,
-          "11783": 6.1,
+          "11783": 11.0,
           "12506": 13.1,
           "12512": 23.4,
           "12542": 2.6,
@@ -19316,7 +19298,7 @@
           "13348": 0.0,
           "13414": 10.9,
           "13477": 0.0,
-          "4866": 13.9,
+          "4866": 15.1,
           "5870": 4.62,
           "6813": 19.0,
           "7564": 17.2,
@@ -19326,7 +19308,7 @@
           "GB": 8.0,
           "SF": -1.0
         },
-        "points": 122.3,
+        "points": 123.5,
         "roster_id": 9,
         "starters": [
           "12545",
@@ -19350,7 +19332,7 @@
           17.2,
           2.8,
           10.7,
-          13.9,
+          15.1,
           10.6,
           13.08,
           9.0,
@@ -19503,7 +19485,7 @@
           "5012": 5.3,
           "5967": 36.5,
           "650": 10.0,
-          "6786": 9.4,
+          "6786": 24.4,
           "7547": 24.2,
           "7571": 5.3,
           "8110": 0.0,
@@ -19512,7 +19494,7 @@
           "8144": 11.6,
           "NYJ": 1.0
         },
-        "points": 187.04,
+        "points": 202.04,
         "roster_id": 11,
         "starters": [
           "4017",
@@ -19533,7 +19515,7 @@
           36.5,
           9.3,
           11.6,
-          9.4,
+          24.4,
           5.3,
           24.2,
           16.4,
@@ -20049,8 +20031,7 @@
           "8210",
           "9228",
           "9508",
-          "9754",
-          "CAR"
+          "9754"
         ],
         "players_points": {
           "11533": 0.0,
@@ -20081,8 +20062,7 @@
           "8210": 0.0,
           "9228": 0.0,
           "9508": 0.0,
-          "9754": 0.0,
-          "CAR": 0.0
+          "9754": 0.0
         },
         "points": 0.0,
         "roster_id": 5,
@@ -20381,18 +20361,18 @@
         "points": 0.0,
         "roster_id": 8,
         "starters": [
-          "1166",
-          "11435",
+          "4881",
+          "13287",
           "8151",
-          "9501",
+          "8146",
           "13274",
           "8130",
-          "4950",
-          "8146",
+          "11435",
+          "9501",
           "11610",
-          "8111",
+          "11566",
           "2747",
-          "PIT"
+          "NE"
         ],
         "starters_points": [
           0.0,
@@ -21191,8 +21171,7 @@
           "8210",
           "9228",
           "9508",
-          "9754",
-          "CAR"
+          "9754"
         ],
         "players_points": {
           "11533": 0.0,
@@ -21223,8 +21202,7 @@
           "8210": 0.0,
           "9228": 0.0,
           "9508": 0.0,
-          "9754": 0.0,
-          "CAR": 0.0
+          "9754": 0.0
         },
         "points": 0.0,
         "roster_id": 5,
@@ -24921,7 +24899,7 @@
       ],
       "first_name": "Saquon",
       "full_name": "Saquon Barkley",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Barkley",
       "nfl_team": "PHI",
       "player_id": "4866",
@@ -26849,21 +26827,6 @@
       "status": null,
       "years_exp": null
     },
-    "CAR": {
-      "age": null,
-      "fantasy_positions": [
-        "DEF"
-      ],
-      "first_name": "Carolina",
-      "full_name": null,
-      "injury_status": null,
-      "last_name": "Panthers",
-      "nfl_team": "CAR",
-      "player_id": "CAR",
-      "position": "DEF",
-      "status": null,
-      "years_exp": null
-    },
     "CHI": {
       "age": null,
       "fantasy_positions": [
@@ -27113,16 +27076,16 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-27T01:38:26Z",
-    "source_fingerprint": "5e94f437111d003fba900a61154255ca6b39058a41ed8a56f3c5cbfc35f69a11"
+    "last_changed_at": "2026-10-27T06:48:00Z",
+    "source_fingerprint": "b8694cdb3995bd6701219652f7c6732d32ed86d48181294ea4304f1ce6b45910"
   },
   "teams": [
     {
       "manager": "BirdgangB",
       "metadata": {
         "p_nick_12481": "Skatt-Pack, Mr. Run Thru a Mf-er's Face...",
-        "record": "WLLLWW",
-        "streak": "2W"
+        "record": "WLLLWWW",
+        "streak": "3W"
       },
       "owner_user_id": "729354102416498688",
       "player_ids": [
@@ -27159,18 +27122,18 @@
       ],
       "roster_id": 1,
       "settings": {
-        "fpts": 994,
-        "fpts_against": 989,
-        "fpts_against_decimal": 54,
-        "fpts_decimal": 58,
+        "fpts": 1194,
+        "fpts_against": 1141,
+        "fpts_against_decimal": 72,
+        "fpts_decimal": 86,
         "losses": 3,
-        "ppts": 1102,
-        "ppts_decimal": 58,
+        "ppts": 1307,
+        "ppts_decimal": 26,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
         "waiver_position": 7,
-        "wins": 3
+        "wins": 4
       },
       "starter_ids": [
         "3257",
@@ -27201,9 +27164,9 @@
         "allow_pn_player_injury_status": "on",
         "allow_pn_scoring": "on",
         "p_nick_8160": "$5 Venmo and he is yours ",
-        "record": "LWWLWL",
+        "record": "LWWLWLL",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "1L"
+        "streak": "2L"
       },
       "owner_user_id": "988885525681557504",
       "player_ids": [
@@ -27245,13 +27208,13 @@
       ],
       "roster_id": 2,
       "settings": {
-        "fpts": 990,
-        "fpts_against": 962,
-        "fpts_against_decimal": 70,
-        "fpts_decimal": 76,
-        "losses": 3,
-        "ppts": 1149,
-        "ppts_decimal": 6,
+        "fpts": 1142,
+        "fpts_against": 1162,
+        "fpts_against_decimal": 98,
+        "fpts_decimal": 94,
+        "losses": 4,
+        "ppts": 1305,
+        "ppts_decimal": 44,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -27282,8 +27245,8 @@
     {
       "manager": "cheezy17",
       "metadata": {
-        "record": "LLWLLW",
-        "streak": "1W"
+        "record": "LLWLLWW",
+        "streak": "2W"
       },
       "owner_user_id": "726599421160165377",
       "player_ids": [
@@ -27321,18 +27284,18 @@
       ],
       "roster_id": 3,
       "settings": {
-        "fpts": 929,
-        "fpts_against": 1052,
-        "fpts_against_decimal": 78,
-        "fpts_decimal": 52,
+        "fpts": 1067,
+        "fpts_against": 1176,
+        "fpts_against_decimal": 28,
+        "fpts_decimal": 96,
         "losses": 4,
-        "ppts": 1013,
-        "ppts_decimal": 62,
+        "ppts": 1158,
+        "ppts_decimal": 56,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
         "waiver_position": 6,
-        "wins": 2
+        "wins": 3
       },
       "starter_ids": [
         "6770",
@@ -27358,8 +27321,8 @@
     {
       "manager": "krei012",
       "metadata": {
-        "record": "WLLWWW",
-        "streak": "3W"
+        "record": "WLLWWWW",
+        "streak": "4W"
       },
       "owner_user_id": "729481106830819328",
       "player_ids": [
@@ -27401,18 +27364,18 @@
       ],
       "roster_id": 4,
       "settings": {
-        "fpts": 911,
-        "fpts_against": 928,
-        "fpts_against_decimal": 80,
-        "fpts_decimal": 40,
+        "fpts": 1049,
+        "fpts_against": 1057,
+        "fpts_against_decimal": 2,
+        "fpts_decimal": 4,
         "losses": 2,
-        "ppts": 1056,
-        "ppts_decimal": 14,
+        "ppts": 1224,
+        "ppts_decimal": 48,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
         "waiver_position": 11,
-        "wins": 4
+        "wins": 5
       },
       "starter_ids": [
         "9758",
@@ -27441,9 +27404,9 @@
         "allow_pn_inactive_starters": "on",
         "allow_pn_player_injury_status": "on",
         "allow_pn_scoring": "on",
-        "record": "WLLWLL",
+        "record": "WLLWLLW",
         "restrict_pn_scoring_starters_only": "on",
-        "streak": "2L"
+        "streak": "1W"
       },
       "owner_user_id": "563234061722038272",
       "player_ids": [
@@ -27475,8 +27438,7 @@
         "8210",
         "9228",
         "9508",
-        "9754",
-        "CAR"
+        "9754"
       ],
       "reserve_ids": [
         "12518",
@@ -27486,18 +27448,18 @@
       ],
       "roster_id": 5,
       "settings": {
-        "fpts": 933,
-        "fpts_against": 993,
-        "fpts_against_decimal": 24,
-        "fpts_decimal": 28,
+        "fpts": 1118,
+        "fpts_against": 1124,
+        "fpts_against_decimal": 28,
+        "fpts_decimal": 48,
         "losses": 4,
-        "ppts": 1074,
-        "ppts_decimal": 30,
+        "ppts": 1279,
+        "ppts_decimal": 90,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
         "waiver_position": 4,
-        "wins": 2
+        "wins": 3
       },
       "starter_ids": [
         "3294",
@@ -27510,8 +27472,7 @@
         "11632",
         "7611",
         "11560",
-        "11792",
-        "CAR"
+        "11792"
       ],
       "taxi_ids": [
         "13288",
@@ -27524,8 +27485,8 @@
     {
       "manager": "midedunni",
       "metadata": {
-        "record": "LLWWLL",
-        "streak": "2L"
+        "record": "LLWWLLL",
+        "streak": "3L"
       },
       "owner_user_id": "980272839611740160",
       "player_ids": [
@@ -27570,13 +27531,13 @@
       ],
       "roster_id": 6,
       "settings": {
-        "fpts": 823,
-        "fpts_against": 901,
-        "fpts_against_decimal": 34,
-        "fpts_decimal": 8,
-        "losses": 4,
-        "ppts": 974,
-        "ppts_decimal": 6,
+        "fpts": 954,
+        "fpts_against": 1086,
+        "fpts_against_decimal": 54,
+        "fpts_decimal": 12,
+        "losses": 5,
+        "ppts": 1121,
+        "ppts_decimal": 34,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -27608,8 +27569,8 @@
     {
       "manager": "kylemercer87",
       "metadata": {
-        "record": "WWLLLL",
-        "streak": "4L"
+        "record": "WWLLLLW",
+        "streak": "1W"
       },
       "owner_user_id": "707067011775156224",
       "player_ids": [
@@ -27648,19 +27609,19 @@
       ],
       "roster_id": 7,
       "settings": {
-        "fpts": 797,
-        "fpts_against": 794,
-        "fpts_against_decimal": 60,
-        "fpts_decimal": 76,
+        "fpts": 928,
+        "fpts_against": 903,
+        "fpts_against_decimal": 94,
+        "fpts_decimal": 90,
         "locked": 0,
         "losses": 4,
-        "ppts": 974,
-        "ppts_decimal": 62,
+        "ppts": 1130,
+        "ppts_decimal": 6,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
         "waiver_position": 3,
-        "wins": 2
+        "wins": 3
       },
       "starter_ids": [
         "4892",
@@ -27687,8 +27648,8 @@
     {
       "manager": "cabot9188",
       "metadata": {
-        "record": "WWWLLL",
-        "streak": "3L"
+        "record": "WWWLLLL",
+        "streak": "4L"
       },
       "owner_user_id": "473364581066993664",
       "player_ids": [
@@ -27728,18 +27689,18 @@
         "11618",
         "11630",
         "12484",
-        "13287",
-        "8121"
+        "8121",
+        "9753"
       ],
       "roster_id": 8,
       "settings": {
-        "fpts": 970,
-        "fpts_against": 924,
-        "fpts_against_decimal": 52,
-        "fpts_decimal": 30,
-        "losses": 3,
-        "ppts": 1141,
-        "ppts_decimal": 88,
+        "fpts": 1085,
+        "fpts_against": 1126,
+        "fpts_against_decimal": 56,
+        "fpts_decimal": 10,
+        "losses": 4,
+        "ppts": 1275,
+        "ppts_decimal": 48,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -27771,8 +27732,8 @@
     {
       "manager": "PrimeTime000",
       "metadata": {
-        "record": "LWWLWW",
-        "streak": "2W"
+        "record": "LWWLWWL",
+        "streak": "1L"
       },
       "owner_user_id": "467113320793501696",
       "player_ids": [
@@ -27809,13 +27770,13 @@
       ],
       "roster_id": 9,
       "settings": {
-        "fpts": 905,
-        "fpts_against": 855,
-        "fpts_against_decimal": 68,
-        "fpts_decimal": 76,
-        "losses": 2,
-        "ppts": 1045,
-        "ppts_decimal": 14,
+        "fpts": 1029,
+        "fpts_against": 994,
+        "fpts_against_decimal": 12,
+        "fpts_decimal": 26,
+        "losses": 3,
+        "ppts": 1222,
+        "ppts_decimal": 94,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -27845,8 +27806,8 @@
     {
       "manager": "TJS2025",
       "metadata": {
-        "record": "LWWWWW",
-        "streak": "5W"
+        "record": "LWWWWWL",
+        "streak": "1L"
       },
       "owner_user_id": "727601365655810048",
       "player_ids": [
@@ -27887,13 +27848,13 @@
       ],
       "roster_id": 10,
       "settings": {
-        "fpts": 890,
-        "fpts_against": 793,
-        "fpts_against_decimal": 28,
-        "fpts_decimal": 16,
-        "losses": 1,
-        "ppts": 965,
-        "ppts_decimal": 16,
+        "fpts": 1018,
+        "fpts_against": 930,
+        "fpts_against_decimal": 92,
+        "fpts_decimal": 38,
+        "losses": 2,
+        "ppts": 1110,
+        "ppts_decimal": 8,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -27925,8 +27886,8 @@
     {
       "manager": "JEllerbe",
       "metadata": {
-        "record": "WWLWLL",
-        "streak": "2L"
+        "record": "WWLWLLW",
+        "streak": "1W"
       },
       "owner_user_id": "737417797600231424",
       "player_ids": [
@@ -27964,19 +27925,19 @@
       ],
       "roster_id": 11,
       "settings": {
-        "fpts": 857,
-        "fpts_against": 905,
-        "fpts_against_decimal": 52,
-        "fpts_decimal": 58,
+        "fpts": 1059,
+        "fpts_against": 1020,
+        "fpts_against_decimal": 32,
+        "fpts_decimal": 62,
         "locked": 0,
         "losses": 3,
-        "ppts": 1095,
-        "ppts_decimal": 56,
+        "ppts": 1297,
+        "ppts_decimal": 60,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
         "waiver_position": 2,
-        "wins": 3
+        "wins": 4
       },
       "starter_ids": [
         "4017",
@@ -28002,8 +27963,8 @@
     {
       "manager": "morganreichart22",
       "metadata": {
-        "record": "LLLWWW",
-        "streak": "3W"
+        "record": "LLLWWWL",
+        "streak": "1L"
       },
       "owner_user_id": "1222331013934354432",
       "player_ids": [
@@ -28046,13 +28007,13 @@
       ],
       "roster_id": 12,
       "settings": {
-        "fpts": 978,
-        "fpts_against": 880,
-        "fpts_against_decimal": 40,
-        "fpts_decimal": 22,
-        "losses": 3,
-        "ppts": 1076,
-        "ppts_decimal": 86,
+        "fpts": 1087,
+        "fpts_against": 1011,
+        "fpts_against_decimal": 54,
+        "fpts_decimal": 56,
+        "losses": 4,
+        "ppts": 1210,
+        "ppts_decimal": 90,
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
@@ -36583,6 +36544,29 @@
       }
     ],
     "7": [
+      {
+        "adds": null,
+        "consenter_ids": [
+          5
+        ],
+        "created": 1793075519930,
+        "creator": "563234061722038272",
+        "draft_picks": [],
+        "drops": {
+          "CAR": 5
+        },
+        "leg": 7,
+        "metadata": null,
+        "roster_ids": [
+          5
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1793075519930,
+        "transaction_id": "1420665335333314560",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": {
           "KC": 6
