@@ -19274,9 +19274,9 @@
           "9229": 0.0,
           "96": 13.08,
           "GB": 8.0,
-          "SF": -1.0
+          "SF": 0.0
         },
-        "points": 123.5,
+        "points": 124.5,
         "roster_id": 9,
         "starters": [
           "12545",
@@ -19304,7 +19304,7 @@
           10.6,
           13.08,
           9.0,
-          -1.0
+          0.0
         ]
       },
       {
@@ -21948,7 +21948,7 @@
       ],
       "first_name": "Michael",
       "full_name": "Michael Wilson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Wilson",
       "nfl_team": "ARI",
       "player_id": "10232",
@@ -23037,7 +23037,7 @@
       "years_exp": 1
     },
     "12512": {
-      "age": 22,
+      "age": 23,
       "fantasy_positions": [
         "RB"
       ],
@@ -25528,7 +25528,7 @@
       "years_exp": 6
     },
     "7090": {
-      "age": 28,
+      "age": 29,
       "fantasy_positions": [
         "WR"
       ],
@@ -25969,7 +25969,7 @@
       ],
       "first_name": "Tyler",
       "full_name": "Tyler Allgeier",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Allgeier",
       "nfl_team": "ARI",
       "player_id": "8132",
@@ -26563,7 +26563,7 @@
       "years_exp": 3
     },
     "9502": {
-      "age": 26,
+      "age": 27,
       "fantasy_positions": [
         "WR"
       ],
@@ -27006,8 +27006,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-28T23:08:37Z",
-    "source_fingerprint": "8b9128a2b09978b8e8f157133377aac45ec243a0fb385842ec250a6aea8692d8"
+    "last_changed_at": "2026-10-29T02:22:26Z",
+    "source_fingerprint": "b9f4255a63c3c76e6559a55660d6f690187ab7f94847d0ecbea6b9968a00d414"
   },
   "teams": [
     {
