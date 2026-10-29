@@ -213,7 +213,7 @@
     "roster_id": 3,
     "settings": {
       "fpts": 1067,
-      "fpts_against": 1176,
+      "fpts_against": 1177,
       "fpts_against_decimal": 28,
       "fpts_decimal": 96,
       "losses": 4,
@@ -702,7 +702,7 @@
     ],
     "roster_id": 9,
     "settings": {
-      "fpts": 1029,
+      "fpts": 1030,
       "fpts_against": 994,
       "fpts_against_decimal": 12,
       "fpts_decimal": 26,
