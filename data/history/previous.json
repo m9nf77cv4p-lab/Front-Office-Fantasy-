@@ -27006,8 +27006,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-29T02:22:26Z",
-    "source_fingerprint": "b9f4255a63c3c76e6559a55660d6f690187ab7f94847d0ecbea6b9968a00d414"
+    "last_changed_at": "2026-10-29T08:39:55Z",
+    "source_fingerprint": "02b65dd48b67934e8bdc3467f4e2cfc03f099e91ea89fbf6e979a4c272ee264c"
   },
   "teams": [
     {
@@ -27217,7 +27217,7 @@
       "roster_id": 3,
       "settings": {
         "fpts": 1067,
-        "fpts_against": 1176,
+        "fpts_against": 1177,
         "fpts_against_decimal": 28,
         "fpts_decimal": 96,
         "losses": 4,
@@ -27693,7 +27693,7 @@
       ],
       "roster_id": 9,
       "settings": {
-        "fpts": 1029,
+        "fpts": 1030,
         "fpts_against": 994,
         "fpts_against_decimal": 12,
         "fpts_decimal": 26,
