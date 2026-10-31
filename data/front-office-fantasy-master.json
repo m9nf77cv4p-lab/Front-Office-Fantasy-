@@ -22838,7 +22838,7 @@
       "nfl_team": "DEN",
       "player_id": "12489",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 1
     },
     "12490": {
@@ -26284,7 +26284,7 @@
       ],
       "first_name": "Rashid",
       "full_name": "Rashid Shaheed",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Shaheed",
       "nfl_team": "SEA",
       "player_id": "8676",
@@ -26659,7 +26659,7 @@
       ],
       "first_name": "Zach",
       "full_name": "Zach Charbonnet",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Charbonnet",
       "nfl_team": "SEA",
       "player_id": "9753",
@@ -27021,8 +27021,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-10-31T20:30:05Z",
-    "source_fingerprint": "aeed3ca23673743a5a723ebe5f761355a1152a69e67d622eceb79fd438bc401d"
+    "last_changed_at": "2026-10-31T23:33:11Z",
+    "source_fingerprint": "e7721ef8e184e026560b40163de5ef513b5e4ddc70992377dbc13a17dadc98e1"
   },
   "teams": [
     {
@@ -27227,7 +27227,8 @@
       ],
       "reserve_ids": [
         "6819",
-        "9226"
+        "9226",
+        "9486"
       ],
       "roster_id": 3,
       "settings": {
@@ -27465,8 +27466,8 @@
       ],
       "reserve_ids": [
         "11655",
-        "12487",
-        "13417",
+        "12489",
+        "12536",
         "4033",
         "8205"
       ],
