@@ -3,17 +3,17 @@
 - Season: **2026**
 - Status: **in_season**
 - Teams: **12**
-- Traded-pick records: **49**
+- Traded-pick records: **50**
 - Drafts attached to current league: **1**
 
 ## Teams
 
 - Roster 1: **BirdgangB** (BirdgangB) — 27 players
 - Roster 2: **Driggsysmalls** (Driggsysmalls) — 30 players
-- Roster 3: **PepperjackCheeze** (cheezy17) — 27 players
+- Roster 3: **PepperjackCheeze** (cheezy17) — 26 players
 - Roster 4: **501st Legion** (krei012) — 30 players
-- Roster 5: **Mozzarella Cheese** (Revont) — 29 players
-- Roster 6: **midedunni** (midedunni) — 31 players
+- Roster 5: **Mozzarella Cheese** (Revont) — 28 players
+- Roster 6: **midedunni** (midedunni) — 30 players
 - Roster 7: **theGOATcheese** (kylemercer87) — 28 players
 - Roster 8: **We Fly High** (cabot9188) — 31 players
 - Roster 9: **Multiple Scorgasims** (PrimeTime000) — 26 players
