@@ -8,7 +8,7 @@
 
 ## Teams
 
-- Roster 1: **BirdgangB** (BirdgangB) — 27 players
+- Roster 1: **BirdgangB** (BirdgangB) — 28 players
 - Roster 2: **Driggsysmalls** (Driggsysmalls) — 30 players
 - Roster 3: **PepperjackCheeze** (cheezy17) — 26 players
 - Roster 4: **501st Legion** (krei012) — 30 players
