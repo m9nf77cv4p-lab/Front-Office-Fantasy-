@@ -26056,7 +26056,7 @@
       ],
       "first_name": "Garrett",
       "full_name": "Garrett Wilson",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Wilson",
       "nfl_team": "NYJ",
       "player_id": "8146",
@@ -26116,7 +26116,7 @@
       ],
       "first_name": "Brian",
       "full_name": "Brian Robinson Jr.",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Robinson Jr.",
       "nfl_team": "ATL",
       "player_id": "8154",
@@ -26988,8 +26988,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-06T09:57:03Z",
-    "source_fingerprint": "143dca187ec79d4abf5e7b520138040dea63a2fe58b1cdd1174d8b04fa0533ee"
+    "last_changed_at": "2026-11-06T17:05:17Z",
+    "source_fingerprint": "703d4981f3ed6614f8aac7c8e865e1dce390e78401dec402014130defe1b5b45"
   },
   "teams": [
     {
