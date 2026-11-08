@@ -26,11 +26,11 @@
 - George Kittle — TE — SF
 - Gunnar Helm — TE — TEN
 - Hunter Henry — TE — NE
-- A.J. Brown — WR — NE
+- A.J. Brown — WR — NE — reserve/IR
 - Barion Brown — WR — NO — taxi
 - Darnell Mooney — WR — NYG
 - Deebo Samuel Sr. — WR — SF
-- Demarcus Robinson — WR — SF — reserve/IR
+- Demarcus Robinson — WR — SF
 - Elic Ayomanor — WR — TEN
 - Kalif Raymond — WR — CHI
 - Kevin Coleman Jr. — WR — MIA — taxi
