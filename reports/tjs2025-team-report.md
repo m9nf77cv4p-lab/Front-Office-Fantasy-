@@ -19,7 +19,7 @@
 - Chris Rodriguez Jr. — RB — JAX
 - Christian McCaffrey — RB — SF
 - Jaylen Wright — RB — MIA
-- Kendre Miller — RB — NO
+- Kendre Miller — RB — FA
 - Omarion Hampton — RB — LAC
 - Seth McGowan — RB — IND — taxi
 - Colby Parkinson — TE — LAR
