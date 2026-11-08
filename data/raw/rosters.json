@@ -185,6 +185,7 @@
       "11604",
       "11624",
       "12490",
+      "12491",
       "13380",
       "13411",
       "13413",
@@ -203,7 +204,6 @@
       "7567",
       "7588",
       "8138",
-      "9230",
       "9486",
       "DEN"
     ],
@@ -222,7 +222,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 11,
+      "waiver_position": 12,
       "wins": 4
     },
     "starters": [
@@ -300,7 +300,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 5
     },
     "starters": [
