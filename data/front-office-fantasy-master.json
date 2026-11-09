@@ -3404,13 +3404,13 @@
           "12545",
           "6813",
           "12512",
-          "13298",
+          "8167",
           "7564",
           "12506",
-          "8167",
-          "4866",
+          "13298",
+          "11783",
           "10232",
-          "5870",
+          "96",
           "11539",
           "GB"
         ],
@@ -26328,7 +26328,7 @@
       ],
       "first_name": "Malik",
       "full_name": "Malik Willis",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Willis",
       "nfl_team": "MIA",
       "player_id": "8161",
@@ -27185,8 +27185,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-09T09:01:15Z",
-    "source_fingerprint": "3469f04c56b0feb390ac946f25e76c0f2ac40aaa858fe69847989cbb02363d07"
+    "last_changed_at": "2026-11-09T19:39:27Z",
+    "source_fingerprint": "0dbc17738fdc56a21e65f9f26d4dd562a986cb57b36bb9e3332fae3c57adf1d3"
   },
   "teams": [
     {
