@@ -3,9 +3,9 @@
 - Team: **TJS2025**
 - Manager: **TJS2025**
 - Roster ID: **10**
-- Players: **28**
+- Players: **27**
 - Taxi: **4**
-- Reserve/IR: **2**
+- Reserve/IR: **1**
 
 ## Current roster
 
@@ -19,14 +19,13 @@
 - Chris Rodriguez Jr. — RB — JAX
 - Christian McCaffrey — RB — SF
 - Jaylen Wright — RB — MIA
-- Kendre Miller — RB — DAL
 - Omarion Hampton — RB — LAC
 - Seth McGowan — RB — IND — taxi
 - Colby Parkinson — TE — LAR
 - George Kittle — TE — SF
 - Gunnar Helm — TE — TEN
 - Hunter Henry — TE — NE
-- A.J. Brown — WR — NE — reserve/IR
+- A.J. Brown — WR — NE
 - Barion Brown — WR — NO — taxi
 - Darnell Mooney — WR — NYG
 - Deebo Samuel Sr. — WR — SF

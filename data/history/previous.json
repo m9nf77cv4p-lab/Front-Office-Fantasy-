@@ -1390,7 +1390,7 @@
       "last_report": 9,
       "last_scored_leg": 9,
       "league_average_match": 0,
-      "leg": 9,
+      "leg": 10,
       "max_keepers": 1,
       "max_subs": 3,
       "num_teams": 12,
@@ -2668,6 +2668,7 @@
           "11584",
           "11589",
           "11635",
+          "12494",
           "12497",
           "12501",
           "12509",
@@ -2688,7 +2689,6 @@
           "6904",
           "7021",
           "7528",
-          "7561",
           "7600",
           "8228",
           "8676",
@@ -2700,6 +2700,7 @@
           "11584": 0.0,
           "11589": 0.0,
           "11635": 0.0,
+          "12494": 0.0,
           "12497": 0.0,
           "12501": 0.0,
           "12509": 0.0,
@@ -2720,7 +2721,6 @@
           "6904": 0.0,
           "7021": 0.0,
           "7528": 0.0,
-          "7561": 0.0,
           "7600": 0.0,
           "8228": 0.0,
           "8676": 0.0,
@@ -2769,12 +2769,12 @@
           "11624",
           "12490",
           "12491",
+          "12718",
           "13380",
           "13411",
           "13413",
-          "2020",
+          "1945",
           "4199",
-          "4663",
           "4943",
           "4983",
           "5022",
@@ -2787,6 +2787,7 @@
           "7588",
           "8138",
           "9486",
+          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -2796,12 +2797,12 @@
           "11624": 0.0,
           "12490": 0.0,
           "12491": 0.0,
+          "12718": 0.0,
           "13380": 0.0,
           "13411": 0.0,
           "13413": 0.0,
-          "2020": 0.0,
+          "1945": 0.0,
           "4199": 0.0,
-          "4663": 0.0,
           "4943": 0.0,
           "4983": 0.0,
           "5022": 0.0,
@@ -2814,6 +2815,7 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
+          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -2829,8 +2831,8 @@
           "6801",
           "11586",
           "6804",
-          "2020",
-          "DEN"
+          "1945",
+          "BAL"
         ],
         "starters_points": [
           0.0,
@@ -3810,6 +3812,7 @@
           "11584",
           "11589",
           "11635",
+          "12494",
           "12497",
           "12501",
           "12509",
@@ -3830,7 +3833,6 @@
           "6904",
           "7021",
           "7528",
-          "7561",
           "7600",
           "8228",
           "8676",
@@ -3842,6 +3844,7 @@
           "11584": 0.0,
           "11589": 0.0,
           "11635": 0.0,
+          "12494": 0.0,
           "12497": 0.0,
           "12501": 0.0,
           "12509": 0.0,
@@ -3862,7 +3865,6 @@
           "6904": 0.0,
           "7021": 0.0,
           "7528": 0.0,
-          "7561": 0.0,
           "7600": 0.0,
           "8228": 0.0,
           "8676": 0.0,
@@ -3881,7 +3883,7 @@
           "5001",
           "12509",
           "13346",
-          "7561",
+          "0",
           "12497",
           "3451",
           "JAX"
@@ -3911,12 +3913,12 @@
           "11624",
           "12490",
           "12491",
+          "12718",
           "13380",
           "13411",
           "13413",
-          "2020",
+          "1945",
           "4199",
-          "4663",
           "4943",
           "4983",
           "5022",
@@ -3929,6 +3931,7 @@
           "7588",
           "8138",
           "9486",
+          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -3938,12 +3941,12 @@
           "11624": 0.0,
           "12490": 0.0,
           "12491": 0.0,
+          "12718": 0.0,
           "13380": 0.0,
           "13411": 0.0,
           "13413": 0.0,
-          "2020": 0.0,
+          "1945": 0.0,
           "4199": 0.0,
-          "4663": 0.0,
           "4943": 0.0,
           "4983": 0.0,
           "5022": 0.0,
@@ -3956,6 +3959,7 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
+          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -3971,8 +3975,8 @@
           "6801",
           "11586",
           "6804",
-          "2020",
-          "DEN"
+          "1945",
+          "BAL"
         ],
         "starters_points": [
           0.0,
@@ -4952,6 +4956,7 @@
           "11584",
           "11589",
           "11635",
+          "12494",
           "12497",
           "12501",
           "12509",
@@ -4972,7 +4977,6 @@
           "6904",
           "7021",
           "7528",
-          "7561",
           "7600",
           "8228",
           "8676",
@@ -4984,6 +4988,7 @@
           "11584": 0.0,
           "11589": 0.0,
           "11635": 0.0,
+          "12494": 0.0,
           "12497": 0.0,
           "12501": 0.0,
           "12509": 0.0,
@@ -5004,7 +5009,6 @@
           "6904": 0.0,
           "7021": 0.0,
           "7528": 0.0,
-          "7561": 0.0,
           "7600": 0.0,
           "8228": 0.0,
           "8676": 0.0,
@@ -5023,7 +5027,7 @@
           "5001",
           "12509",
           "13346",
-          "7561",
+          "0",
           "12497",
           "3451",
           "JAX"
@@ -5053,12 +5057,12 @@
           "11624",
           "12490",
           "12491",
+          "12718",
           "13380",
           "13411",
           "13413",
-          "2020",
+          "1945",
           "4199",
-          "4663",
           "4943",
           "4983",
           "5022",
@@ -5071,6 +5075,7 @@
           "7588",
           "8138",
           "9486",
+          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -5080,12 +5085,12 @@
           "11624": 0.0,
           "12490": 0.0,
           "12491": 0.0,
+          "12718": 0.0,
           "13380": 0.0,
           "13411": 0.0,
           "13413": 0.0,
-          "2020": 0.0,
+          "1945": 0.0,
           "4199": 0.0,
-          "4663": 0.0,
           "4943": 0.0,
           "4983": 0.0,
           "5022": 0.0,
@@ -5098,6 +5103,7 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
+          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -5113,8 +5119,8 @@
           "6801",
           "11586",
           "6804",
-          "2020",
-          "DEN"
+          "1945",
+          "BAL"
         ],
         "starters_points": [
           0.0,
@@ -6094,6 +6100,7 @@
           "11584",
           "11589",
           "11635",
+          "12494",
           "12497",
           "12501",
           "12509",
@@ -6114,7 +6121,6 @@
           "6904",
           "7021",
           "7528",
-          "7561",
           "7600",
           "8228",
           "8676",
@@ -6126,6 +6132,7 @@
           "11584": 0.0,
           "11589": 0.0,
           "11635": 0.0,
+          "12494": 0.0,
           "12497": 0.0,
           "12501": 0.0,
           "12509": 0.0,
@@ -6146,7 +6153,6 @@
           "6904": 0.0,
           "7021": 0.0,
           "7528": 0.0,
-          "7561": 0.0,
           "7600": 0.0,
           "8228": 0.0,
           "8676": 0.0,
@@ -6165,7 +6171,7 @@
           "5001",
           "12509",
           "13346",
-          "7561",
+          "0",
           "12497",
           "3451",
           "JAX"
@@ -6195,12 +6201,12 @@
           "11624",
           "12490",
           "12491",
+          "12718",
           "13380",
           "13411",
           "13413",
-          "2020",
+          "1945",
           "4199",
-          "4663",
           "4943",
           "4983",
           "5022",
@@ -6213,6 +6219,7 @@
           "7588",
           "8138",
           "9486",
+          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -6222,12 +6229,12 @@
           "11624": 0.0,
           "12490": 0.0,
           "12491": 0.0,
+          "12718": 0.0,
           "13380": 0.0,
           "13411": 0.0,
           "13413": 0.0,
-          "2020": 0.0,
+          "1945": 0.0,
           "4199": 0.0,
-          "4663": 0.0,
           "4943": 0.0,
           "4983": 0.0,
           "5022": 0.0,
@@ -6240,6 +6247,7 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
+          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -6255,8 +6263,8 @@
           "6801",
           "11586",
           "6804",
-          "2020",
-          "DEN"
+          "1945",
+          "BAL"
         ],
         "starters_points": [
           0.0,
@@ -7236,6 +7244,7 @@
           "11584",
           "11589",
           "11635",
+          "12494",
           "12497",
           "12501",
           "12509",
@@ -7256,7 +7265,6 @@
           "6904",
           "7021",
           "7528",
-          "7561",
           "7600",
           "8228",
           "8676",
@@ -7268,6 +7276,7 @@
           "11584": 0.0,
           "11589": 0.0,
           "11635": 0.0,
+          "12494": 0.0,
           "12497": 0.0,
           "12501": 0.0,
           "12509": 0.0,
@@ -7288,7 +7297,6 @@
           "6904": 0.0,
           "7021": 0.0,
           "7528": 0.0,
-          "7561": 0.0,
           "7600": 0.0,
           "8228": 0.0,
           "8676": 0.0,
@@ -7307,7 +7315,7 @@
           "5001",
           "12509",
           "13346",
-          "7561",
+          "0",
           "12497",
           "3451",
           "JAX"
@@ -7337,12 +7345,12 @@
           "11624",
           "12490",
           "12491",
+          "12718",
           "13380",
           "13411",
           "13413",
-          "2020",
+          "1945",
           "4199",
-          "4663",
           "4943",
           "4983",
           "5022",
@@ -7355,6 +7363,7 @@
           "7588",
           "8138",
           "9486",
+          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -7364,12 +7373,12 @@
           "11624": 0.0,
           "12490": 0.0,
           "12491": 0.0,
+          "12718": 0.0,
           "13380": 0.0,
           "13411": 0.0,
           "13413": 0.0,
-          "2020": 0.0,
+          "1945": 0.0,
           "4199": 0.0,
-          "4663": 0.0,
           "4943": 0.0,
           "4983": 0.0,
           "5022": 0.0,
@@ -7382,6 +7391,7 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
+          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -7397,8 +7407,8 @@
           "6801",
           "11586",
           "6804",
-          "2020",
-          "DEN"
+          "1945",
+          "BAL"
         ],
         "starters_points": [
           0.0,
@@ -8378,6 +8388,7 @@
           "11584",
           "11589",
           "11635",
+          "12494",
           "12497",
           "12501",
           "12509",
@@ -8398,7 +8409,6 @@
           "6904",
           "7021",
           "7528",
-          "7561",
           "7600",
           "8228",
           "8676",
@@ -8410,6 +8420,7 @@
           "11584": 0.0,
           "11589": 0.0,
           "11635": 0.0,
+          "12494": 0.0,
           "12497": 0.0,
           "12501": 0.0,
           "12509": 0.0,
@@ -8430,7 +8441,6 @@
           "6904": 0.0,
           "7021": 0.0,
           "7528": 0.0,
-          "7561": 0.0,
           "7600": 0.0,
           "8228": 0.0,
           "8676": 0.0,
@@ -8449,7 +8459,7 @@
           "5001",
           "12509",
           "13346",
-          "7561",
+          "0",
           "12497",
           "3451",
           "JAX"
@@ -8479,12 +8489,12 @@
           "11624",
           "12490",
           "12491",
+          "12718",
           "13380",
           "13411",
           "13413",
-          "2020",
+          "1945",
           "4199",
-          "4663",
           "4943",
           "4983",
           "5022",
@@ -8497,6 +8507,7 @@
           "7588",
           "8138",
           "9486",
+          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -8506,12 +8517,12 @@
           "11624": 0.0,
           "12490": 0.0,
           "12491": 0.0,
+          "12718": 0.0,
           "13380": 0.0,
           "13411": 0.0,
           "13413": 0.0,
-          "2020": 0.0,
+          "1945": 0.0,
           "4199": 0.0,
-          "4663": 0.0,
           "4943": 0.0,
           "4983": 0.0,
           "5022": 0.0,
@@ -8524,6 +8535,7 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
+          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -8539,8 +8551,8 @@
           "6801",
           "11586",
           "6804",
-          "2020",
-          "DEN"
+          "1945",
+          "BAL"
         ],
         "starters_points": [
           0.0,
@@ -9520,6 +9532,7 @@
           "11584",
           "11589",
           "11635",
+          "12494",
           "12497",
           "12501",
           "12509",
@@ -9540,7 +9553,6 @@
           "6904",
           "7021",
           "7528",
-          "7561",
           "7600",
           "8228",
           "8676",
@@ -9552,6 +9564,7 @@
           "11584": 0.0,
           "11589": 0.0,
           "11635": 0.0,
+          "12494": 0.0,
           "12497": 0.0,
           "12501": 0.0,
           "12509": 0.0,
@@ -9572,7 +9585,6 @@
           "6904": 0.0,
           "7021": 0.0,
           "7528": 0.0,
-          "7561": 0.0,
           "7600": 0.0,
           "8228": 0.0,
           "8676": 0.0,
@@ -9591,7 +9603,7 @@
           "5001",
           "12509",
           "13346",
-          "7561",
+          "0",
           "12497",
           "3451",
           "JAX"
@@ -9621,12 +9633,12 @@
           "11624",
           "12490",
           "12491",
+          "12718",
           "13380",
           "13411",
           "13413",
-          "2020",
+          "1945",
           "4199",
-          "4663",
           "4943",
           "4983",
           "5022",
@@ -9639,6 +9651,7 @@
           "7588",
           "8138",
           "9486",
+          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -9648,12 +9661,12 @@
           "11624": 0.0,
           "12490": 0.0,
           "12491": 0.0,
+          "12718": 0.0,
           "13380": 0.0,
           "13411": 0.0,
           "13413": 0.0,
-          "2020": 0.0,
+          "1945": 0.0,
           "4199": 0.0,
-          "4663": 0.0,
           "4943": 0.0,
           "4983": 0.0,
           "5022": 0.0,
@@ -9666,6 +9679,7 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
+          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -9681,8 +9695,8 @@
           "6801",
           "11586",
           "6804",
-          "2020",
-          "DEN"
+          "1945",
+          "BAL"
         ],
         "starters_points": [
           0.0,
@@ -10662,6 +10676,7 @@
           "11584",
           "11589",
           "11635",
+          "12494",
           "12497",
           "12501",
           "12509",
@@ -10682,7 +10697,6 @@
           "6904",
           "7021",
           "7528",
-          "7561",
           "7600",
           "8228",
           "8676",
@@ -10694,6 +10708,7 @@
           "11584": 0.0,
           "11589": 0.0,
           "11635": 0.0,
+          "12494": 0.0,
           "12497": 0.0,
           "12501": 0.0,
           "12509": 0.0,
@@ -10714,7 +10729,6 @@
           "6904": 0.0,
           "7021": 0.0,
           "7528": 0.0,
-          "7561": 0.0,
           "7600": 0.0,
           "8228": 0.0,
           "8676": 0.0,
@@ -10733,7 +10747,7 @@
           "5001",
           "12509",
           "13346",
-          "7561",
+          "0",
           "12497",
           "3451",
           "JAX"
@@ -10763,12 +10777,12 @@
           "11624",
           "12490",
           "12491",
+          "12718",
           "13380",
           "13411",
           "13413",
-          "2020",
+          "1945",
           "4199",
-          "4663",
           "4943",
           "4983",
           "5022",
@@ -10781,6 +10795,7 @@
           "7588",
           "8138",
           "9486",
+          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -10790,12 +10805,12 @@
           "11624": 0.0,
           "12490": 0.0,
           "12491": 0.0,
+          "12718": 0.0,
           "13380": 0.0,
           "13411": 0.0,
           "13413": 0.0,
-          "2020": 0.0,
+          "1945": 0.0,
           "4199": 0.0,
-          "4663": 0.0,
           "4943": 0.0,
           "4983": 0.0,
           "5022": 0.0,
@@ -10808,6 +10823,7 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
+          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -10823,8 +10839,8 @@
           "6801",
           "11586",
           "6804",
-          "2020",
-          "DEN"
+          "1945",
+          "BAL"
         ],
         "starters_points": [
           0.0,
@@ -11804,6 +11820,7 @@
           "11584",
           "11589",
           "11635",
+          "12494",
           "12497",
           "12501",
           "12509",
@@ -11824,7 +11841,6 @@
           "6904",
           "7021",
           "7528",
-          "7561",
           "7600",
           "8228",
           "8676",
@@ -11836,6 +11852,7 @@
           "11584": 0.0,
           "11589": 0.0,
           "11635": 0.0,
+          "12494": 0.0,
           "12497": 0.0,
           "12501": 0.0,
           "12509": 0.0,
@@ -11856,7 +11873,6 @@
           "6904": 0.0,
           "7021": 0.0,
           "7528": 0.0,
-          "7561": 0.0,
           "7600": 0.0,
           "8228": 0.0,
           "8676": 0.0,
@@ -11875,7 +11891,7 @@
           "5001",
           "12509",
           "13346",
-          "7561",
+          "0",
           "12497",
           "3451",
           "JAX"
@@ -11905,12 +11921,12 @@
           "11624",
           "12490",
           "12491",
+          "12718",
           "13380",
           "13411",
           "13413",
-          "2020",
+          "1945",
           "4199",
-          "4663",
           "4943",
           "4983",
           "5022",
@@ -11923,6 +11939,7 @@
           "7588",
           "8138",
           "9486",
+          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -11932,12 +11949,12 @@
           "11624": 0.0,
           "12490": 0.0,
           "12491": 0.0,
+          "12718": 0.0,
           "13380": 0.0,
           "13411": 0.0,
           "13413": 0.0,
-          "2020": 0.0,
+          "1945": 0.0,
           "4199": 0.0,
-          "4663": 0.0,
           "4943": 0.0,
           "4983": 0.0,
           "5022": 0.0,
@@ -11950,6 +11967,7 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
+          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -11965,8 +11983,8 @@
           "6801",
           "11586",
           "6804",
-          "2020",
-          "DEN"
+          "1945",
+          "BAL"
         ],
         "starters_points": [
           0.0,
@@ -20990,6 +21008,7 @@
           "13380",
           "13411",
           "13413",
+          "1945",
           "2020",
           "4199",
           "4663",
@@ -21018,6 +21037,7 @@
           "13380": 0.0,
           "13411": 2.3,
           "13413": 0.0,
+          "1945": 0.0,
           "2020": 9.0,
           "4199": 3.1,
           "4663": 5.4,
@@ -22211,7 +22231,7 @@
       ],
       "first_name": "J.J.",
       "full_name": "J.J. McCarthy",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "McCarthy",
       "nfl_team": "NYG",
       "player_id": "11565",
@@ -22286,7 +22306,7 @@
       ],
       "first_name": "MarShawn",
       "full_name": "MarShawn Lloyd",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Lloyd",
       "nfl_team": "GB",
       "player_id": "11581",
@@ -22436,7 +22456,7 @@
       ],
       "first_name": "Xavier",
       "full_name": "Xavier Worthy",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Worthy",
       "nfl_team": "KC",
       "player_id": "11624",
@@ -22586,7 +22606,7 @@
       ],
       "first_name": "Jaylen",
       "full_name": "Jaylen Wright",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Wright",
       "nfl_team": "MIA",
       "player_id": "11643",
@@ -22811,7 +22831,7 @@
       ],
       "first_name": "Cam",
       "full_name": "Cam Skattebo",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Skattebo",
       "nfl_team": "NYG",
       "player_id": "12481",
@@ -22951,6 +22971,21 @@
       "nfl_team": "LAC",
       "player_id": "12493",
       "position": "TE",
+      "status": "Active",
+      "years_exp": 1
+    },
+    "12494": {
+      "age": 24,
+      "fantasy_positions": [
+        "QB"
+      ],
+      "first_name": "Kyle",
+      "full_name": "Kyle McCord",
+      "injury_status": null,
+      "last_name": "McCord",
+      "nfl_team": "MIA",
+      "player_id": "12494",
+      "position": "QB",
       "status": "Active",
       "years_exp": 1
     },
@@ -23276,7 +23311,7 @@
       ],
       "first_name": "TreVeyon",
       "full_name": "TreVeyon Henderson",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Henderson",
       "nfl_team": "NE",
       "player_id": "12529",
@@ -23435,6 +23470,21 @@
       "status": "Inactive",
       "years_exp": 1
     },
+    "12718": {
+      "age": 24,
+      "fantasy_positions": [
+        "WR"
+      ],
+      "first_name": "Konata",
+      "full_name": "Konata Mumpfield",
+      "injury_status": null,
+      "last_name": "Mumpfield",
+      "nfl_team": "LAR",
+      "player_id": "12718",
+      "position": "WR",
+      "status": "Active",
+      "years_exp": 1
+    },
     "13150": {
       "age": 24,
       "fantasy_positions": [
@@ -23457,7 +23507,7 @@
       ],
       "first_name": "Elijah",
       "full_name": "Elijah Sarratt",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Sarratt",
       "nfl_team": "BAL",
       "player_id": "13268",
@@ -23532,7 +23582,7 @@
       ],
       "first_name": "Ty",
       "full_name": "Ty Simpson",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Simpson",
       "nfl_team": "LAR",
       "player_id": "13275",
@@ -23577,7 +23627,7 @@
       ],
       "first_name": "Carnell",
       "full_name": "Carnell Tate",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Tate",
       "nfl_team": "TEN",
       "player_id": "13279",
@@ -23667,7 +23717,7 @@
       ],
       "first_name": "Drew",
       "full_name": "Drew Allar",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Allar",
       "nfl_team": "PIT",
       "player_id": "13289",
@@ -23727,7 +23777,7 @@
       ],
       "first_name": "KC",
       "full_name": "KC Concepcion Jr.",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Concepcion Jr.",
       "nfl_team": "CLE",
       "player_id": "13298",
@@ -23802,7 +23852,7 @@
       ],
       "first_name": "Taylen",
       "full_name": "Taylen Green",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Green",
       "nfl_team": "CLE",
       "player_id": "13306",
@@ -23862,7 +23912,7 @@
       ],
       "first_name": "Zachariah",
       "full_name": "Zachariah Branch",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "last_name": "Branch",
       "nfl_team": "ATL",
       "player_id": "13320",
@@ -23877,7 +23927,7 @@
       ],
       "first_name": "Malik",
       "full_name": "Malik Benson",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Benson",
       "nfl_team": "LV",
       "player_id": "13329",
@@ -24042,7 +24092,7 @@
       ],
       "first_name": "Brenen",
       "full_name": "Brenen Thompson",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Thompson",
       "nfl_team": "LAC",
       "player_id": "13380",
@@ -24087,7 +24137,7 @@
       ],
       "first_name": "Justin",
       "full_name": "Justin Joly",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Joly",
       "nfl_team": "MIA",
       "player_id": "13400",
@@ -24117,7 +24167,7 @@
       ],
       "first_name": "Skyler",
       "full_name": "Skyler Bell",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Bell",
       "nfl_team": "BUF",
       "player_id": "13402",
@@ -24147,7 +24197,7 @@
       ],
       "first_name": "Garrett",
       "full_name": "Garrett Nussmeier",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Nussmeier",
       "nfl_team": "KC",
       "player_id": "13404",
@@ -24222,7 +24272,7 @@
       ],
       "first_name": "Haynes",
       "full_name": "Haynes King",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "King",
       "nfl_team": "CAR",
       "player_id": "13415",
@@ -24282,7 +24332,7 @@
       ],
       "first_name": "Eli",
       "full_name": "Eli Heidenreich",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Heidenreich",
       "nfl_team": "PIT",
       "player_id": "13423",
@@ -24372,7 +24422,7 @@
       ],
       "first_name": "Jack",
       "full_name": "Jack Strand",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Strand",
       "nfl_team": "ATL",
       "player_id": "13602",
@@ -24440,17 +24490,17 @@
       "status": "Active",
       "years_exp": 13
     },
-    "2020": {
-      "age": 34,
+    "1945": {
+      "age": 35,
       "fantasy_positions": [
         "K"
       ],
-      "first_name": "Cairo",
-      "full_name": "Cairo Santos",
+      "first_name": "Chris",
+      "full_name": "Chris Boswell",
       "injury_status": null,
-      "last_name": "Santos",
-      "nfl_team": "CHI",
-      "player_id": "2020",
+      "last_name": "Boswell",
+      "nfl_team": "PIT",
+      "player_id": "1945",
       "position": "K",
       "status": "Active",
       "years_exp": 12
@@ -24477,7 +24527,7 @@
       ],
       "first_name": "Mike",
       "full_name": "Mike Evans",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Evans",
       "nfl_team": "SF",
       "player_id": "2216",
@@ -24702,7 +24752,7 @@
       ],
       "first_name": "Deshaun",
       "full_name": "Deshaun Watson",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Watson",
       "nfl_team": "CLE",
       "player_id": "4017",
@@ -24872,21 +24922,6 @@
       "nfl_team": "SF",
       "player_id": "4217",
       "position": "TE",
-      "status": "Active",
-      "years_exp": 9
-    },
-    "4663": {
-      "age": 31,
-      "fantasy_positions": [
-        "RB"
-      ],
-      "first_name": "Austin",
-      "full_name": "Austin Ekeler",
-      "injury_status": null,
-      "last_name": "Ekeler",
-      "nfl_team": "WAS",
-      "player_id": "4663",
-      "position": "RB",
       "status": "Active",
       "years_exp": 9
     },
@@ -25122,7 +25157,7 @@
       ],
       "first_name": "Kyler",
       "full_name": "Kyler Murray",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "last_name": "Murray",
       "nfl_team": "MIN",
       "player_id": "5849",
@@ -25167,7 +25202,7 @@
       ],
       "first_name": "A.J.",
       "full_name": "A.J. Brown",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Brown",
       "nfl_team": "NE",
       "player_id": "5859",
@@ -25197,7 +25232,7 @@
       ],
       "first_name": "Deebo",
       "full_name": "Deebo Samuel Sr.",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Samuel Sr.",
       "nfl_team": "SF",
       "player_id": "5872",
@@ -25212,7 +25247,7 @@
       ],
       "first_name": "David",
       "full_name": "David Montgomery",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Montgomery",
       "nfl_team": "HOU",
       "player_id": "5892",
@@ -25602,7 +25637,7 @@
       ],
       "first_name": "Jauan",
       "full_name": "Jauan Jennings",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Jennings",
       "nfl_team": "MIN",
       "player_id": "7049",
@@ -25617,7 +25652,7 @@
       ],
       "first_name": "Darnell",
       "full_name": "Darnell Mooney",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Mooney",
       "nfl_team": "NYG",
       "player_id": "7090",
@@ -25742,21 +25777,6 @@
       "nfl_team": "ATL",
       "player_id": "7553",
       "position": "TE",
-      "status": "Active",
-      "years_exp": 5
-    },
-    "7561": {
-      "age": 28,
-      "fantasy_positions": [
-        "RB"
-      ],
-      "first_name": "Elijah",
-      "full_name": "Elijah Mitchell",
-      "injury_status": null,
-      "last_name": "Mitchell",
-      "nfl_team": "PHI",
-      "player_id": "7561",
-      "position": "RB",
       "status": "Active",
       "years_exp": 5
     },
@@ -25902,7 +25922,7 @@
       ],
       "first_name": "Rhamondre",
       "full_name": "Rhamondre Stevenson",
-      "injury_status": "Out",
+      "injury_status": "Doubtful",
       "last_name": "Stevenson",
       "nfl_team": "NE",
       "player_id": "7611",
@@ -26082,7 +26102,7 @@
       ],
       "first_name": "Treylon",
       "full_name": "Treylon Burks",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Burks",
       "nfl_team": "WAS",
       "player_id": "8135",
@@ -26112,7 +26132,7 @@
       ],
       "first_name": "George",
       "full_name": "George Pickens",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Pickens",
       "nfl_team": "DAL",
       "player_id": "8137",
@@ -26172,7 +26192,7 @@
       ],
       "first_name": "Garrett",
       "full_name": "Garrett Wilson",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Wilson",
       "nfl_team": "NYJ",
       "player_id": "8146",
@@ -26337,7 +26357,7 @@
       ],
       "first_name": "Chig",
       "full_name": "Chig Okonkwo",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Okonkwo",
       "nfl_team": "WAS",
       "player_id": "8210",
@@ -26397,7 +26417,7 @@
       ],
       "first_name": "Rashid",
       "full_name": "Rashid Shaheed",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Shaheed",
       "nfl_team": "SEA",
       "player_id": "8676",
@@ -26607,7 +26627,7 @@
       ],
       "first_name": "Puka",
       "full_name": "Puka Nacua",
-      "injury_status": "Questionable",
+      "injury_status": "Doubtful",
       "last_name": "Nacua",
       "nfl_team": "LAR",
       "player_id": "9493",
@@ -26697,7 +26717,7 @@
       ],
       "first_name": "Tyjae",
       "full_name": "Tyjae Spears",
-      "injury_status": "Out",
+      "injury_status": "Questionable",
       "last_name": "Spears",
       "nfl_team": "TEN",
       "player_id": "9508",
@@ -26839,6 +26859,21 @@
       "position": "WR",
       "status": "Active",
       "years_exp": 3
+    },
+    "BAL": {
+      "age": null,
+      "fantasy_positions": [
+        "DEF"
+      ],
+      "first_name": "Baltimore",
+      "full_name": null,
+      "injury_status": null,
+      "last_name": "Ravens",
+      "nfl_team": "BAL",
+      "player_id": "BAL",
+      "position": "DEF",
+      "status": null,
+      "years_exp": null
     },
     "BUF": {
       "age": null,
@@ -27119,8 +27154,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-11T02:06:09Z",
-    "source_fingerprint": "53ec66b2f269198a943bba66457f0167d24fe281ed4d9a52e86a7fc35c6ec298"
+    "last_changed_at": "2026-11-11T09:14:49Z",
+    "source_fingerprint": "71053f2a5d12453aca444fcebbb9f1b527406da4a6be06faa5b4df2e06072826"
   },
   "teams": [
     {
@@ -27218,6 +27253,7 @@
         "11584",
         "11589",
         "11635",
+        "12494",
         "12497",
         "12501",
         "12509",
@@ -27238,7 +27274,6 @@
         "6904",
         "7021",
         "7528",
-        "7561",
         "7600",
         "8228",
         "8676",
@@ -27265,7 +27300,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 11,
         "wins": 4
       },
       "starter_ids": [
@@ -27277,7 +27312,6 @@
         "5001",
         "12509",
         "13346",
-        "7561",
         "12497",
         "3451",
         "JAX"
@@ -27303,12 +27337,12 @@
         "11624",
         "12490",
         "12491",
+        "12718",
         "13380",
         "13411",
         "13413",
-        "2020",
+        "1945",
         "4199",
-        "4663",
         "4943",
         "4983",
         "5022",
@@ -27321,6 +27355,7 @@
         "7588",
         "8138",
         "9486",
+        "BAL",
         "DEN"
       ],
       "reserve_ids": [
@@ -27353,8 +27388,8 @@
         "6801",
         "11586",
         "6804",
-        "2020",
-        "DEN"
+        "1945",
+        "BAL"
       ],
       "taxi_ids": [
         "13380",
@@ -27420,7 +27455,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 5
       },
       "starter_ids": [
@@ -27507,7 +27542,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_position": 8,
         "wins": 4
       },
       "starter_ids": [
@@ -27753,7 +27788,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 3
       },
       "starter_ids": [
@@ -38119,6 +38154,62 @@
     ],
     "9": [
       {
+        "adds": {
+          "12494": 2
+        },
+        "consenter_ids": [
+          2
+        ],
+        "created": 1794360100408,
+        "creator": "988885525681557504",
+        "draft_picks": [],
+        "drops": {
+          "7561": 2
+        },
+        "leg": 9,
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "roster_ids": [
+          2
+        ],
+        "settings": {
+          "seq": 0
+        },
+        "status": "complete",
+        "status_updated": 1794384797747,
+        "transaction_id": "1426053256366260224",
+        "type": "waiver",
+        "waiver_budget": []
+      },
+      {
+        "adds": {
+          "12494": 4
+        },
+        "consenter_ids": [
+          4
+        ],
+        "created": 1794350584334,
+        "creator": "729481106830819328",
+        "draft_picks": [],
+        "drops": null,
+        "leg": 9,
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        },
+        "roster_ids": [
+          4
+        ],
+        "settings": {
+          "seq": 1
+        },
+        "status": "failed",
+        "status_updated": 1794384797747,
+        "transaction_id": "1426013343059034112",
+        "type": "waiver",
+        "waiver_budget": []
+      },
+      {
         "adds": null,
         "consenter_ids": [
           9
@@ -38162,6 +38253,91 @@
         "status_updated": 1794342358596,
         "transaction_id": "1425978841817448448",
         "type": "free_agent",
+        "waiver_budget": []
+      },
+      {
+        "adds": {
+          "BAL": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "created": 1794298232634,
+        "creator": "726599421160165377",
+        "draft_picks": [],
+        "drops": null,
+        "leg": 9,
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "roster_ids": [
+          3
+        ],
+        "settings": {
+          "seq": 4
+        },
+        "status": "complete",
+        "status_updated": 1794384797747,
+        "transaction_id": "1425793764118511616",
+        "type": "waiver",
+        "waiver_budget": []
+      },
+      {
+        "adds": {
+          "1945": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "created": 1794298169887,
+        "creator": "726599421160165377",
+        "draft_picks": [],
+        "drops": {
+          "2020": 3
+        },
+        "leg": 9,
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "roster_ids": [
+          3
+        ],
+        "settings": {
+          "seq": 3
+        },
+        "status": "complete",
+        "status_updated": 1794384797747,
+        "transaction_id": "1425793500934332416",
+        "type": "waiver",
+        "waiver_budget": []
+      },
+      {
+        "adds": {
+          "12718": 3
+        },
+        "consenter_ids": [
+          3
+        ],
+        "created": 1794262421452,
+        "creator": "726599421160165377",
+        "draft_picks": [],
+        "drops": {
+          "4663": 3
+        },
+        "leg": 9,
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        },
+        "roster_ids": [
+          3
+        ],
+        "settings": {
+          "seq": 2
+        },
+        "status": "complete",
+        "status_updated": 1794384797747,
+        "transaction_id": "1425643561130418176",
+        "type": "waiver",
         "waiver_budget": []
       },
       {
