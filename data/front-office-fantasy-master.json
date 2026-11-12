@@ -25544,7 +25544,7 @@
       ],
       "first_name": "Colby",
       "full_name": "Colby Parkinson",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Parkinson",
       "nfl_team": "LAR",
       "player_id": "6865",
@@ -26399,7 +26399,7 @@
       ],
       "first_name": "Rashid",
       "full_name": "Rashid Shaheed",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Shaheed",
       "nfl_team": "SEA",
       "player_id": "8676",
@@ -27121,8 +27121,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-11T23:25:37Z",
-    "source_fingerprint": "4a0910e2b8bbf06dd4c07e03c25ff6d8a7651a9ca8e9bade0e63d93b4f4a2f1d"
+    "last_changed_at": "2026-11-12T03:57:22Z",
+    "source_fingerprint": "b0392015c87d8cdc1657f63696a818d1358319c451ed2b6ca67a1bd1b52bf33b"
   },
   "teams": [
     {
