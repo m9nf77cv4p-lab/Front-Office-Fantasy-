@@ -15,7 +15,7 @@
 - Roster 5: **Mozzarella Cheese** (Revont) — 31 players
 - Roster 6: **midedunni** (midedunni) — 31 players
 - Roster 7: **theGOATcheese** (kylemercer87) — 27 players
-- Roster 8: **We Fly High** (cabot9188) — 31 players
+- Roster 8: **We Fly High** (cabot9188) — 30 players
 - Roster 9: **Multiple Scorgasims** (PrimeTime000) — 26 players
 - Roster 10: **TJS2025** (TJS2025) — 27 players
 - Roster 11: **DTX Dawgs** (JEllerbe) — 26 players
