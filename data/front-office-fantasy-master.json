@@ -21958,7 +21958,7 @@
       ],
       "first_name": "Chris",
       "full_name": "Chris Rodriguez Jr.",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Rodriguez Jr.",
       "nfl_team": "JAX",
       "player_id": "10219",
@@ -22798,7 +22798,7 @@
       ],
       "first_name": "Savion",
       "full_name": "Savion Williams",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Williams",
       "nfl_team": "GB",
       "player_id": "12482",
@@ -23053,7 +23053,7 @@
       ],
       "first_name": "Harold",
       "full_name": "Harold Fannin Jr.",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Fannin Jr.",
       "nfl_team": "CLE",
       "player_id": "12506",
@@ -23098,7 +23098,7 @@
       ],
       "first_name": "Tre'",
       "full_name": "Tre' Harris",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Harris",
       "nfl_team": "LAC",
       "player_id": "12509",
@@ -24344,7 +24344,7 @@
       ],
       "first_name": "Will",
       "full_name": "Will Kacmarek",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Kacmarek",
       "nfl_team": "MIA",
       "player_id": "13434",
@@ -24509,7 +24509,7 @@
       ],
       "first_name": "Mike",
       "full_name": "Mike Evans",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Evans",
       "nfl_team": "SF",
       "player_id": "2216",
@@ -24569,7 +24569,7 @@
       ],
       "first_name": "Carson",
       "full_name": "Carson Wentz",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Wentz",
       "nfl_team": "MIN",
       "player_id": "3161",
@@ -24644,7 +24644,7 @@
       ],
       "first_name": "Tyler",
       "full_name": "Tyler Higbee",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Higbee",
       "nfl_team": "LAR",
       "player_id": "3271",
@@ -25154,7 +25154,7 @@
       ],
       "first_name": "Drew",
       "full_name": "Drew Lock",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Lock",
       "nfl_team": "SEA",
       "player_id": "5854",
@@ -25199,7 +25199,7 @@
       ],
       "first_name": "Deebo",
       "full_name": "Deebo Samuel Sr.",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Samuel Sr.",
       "nfl_team": "SF",
       "player_id": "5872",
@@ -25268,7 +25268,7 @@
       "years_exp": 7
     },
     "5995": {
-      "age": 28,
+      "age": 29,
       "fantasy_positions": [
         "RB"
       ],
@@ -25559,7 +25559,7 @@
       ],
       "first_name": "Colby",
       "full_name": "Colby Parkinson",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Parkinson",
       "nfl_team": "LAR",
       "player_id": "6865",
@@ -25658,7 +25658,7 @@
       "years_exp": 5
     },
     "7525": {
-      "age": 27,
+      "age": 28,
       "fantasy_positions": [
         "WR"
       ],
@@ -25814,7 +25814,7 @@
       ],
       "first_name": "Rashod",
       "full_name": "Rashod Bateman",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Bateman",
       "nfl_team": "BAL",
       "player_id": "7571",
@@ -26114,7 +26114,7 @@
       ],
       "first_name": "George",
       "full_name": "George Pickens",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Pickens",
       "nfl_team": "DAL",
       "player_id": "8137",
@@ -27121,8 +27121,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-13T21:28:44Z",
-    "source_fingerprint": "0501e197f3cd146d0e3b86dade1752d5620357687178837f4189ad58854e340f"
+    "last_changed_at": "2026-11-14T01:34:04Z",
+    "source_fingerprint": "d8c8fcc4ebaac300fddf436b6b458bc517b10dc2036ce8540e242ab821476251"
   },
   "teams": [
     {
