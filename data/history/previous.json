@@ -1387,7 +1387,7 @@
       "disable_trades": 0,
       "draft_rounds": 4,
       "faab_suggestions": 0,
-      "last_report": 9,
+      "last_report": 10,
       "last_scored_leg": 10,
       "league_average_match": 0,
       "leg": 10,
@@ -3924,7 +3924,6 @@
           "7588",
           "8138",
           "9486",
-          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -3953,7 +3952,6 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
-          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -5062,7 +5060,6 @@
           "7588",
           "8138",
           "9486",
-          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -5091,7 +5088,6 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
-          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -6200,7 +6196,6 @@
           "7588",
           "8138",
           "9486",
-          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -6229,7 +6224,6 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
-          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -7338,7 +7332,6 @@
           "7588",
           "8138",
           "9486",
-          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -7367,7 +7360,6 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
-          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -8476,7 +8468,6 @@
           "7588",
           "8138",
           "9486",
-          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -8505,7 +8496,6 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
-          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -9614,7 +9604,6 @@
           "7588",
           "8138",
           "9486",
-          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -9643,7 +9632,6 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
-          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -10752,7 +10740,6 @@
           "7588",
           "8138",
           "9486",
-          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -10781,7 +10768,6 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
-          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -11890,7 +11876,6 @@
           "7588",
           "8138",
           "9486",
-          "BAL",
           "DEN"
         ],
         "players_points": {
@@ -11919,7 +11904,6 @@
           "7588": 0.0,
           "8138": 0.0,
           "9486": 0.0,
-          "BAL": 0.0,
           "DEN": 0.0
         },
         "points": 0.0,
@@ -26761,21 +26745,6 @@
       "status": "Active",
       "years_exp": 3
     },
-    "BAL": {
-      "age": null,
-      "fantasy_positions": [
-        "DEF"
-      ],
-      "first_name": "Baltimore",
-      "full_name": null,
-      "injury_status": null,
-      "last_name": "Ravens",
-      "nfl_team": "BAL",
-      "player_id": "BAL",
-      "position": "DEF",
-      "status": null,
-      "years_exp": null
-    },
     "BUF": {
       "age": null,
       "fantasy_positions": [
@@ -27055,8 +27024,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-17T08:43:47Z",
-    "source_fingerprint": "c5289160145d999d883cfd8426d71e407cb7dec59c1b9343eae3bc6c64fd785f"
+    "last_changed_at": "2026-11-17T17:53:41Z",
+    "source_fingerprint": "2bec9e4adc329ad5ea13cfd5e27681237c639d9632524a3862b67693d14576a9"
   },
   "teams": [
     {
@@ -27256,7 +27225,6 @@
         "7588",
         "8138",
         "9486",
-        "BAL",
         "DEN"
       ],
       "reserve_ids": [
@@ -27289,8 +27257,7 @@
         "6801",
         "11586",
         "6804",
-        "1945",
-        "BAL"
+        "1945"
       ],
       "taxi_ids": [
         "13380",
@@ -32946,6 +32913,29 @@
       }
     ],
     "10": [
+      {
+        "adds": null,
+        "consenter_ids": [
+          3
+        ],
+        "created": 1794917761911,
+        "creator": "726599421160165377",
+        "draft_picks": [],
+        "drops": {
+          "BAL": 3
+        },
+        "leg": 10,
+        "metadata": null,
+        "roster_ids": [
+          3
+        ],
+        "settings": null,
+        "status": "complete",
+        "status_updated": 1794917761911,
+        "transaction_id": "1428392258243162112",
+        "type": "free_agent",
+        "waiver_budget": []
+      },
       {
         "adds": null,
         "consenter_ids": [
