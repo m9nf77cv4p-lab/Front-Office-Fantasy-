@@ -23479,7 +23479,7 @@
       "years_exp": 0
     },
     "13272": {
-      "age": 23,
+      "age": 24,
       "fantasy_positions": [
         "QB"
       ],
@@ -25675,7 +25675,7 @@
       ],
       "first_name": "Mac",
       "full_name": "Mac Jones",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Jones",
       "nfl_team": "SF",
       "player_id": "7527",
@@ -27057,8 +27057,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-18T22:58:34Z",
-    "source_fingerprint": "5707d8696a0b9f2877b90f5bce5e921424d1076cf0895301cec70decd45bd38e"
+    "last_changed_at": "2026-11-19T03:57:44Z",
+    "source_fingerprint": "2c8d1ed75935543d7ceb633d63bf52748f065009b50f092d2bf42bca314ddb2f"
   },
   "teams": [
     {
