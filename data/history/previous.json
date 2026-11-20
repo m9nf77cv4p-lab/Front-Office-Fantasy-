@@ -23514,7 +23514,7 @@
       ],
       "first_name": "Omar",
       "full_name": "Omar Cooper Jr.",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Cooper Jr.",
       "nfl_team": "NYJ",
       "player_id": "13276",
@@ -25929,9 +25929,9 @@
       ],
       "first_name": "Pierre",
       "full_name": "Pierre Strong Jr.",
-      "injury_status": "Out",
+      "injury_status": null,
       "last_name": "Strong Jr.",
-      "nfl_team": "GB",
+      "nfl_team": null,
       "player_id": "8116",
       "position": "RB",
       "status": "Active",
@@ -27026,8 +27026,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-20T09:17:18Z",
-    "source_fingerprint": "9011533e9902b82c12b2936c7b8b629e73ca363cbfb5af4b58115086d3b2914a"
+    "last_changed_at": "2026-11-20T17:51:28Z",
+    "source_fingerprint": "2838ed4c2ae8b540f4d157b0b31dd92205da853f13cf17afa1076d83ca21a810"
   },
   "teams": [
     {
