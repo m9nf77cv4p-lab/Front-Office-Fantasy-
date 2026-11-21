@@ -23485,7 +23485,7 @@
       ],
       "first_name": "Carson",
       "full_name": "Carson Beck",
-      "injury_status": "Questionable",
+      "injury_status": "Out",
       "last_name": "Beck",
       "nfl_team": "ARI",
       "player_id": "13272",
@@ -25212,7 +25212,7 @@
       "full_name": "Daniel Jones",
       "injury_status": null,
       "last_name": "Jones",
-      "nfl_team": "IND",
+      "nfl_team": null,
       "player_id": "5870",
       "position": "QB",
       "status": "Active",
@@ -26665,12 +26665,12 @@
       ],
       "first_name": "Tyjae",
       "full_name": "Tyjae Spears",
-      "injury_status": "Questionable",
+      "injury_status": "IR",
       "last_name": "Spears",
       "nfl_team": "TEN",
       "player_id": "9508",
       "position": "RB",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 3
     },
     "9509": {
@@ -27057,8 +27057,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-21T04:04:57Z",
-    "source_fingerprint": "560262d6343678091adf7e62daa2cac71999c0e779c8eb1e9c81ea0b1cb551f2"
+    "last_changed_at": "2026-11-21T19:38:16Z",
+    "source_fingerprint": "faf811a6ec18ba7630969caba8bd6ed1442e4bd223e9b9c06949fb20c3577c7b"
   },
   "teams": [
     {

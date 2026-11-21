@@ -22464,12 +22464,12 @@
       ],
       "first_name": "Roman",
       "full_name": "Roman Wilson",
-      "injury_status": "IR",
+      "injury_status": "Questionable",
       "last_name": "Wilson",
       "nfl_team": "PIT",
       "player_id": "11630",
       "position": "WR",
-      "status": "Inactive",
+      "status": "Active",
       "years_exp": 2
     },
     "11631": {
@@ -25962,7 +25962,7 @@
       "full_name": "Pierre Strong Jr.",
       "injury_status": null,
       "last_name": "Strong Jr.",
-      "nfl_team": null,
+      "nfl_team": "GB",
       "player_id": "8116",
       "position": "RB",
       "status": "Active",
@@ -26065,7 +26065,7 @@
       ],
       "first_name": "Treylon",
       "full_name": "Treylon Burks",
-      "injury_status": "Questionable",
+      "injury_status": null,
       "last_name": "Burks",
       "nfl_team": "WAS",
       "player_id": "8135",
@@ -26185,7 +26185,7 @@
       ],
       "first_name": "Kyren",
       "full_name": "Kyren Williams",
-      "injury_status": null,
+      "injury_status": "Questionable",
       "last_name": "Williams",
       "nfl_team": "LAR",
       "player_id": "8150",
@@ -26545,12 +26545,12 @@
       ],
       "first_name": "Dontayvion",
       "full_name": "Dontayvion Wicks",
-      "injury_status": "Out",
+      "injury_status": "IR",
       "last_name": "Wicks",
       "nfl_team": "PHI",
       "player_id": "9486",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 3
     },
     "9487": {
@@ -27057,8 +27057,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-21T19:38:16Z",
-    "source_fingerprint": "faf811a6ec18ba7630969caba8bd6ed1442e4bd223e9b9c06949fb20c3577c7b"
+    "last_changed_at": "2026-11-21T23:54:19Z",
+    "source_fingerprint": "bbd80e7f1e83fabbb0662dc79fc7f6919c596b6adaf2bf6bc45ccd289c65b12a"
   },
   "teams": [
     {
