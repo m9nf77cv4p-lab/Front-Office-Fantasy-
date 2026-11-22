@@ -22773,7 +22773,7 @@
       "years_exp": 1
     },
     "12482": {
-      "age": 24,
+      "age": 25,
       "fantasy_positions": [
         "WR"
       ],
@@ -23419,7 +23419,7 @@
       "years_exp": 1
     },
     "13150": {
-      "age": 24,
+      "age": 25,
       "fantasy_positions": [
         "WR"
       ],
@@ -25999,7 +25999,7 @@
       "years_exp": 4
     },
     "8130": {
-      "age": 26,
+      "age": 27,
       "fantasy_positions": [
         "TE"
       ],
@@ -26595,7 +26595,7 @@
       "nfl_team": "LAR",
       "player_id": "9493",
       "position": "WR",
-      "status": "Active",
+      "status": "Inactive",
       "years_exp": 3
     },
     "9500": {
@@ -27057,8 +27057,8 @@
     "provider": "Sleeper"
   },
   "sync": {
-    "last_changed_at": "2026-11-21T23:54:19Z",
-    "source_fingerprint": "bbd80e7f1e83fabbb0662dc79fc7f6919c596b6adaf2bf6bc45ccd289c65b12a"
+    "last_changed_at": "2026-11-22T03:34:47Z",
+    "source_fingerprint": "cb33852b0e796af48479834ca09ee25a04153371ca7525bbf80fbdd4049b93ef"
   },
   "teams": [
     {
